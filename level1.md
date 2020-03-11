@@ -24,9 +24,11 @@ On top of this, you can do things to stay as healthy as possible:
 
 * Breathe fresh air as often as possible.
 * Ventilate your rooms frequently.
-* Eat appropriate amounts of vitamin-rich, healthy food. Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. Adequate carbohydrate intake is also important. 
+* Eat appropriate amounts of vitamin-rich, healthy food. Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. Adequate carbohydrate and general nutrient intake are also important. 
+* Hydrate. 
 * Get regular exercise.
-* Stop smoking (see below).
+* Stop smoking.
+* Avoid heavy drinking and drug use, as they suppress immmune function.
 
 ### Prepare
 
