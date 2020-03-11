@@ -1,12 +1,14 @@
-This document was made as a result of the Covid-19 pandemic, but much of the advice is probably applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of the pandemic in one place. While we consulted with nurses and doctors on much of this advice, most of this text was written by the non-medically trained, trying to puzzle together what makes sense in this new situation. At a time of crisis **YOU SHOULD LISTEN TO DOCTORS** when given the choice between that and something you found on the internet.
+# Covid @ Home
+
+a guide for caring for Covid-19 patients at home
+
+This document was made as a result of the Covid pandemic, but much of the advice is probably applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of the pandemic in one place. 
 
 As we write this in Berlin, Germany in mid March 2020, much about the virus is still unclear, but numbers of infected and dead have been rising steadily, most recently in Italy. While it is not - ever - time to panic, it is time to think and prepare.
 
-This guide is based on the assumption that in the coming months, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that hospitals are going to be very busy if not overloaded. We have to confront the likelihood that some of the people who would normally be cared for in a medical setting will need to be cared for at home. We hope some of the information here will give you some confidence in dealing with this disaease, which in and by itself will reduce the load on doctors and nurses that, from the looks of it, will be quite busy in weeks and months to come.
+This guide assumes that in the coming months and years, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that hospitals are going to be very busy if not overloaded. We have to confront the likelihood that some of the people who would normally be cared for in a medical setting will need to be cared for at home. 
 
-This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information that is more local to where you are.
-
-**WARNING:** *As of March 11, 2020 this website is a work in progress and should at this time only be used as inspiration for further thinking. Things are going to be incomplete or even wrong as we work with experts to make it better.*
+WARNING: This document at present is a work in progress and should at this time only be used as inspiratioon for further thinking. Things are going to be incomplete or even wrong as we work with experts to make it better.
 
 &nbsp; 
 
@@ -48,6 +50,8 @@ And on top of that, you can prepare so that you are familiar with the things tha
 
 If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by Covid / pneumonia. People with conditions that involve lungs / breathing problems should make extra sure they have plenty of all the necessary medication (see Supplies). Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
 
+During pandemics, it is generally typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to suffer because doctors, hospital systems, and the rest of the healthcare system may be overloaded, and because people may be afraid to go to doctors or hospitals for fear (sometimes rational) of being exposed to disease. Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? 
+
 &nbsp; 
 
 ## Level 2 -- Emerging Symptoms
@@ -78,7 +82,7 @@ It's time to start an illness diary. A few times a day, preferably at regular ho
 
 ### Get healthy again
 
-Treat fever with over-the-counter medication of your preference (e.g., paracetamol) at the recommended safe dosages; getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable). Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates. Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and herbal teas are better choices then. If your mucus production is high, consider avoiding dairy as it can increase mucus production; avoiding dairy, excessive salt intake, and nitrates (which are used in most cold cuts / deli meats) is also recommended for people with lung disease. If you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, over-the-counter cough medications, herbal teas such as anise, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
+Treat fever with over-the-counter medication of your preference (e.g., paracetamol) at the recommended safe dosages; getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable). Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates. Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and herbal teas are better choices then. If your mucus production is high, consider avoiding dairy as it can increase mucus production; avoiding dairy, excessive salt intake, and nitrates (which are used in most cold cuts / deli meats) is also recommended for people with lung disease. If you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
 
 
 ### Well again?
