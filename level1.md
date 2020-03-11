@@ -42,7 +42,7 @@ What sorts of existing medical conditions are especially likely to make you / yo
 - Conditions that involve lungs / breathing problems (e.g., asthma, COPD).
 - Conditions that involve lower platelet or lymphocyte counts, as Covid (like many viral illnesses) may further decrease platelet and lymphocyte counts. 
 - Conditions that require taking blood thinners or immunosuppressant medications (maybe talk to a doctor about stopping them temporarily while you are ill, see above). 
--  Other chronic hematologic, metabolic, neurologic, neuromuscular, cardiovascular, renal, or hepatic disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, congestive heart failure, kidney disease). 
+-  Other chronic hematologic, metabolic, neurologic, neuromuscular, cardiovascular, renal, or hepatic disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, hypertension, congestive heart failure, kidney disease). 
 
 
 During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to suffer because doctors, hospital systems, and the rest of the healthcare system may be overloaded, and because people may be afraid to go to doctors or hospitals for fear (sometimes rational) of being exposed to disease. Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? 
