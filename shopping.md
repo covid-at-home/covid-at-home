@@ -42,7 +42,7 @@ Here are some necessary and handy things to have if you are going to be taking c
    >
    > Sick people sometimes have accidents. You'll thank us.
 
-* **Vitamins** (a few EUR/USD)
-   > ![](/images/multi-vitamin.png) ([example](https://www.amazon.de/dp/B07S63PCZK))
+* **Vitamins** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07S63PCZK))
+   > ![](/images/multi-vitamin.png)
    >
    > For when the patient doesn't eat (much) anymore but still drinks. Maybe take the big multi-vitamin pills that fizz into water, a couple of tubes of those. Try getting ones that contain roughly 1-2 times the daily recommended dose of all the vitamins and minerals they contain, no crazy 1000% megadoses.
