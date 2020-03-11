@@ -22,7 +22,8 @@
    > 
    > There are simple tricks to see if someone's blood pressure is getting too low (see the main text on this site). However it doesn't hurt to be able to measure this more objectively, especially if you want to see/show a trend in the patient's blood pressure.
 
-* **Incontinence / waterproof sheets**
-
+* **Incontinence / waterproof sheets** (20 EUR/USD or so) ([example](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) or [example](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
+   > ![](/images/sheet.png)
+   >
    > Sick people sometimes have accidents. You'll thank us.
 
