@@ -1,7 +1,3 @@
-layout: page
-title: "Shopping list"
-permalink: /shopping/
-
 ## Must have
 
 * **Fever thermometer** (2-10 EUR/USD). [Example](https://www.amazon.de/gp/product/B001NYHXYS)
