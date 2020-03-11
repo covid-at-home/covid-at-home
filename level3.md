@@ -8,10 +8,10 @@ This is when you start telling other people around you that you are really ill a
 
 ### In any case
 
-* Stay in bed
+* Stay in bed. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in diary). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
 * Ventilate the room as often as possible
 * Drink more water! (more than 2 liters and less then 5 liters a day)
 * Try to eat vitamin-rich foods, but multi-vitamin drink is also ok (need: a couple of tubes of these big fizzy multi-vitamin pills for in a glass of water)
 * Inhale more often 
 
-If the patient is not able to drink at least 2 liters of fluids per day, then you may want to ask if he or she would like to try receiving subcutaneous fluids (see below). Preventing severe dehydration can help prevent other complications. Severe dehydration should be treated by medical professionals in a hospital environment. Signs of dehydration include dark or no urine, dizziness and fainting, rapid respiration and heart rate, lack of energy, and changes in mental or emotional state. 
+At this point, read carefully all the signs that indicate Level 4. The purpose of care in Level 3 is to monitor the patient more and more closely so as to catch early any signs that the patient is moving to Level 4. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should insist. Dehydration is a risk, and if the patient is really unable to drink 2 liters a day you're quickly in Level 4. In most cases however the patient will get better after a few days. Just stay with it.
