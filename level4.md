@@ -27,9 +27,9 @@ Immediate home care for cognitive problems may include encouraging the patient t
 
 ### Too high or too low respiration rate
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and/or watching his or her abdomen, while holding a clock with a second hand or a digital watch/phone stopwatch. Respiration rate (RR) should be higher than 12 bpm and lower than 27. 30 bpm or higher counts as a point in the CRB-65 criteria. 
+Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and/or watching his or her abdomen, while holding a clock with a second hand or a digital watch/phone stopwatch. Respiration rate (RR) should be higher than 12 bpm and lower than 27. A respiratory rate of 30+ bpm counts as a point in the CRB-65 criteria. 
 
-Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. 
+Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too. 
 
 ### Low oxygen saturation
 
