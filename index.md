@@ -27,10 +27,3 @@ This guide contains general advice that should be applicable in many places. We 
 &nbsp; 
  
 {% include_relative level5.md %}
-
-        
-
-
-
-    
-
