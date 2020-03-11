@@ -25,6 +25,7 @@ Here are some necessary and handy things to have if you are going to be taking c
 
 * **Pulse oxymeter** (20-25 EUR/USD) (([example](https://www.amazon.de/gp/product/B07P3ZS6L3))
    > ![](/images/pulse-oxi.png)
+   >
    > Little gadget that clips on your finger and shows the heart rate (which is easy to measure other ways) and the oxygen saturation in the blood (which is harder to measure any other way).
 
 * **Blood pressure meter** (20 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07KY867ZH))
