@@ -6,7 +6,7 @@ This document was made as a result of the Covid pandemic, but much of the advice
 
 As we write this in Berlin, Germany in mid March 2020, much about the virus is still unclear, but numbers of infected and dead have been rising steadily, most recently in Italy. While it is not - ever - time to panic, it is time to think and prepare.
 
-This guide assumes that in the coming months and years, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that hospitals are going to be very busy if not overloaded. We have to confront that it is possible or even likely that some of the people that would normally be cared for in a medical setting, or under some form of medical supervision will need to be cared for at home. 
+This guide assumes that in the coming months and years, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that hospitals are going to be very busy if not overloaded. We have to confront the likelihood that some of the people who would normally be cared for in a medical setting will need to be cared for at home. 
 
 WARNING: This document at present is a work in progress and should at this time only be used as inspiratioon for further thinking. Things are going to be incomplete or even wrong as we work with experts to make it better.
 
@@ -20,7 +20,7 @@ Where possible, follow the instructions from authorities. This includes the by-n
 
 * Change greeting. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
 * Keep mucus membranes clean. Instead of touching your face without first washing your hands, try fidgeting with a rubber band around your wrist. 
-* Wash hands with soap as often as possible
+* Wash hands with soap as often as possible. 
 * Regularly sterilize doorknobs, table surfaces, keyboards and other places where people touch.
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
 * Work from home when possible.
@@ -30,7 +30,7 @@ Where possible, follow the instructions from authorities. This includes the by-n
 
 
  
-Remember that there is no difference in potential infectiousness between friends and strangers. Try to help others where you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contacts with other people than other people. Slowing the spread is never absolute, but still works when everyone does what they can, within their limits.
+Remember that there is no difference in potential infectiousness between friends and strangers. Try to help others where you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people, than others. Slowing the spread is never absolute, but still works when everyone does what they can, within their limits.
 
 ### Stay Healthy
 
@@ -38,17 +38,17 @@ On top of this, you can do things to stay as healthy as possible:
 
 * Breathe fresh air as often as possible.
 * Ventilate your rooms frequently.
-* Eat appropriate amounts of vitamin-rich healthy food. Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. Adequate carbohydrate intake is also important. 
+* Eat appropriate amounts of vitamin-rich, healthy food. Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. Adequate carbohydrate intake is also important. 
 * Get regular exercise.
 * Stop smoking (see below).
 
 ### Prepare
 
-And on top of that you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide and note and obtain any easy-to-get items that you do not have lying around. It is unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. It doesn't hurt to be a tiny bit more ready for the worst-case scenario. But remember at the same time that there is no reason to panic, take a deep breath and also continue your regular life as much as possible.
+And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide and note and obtain any easy-to-get items that you do not have lying around (see: shopping list). It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. It doesn't hurt to be a tiny bit more ready for the worst-case scenario. But remember at the same time that there is no reason to panic, take a deep breath and also continue your regular life as much as possible.
 
 ### Existing Medical Conditions
 
-If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by Covid / pneumonia. People with conditions that involve lungs / breathing problems should make extra sure they have plenty of all the necessary medication (see Supplies). Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
+If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by Covid / pneumonia. People with conditions that involve lungs / breathing problems should make extra sure they have plenty of all the necessary medication (see Supplies). Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
 
 &nbsp; 
 
@@ -64,7 +64,7 @@ Well, if it appears in the next weeks and months, it could very well be Covid. (
 
 > Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature rectally (more precise), be sure you have enough wipes and alcohol to clean the thermometer after use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) 
 
-There will be different policies surrounding testing based on where you are and what stage of the pandemic that area is in. Follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. Under no ciscumstances should you show up at a doctor's office or hospital unannounced. Hospitals are bad places to be unless you absolutely have to be there: you and/or the patient run the risk of getting additional infections.
+There will be different policies surrounding testing based on where you are and what stage of the pandemic that area is in. Follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. Under no circumstances should you show up at a doctor's office or hospital unannounced. Hospitals are bad places to be unless you absolutely have to be there: you and/or the patient run the risk of getting additional infections that are more likely to be resistant due to the nature of the hospital environment. 
 
 ### Don't panic
 
@@ -72,15 +72,15 @@ For most people, this will be as bad as it gets. You'll be sick, and then you'll
 
 ### Self-quarantine
 
-Until tested, assume the patient (you? a family member?) has Covid. That means you are now in self-quarantine at home. No more visitors, a sign on the door and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. You will want to err on the side of safety and try to get everything delivered for 2 weeks. Household members should treat themselves as potentially infected and stay at home too, while keeping the maximum practicable distance from the patient while the patient can take care of him- or herself. Regularly clean all frequently touched surfaces, and then clean again with water and bleach.
+Until tested, assume the patient (you? a family member?) has Covid. That means you are now in self-quarantine at home. No more visitors, a sign on the door (e.g., "Please stop; Covid is here"), and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. You will want to err on the side of safety and try to get everything delivered for 2 weeks. Household members should treat themselves as potentially infected and stay at home too, while keeping the maximum practicable distance from the patient while the patient can take care of him- or herself. Regularly clean all frequently touched surfaces, and then clean again with household bleach water diluted with water (10 ml bleach with .5 liters water to disinfect surfaces that may have been contaminated with secretions). 
 
 ### Diary
 
-It's time to start an illness diary. A few times a day, preferably at regular hours, measure temperature. Weigh the patient once a day if possible. Also note heart rate in beats per minute and respiratory rate (how many breaths per minute). Not necessary, but extra points for blood pressure and SpO2 (see below). Write down what symptoms the patient has. How bad is the cough? What color if there is mucus being produced? And be sure to note what medication, if any, the patient takes. Paracetamol is a good choice for painkilling and fever supression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than recommended in a day. 
+It's time to start an illness diary. A few times a day, preferably at regular hours, measure temperature. Weigh the patient once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. Not necessary, but extra points for blood pressure and oxygenation (see below). Write down what symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? And be sure to note what medication, if any, the patient takes. Paracetamol is a good choice for painkilling and fever supression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than recommended amount in a 24-hour period. 
 
 ### Get healthy again
 
-Treat fever with over-the-counter medication of your preference (e.g., paracetamol) at the recommended safe dosages; getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable). Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates. Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks as they can be further irritating. If your mucus production is high, consider avoiding dairy as it can increase mucus production; avoiding excessive salt and nitrates (in most cold cuts) is also recommended for people with lung disease. Try to suppress cough enough to get a good night's sleep; over-the-counter medications, herbal teas such as anise, cocoa, and lozenges can help. 
+Treat fever with over-the-counter medication of your preference (e.g., paracetamol) at the recommended safe dosages; getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable). Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates. Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and herbal teas are better choices then. If your mucus production is high, consider avoiding dairy as it can increase mucus production; avoiding dairy, excessive salt intake, and nitrates (which are used in most cold cuts / deli meats) is also recommended for people with lung disease. If you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, over-the-counter cough medications, herbal teas such as anise, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
 
 
 ### Well again?
@@ -107,13 +107,12 @@ This is when you start telling other people around you that you are really ill a
 * Try to eat vitamin-rich foods, but multi-vitamin drink is also ok (need: a couple of tubes of these big fizzy multi-vitamin pills for in a glass of water)
 * Inhale more often 
 
-If the patient is not able to drink at least 2 liters of fluids per day, then you may want to ask if he or she would like to try receiving subcutaneous fluids. Preventing severe dehydration can help prevent 
-        
-        
+If the patient is not able to drink at least 2 liters of fluids per day, then you may want to ask if he or she would like to try receiving subcutaneous fluids (see below). Preventing severe dehydration can help prevent other complications. Severe dehydration should be treated by medical professionals in a hospital environment. Signs of dehydration include dark or no urine, dizziness and fainting, rapid respiration and heart rate, lack of energy, and changes in mental or emotional state. 
+            
         
 ## Level 4 -- Severe Symptoms
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are takes should go up. At this point your log should contain temperature, heart rate and breathing rate at least every couple of hours. Things are getting serious if any of the following things occur:
+As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point your log should contain temperature, respiration and heart rate at least every couple of hours. Things are getting serious if any of the following things occur:
 
 ### Loss of consciousness
 
