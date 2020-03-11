@@ -14,6 +14,8 @@ This guide contains general advice that should be applicable in many places. We 
 
 &nbsp; 
 
+{% level1.md %}
+
 ## Level 1 -- Healthy
 
 ### Don't Get Infected
