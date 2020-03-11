@@ -1,6 +1,6 @@
 ## Must have
 
-* **Fever thermometer** (2-10 EUR/USD). ([example](https://www.amazon.de/gp/product/B001NYHXYS))
+* **Fever thermometer** (2-10 EUR/USD) ([example](https://www.amazon.de/gp/product/B001NYHXYS))
 
    > ![](/images/thermometer.png)
    > 
@@ -15,9 +15,14 @@
 
 ## Nice to have
 
-* Pulse oxymeter (10-20 EUR/USD). Example, example
+* Pulse oxymeter (10-20 EUR/USD). 
 
-* Blood pressure meter
+* **Blood pressure meter** (20 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07KY867ZH))
+   > ![](/images/blood-pressure.png)
+   > 
+   > There are simple tricks to see if someone's blood pressure is getting too low (see the main text on this site). However it doesn't hurt to be able to measure this more objectively, especially if you want to see/show a trend in the patient's blood pressure.
 
-* Incontinence / waterproof sheets
+* **Incontinence / waterproof sheets**
+
+   > Sick people sometimes have accidents. You'll thank us.
 
