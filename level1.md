@@ -5,17 +5,17 @@
 Where possible, follow the instructions from authorities. This includes the by-now familiar guidelines for social distancing:
 
 * Change greeting. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
-* Keep mucus membranes clean. Instead of touching your face without first washing your hands, try fidgeting with a rubber band around your wrist. 
+* Your eyes, nose and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
+* If you have to touch something, try fidgeting with a rubber band around your wrist or something. 
 * Wash hands with soap as often as possible. 
 * Regularly sterilize doorknobs, table surfaces, keyboards and other places where people touch.
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
 * Work from home when possible.
 * Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
 * Avoid crowds. 
-* Instead of taking public transit, walk or bike wherever you can. 
+* Instead of taking public transit, walk or bike wherever you can.
+* Follow any additional givernment advice, including the eventual advice to stay indoors. 
 
-
- 
 Remember that there is no difference in potential infectiousness between friends and strangers. Try to help others where you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people, than others. Slowing the spread is never absolute, but still works when everyone does what they can, within their limits.
 
 ### Stay Healthy
