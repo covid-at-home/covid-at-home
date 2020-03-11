@@ -29,7 +29,17 @@ Some possibly useful behaviors include:
 * Checking that the patient is warm enough in the extremities (e.g., cold feet?) and at night. 
 * Reassure the patient that it is likely that he or she will make a full recovery. 
 * If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes (e.g., leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two). 
+* Keeping the illness diary (see below).
 
 
 ### Illness diary
 
+daily weight
+fever medication: drug, dose, time(s)
+other medications: same
+temperature
+pain: where, when, how bad 0 (no) to 10 (worst)
+coughing: does it hurt, is it productive, wet or dry, frequent or occasional, does it interfere with sleep
+mucus: what color, how much??
+
+watch for and note symptoms that might suggest worsening. read the next section for more detail, but these include dizziness (drink more), rapid breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), rapid heart rate (drink more and use relaxation techniques), 
