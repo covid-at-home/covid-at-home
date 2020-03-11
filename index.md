@@ -2,7 +2,7 @@
 
 a guide for caring for Covid-19 patients at home
 
-This document was made as a result of the Covid-19 pandemic, but much of the advice is probably applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of the pandemic in one place. While we consulted with nurses and doctors on much of this advice, most of this text was written by the non-medically trained, trying to puzzle together what makes sense in this new situation. **YOU SHOULD LISTEN TO MEDICAL PROFESSIONALS** when given the choice between that and something you found on the internet.
+This document was made as a result of the Covid-19 pandemic, but much of the advice may be applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of the pandemic in one place. While we consulted with nurses and doctors on much of this advice, most of this text was written by the non-medically trained, trying to puzzle together what makes sense in this new situation. **YOU SHOULD LISTEN TO MEDICAL PROFESSIONALS** when given the choice between that and something you found on the internet.
 
 As we write this in Berlin, Germany in mid-March 2020, much about the virus is still unclear, but numbers of infected and dead have been rising steadily, most recently in Italy. While it is not - ever - time to panic, it is time to think and prepare.
 
