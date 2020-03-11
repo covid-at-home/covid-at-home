@@ -1,6 +1,6 @@
 ## Must have
 
-* **Fever thermometer** (2-10 EUR/USD). [Example](https://www.amazon.de/gp/product/B001NYHXYS)
+* **Fever thermometer** (2-10 EUR/USD). ([example](https://www.amazon.de/gp/product/B001NYHXYS))
 
    > ![](/images/thermometer.png)
    > 
