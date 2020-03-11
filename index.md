@@ -14,7 +14,7 @@ This guide contains general advice that should be applicable in many places. We 
 
 &nbsp; 
 
-{% level1.md %}
+{% include_relative level1.md %}
 
 ## Level 1 -- Healthy
 
