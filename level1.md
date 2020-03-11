@@ -34,6 +34,11 @@ And on top of that, you can prepare so that you are familiar with the things tha
 
 ### Existing Medical Conditions
 
-If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by Covid / pneumonia. People with conditions that involve lungs / breathing problems should make extra sure they have plenty of all the necessary medication (see Supplies). Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
+If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by Covid / pneumonia. You / they should make extra sure they have plenty of all the necessary medication (see Supplies). Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
+
+What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to Covid complications, and you should exercise greater care accordingly? 
+- People with conditions that involve lungs / breathing problems.
+- People with conditions that involve lower platelet or lymphocyte counts, as Covid may further decrease platelet and lymphocyte counts. 
+
 
 During pandemics, it is generally typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to suffer because doctors, hospital systems, and the rest of the healthcare system may be overloaded, and because people may be afraid to go to doctors or hospitals for fear (sometimes rational) of being exposed to disease. Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? 
