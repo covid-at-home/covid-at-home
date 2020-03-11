@@ -14,12 +14,16 @@ Here are some necessary and handy things to have if you are going to be taking c
 
 * **Enough sheets, pillow casings, towels**
    
-   > Stuff most everyone has in the home, but just to be sure: once people get sick you want to change the bedlinens often, and you may use more towels also
+   > Stuff most everyone has in the home, but just to be sure: once people get sick you want to change the bedlinens often, and you may use more towels also.
    
 * **Cleaning supplies, bleach**
 
-&nbsp;
+* **paracetamol**
 
+  > The painkiller and fever supressant of choice. Unless you are allergic to it, in which case Ibuprofen may be the next best thing. Make sure you follow the packing slip instructions as to how much to maximally take per day.
+
+
+&nbsp;
 
 ### Nice to have
 
@@ -38,3 +42,7 @@ Here are some necessary and handy things to have if you are going to be taking c
    >
    > Sick people sometimes have accidents. You'll thank us.
 
+* **Vitamins**
+   > ![](/images/multi-vitamin.png)
+   >
+   > For when the patient doesn't eat (much) anymore but still drinks. Maybe take the big multi-vitamin pills that fizz into water, a couple of tubes of those. Try getting ones that contain roughly 1-2 times the daily recommended dose of all the vitamins and minerals they contain, no crazy 1000% megadoses.
