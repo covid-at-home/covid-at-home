@@ -1,3 +1,7 @@
+layout: page
+title: "Shopping list"
+permalink: /shopping/
+
 ## Must have
 
 * Fever thermometer (2-10 EUR/USD). Example, example
