@@ -28,3 +28,5 @@ Some possibly useful behaviors include:
 * If the patient is not drinking or eating adequately, offer alternatives. (E.g., if solid food is unappealing, what about soup, bouillon, or electrolyte solution? If hot drinks are unappealing, what about something cold, or vice-versa?) 
 * Checking that the patient is warm enough in the extremities (e.g., cold feet?) and at night. 
 * Reassure the patient that it is likely that he or she will make a full recovery. 
+* If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes (e.g., leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two). 
+
