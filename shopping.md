@@ -27,7 +27,7 @@ Here are some necessary and handy things to have if you are going to be taking c
 
 ### Nice to have
 
-* **Pulse oxymeter** (20-25 EUR/USD) (([example](https://www.amazon.de/gp/product/B07P3ZS6L3))
+* **Pulse oxymeter** (20-25 EUR/USD) ([example](https://www.amazon.de/gp/product/B07P3ZS6L3))
    > ![](/images/pulse-oxi.png)
    >
    > Little gadget that clips on your finger and shows the heart rate (which is easy to measure other ways) and the oxygen saturation in the blood (which is harder to measure any other way).
@@ -42,7 +42,7 @@ Here are some necessary and handy things to have if you are going to be taking c
    >
    > Sick people sometimes have accidents. You'll thank us.
 
-* **Vitamins**
-   > ![](/images/multi-vitamin.png)
+* **Vitamins** (a few EUR/USD)
+   > ![](/images/multi-vitamin.png) ([example](https://www.amazon.de/dp/B07S63PCZK))
    >
    > For when the patient doesn't eat (much) anymore but still drinks. Maybe take the big multi-vitamin pills that fizz into water, a couple of tubes of those. Try getting ones that contain roughly 1-2 times the daily recommended dose of all the vitamins and minerals they contain, no crazy 1000% megadoses.
