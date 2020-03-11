@@ -1,4 +1,10 @@
-## Must have
+## Shopping list
+
+Here are some necessary and handy things to have if you are going to be taking care of someone with Covid-19. None of this is very expensive. If we included examples (on the German version of Amazon) this is not a buying recommendation, we are not making any money if you cllick that precise one, and by showing you the example we mean "use your local version or whatever other online or retail channel to get something similar".) 
+
+&nbsp;
+
+### Must have
 
 * **Fever thermometer** (2-10 EUR/USD) ([example](https://www.amazon.de/gp/product/B001NYHXYS))
 
@@ -12,8 +18,10 @@
    
 * **Cleaning supplies, bleach**
 
+&nbsp;
 
-## Nice to have
+
+### Nice to have
 
 * **Pulse oxymeter** (20-25 EUR/USD) (([example](https://www.amazon.de/gp/product/B07P3ZS6L3))
    > ![](/images/pulse-oxi.png)
