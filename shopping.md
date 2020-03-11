@@ -1,9 +1,9 @@
 ## Must have
 
-![]/images/thermometer.png)
-
 * **Fever thermometer** (2-10 EUR/USD). [Example](https://www.amazon.de/gp/product/B001NYHXYS)
 
+   > ![](/images/thermometer.png)
+   > 
    > So important that you should probably check yours if it's been in the bathroom cabinet for ages. Is the battery still OK? It really doesn't hurt to have two, just in case. At 2-10 bucks they make great gifts (and as they may be inserted anally, they may not be items you want to loan to someone.)
 
 * **Enough sheets, pillow casings, towels**
