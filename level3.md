@@ -34,12 +34,27 @@ Some possibly useful behaviors include:
 
 ### Illness diary
 
-daily weight
-fever medication: drug, dose, time(s)
-other medications: same
-temperature
-pain: where, when, how bad 0 (no) to 10 (worst)
-coughing: does it hurt, is it productive, wet or dry, frequent or occasional, does it interfere with sleep
-mucus: what color, how much??
+It's best to keep the illness diary as a physical rather than electronic document for various reasons (e.g., data are more private and it's easier to take the sheet of paper in to a doctor's office or hospital, than to take a whole computer). To start the illness diary, you might take a sheet of blank computer paper or legal pad and turn it lengthwise / landscape orient it. Write the fields you want to track on the left in the first column header. Write the first day's date at the top in the first row header. Then just fill it out as you go. 
 
-watch for and note symptoms that might suggest worsening. read the next section for more detail, but these include dizziness (drink more), rapid breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), rapid heart rate (drink more and use relaxation techniques), 
+Columns should include: 
+- daily weight
+- temperature
+- fever medication: drug, dose, time(s)
+- other medications: same
+- pain: where, when, how bad 0 (no) to 10 (worst)
+- coughing: does it hurt, is it productive, wet or dry, frequent or occasional, does it interfere with sleep?
+- mucus: what color, how much?
+
+Watch for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness (drink more), rapid breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), rapid heart rate (drink more and use relaxation techniques), and poor capillary refill time (should be 1-2 seconds, check by seeing how long it takes your fingernail to turn its normal color after you press down on it from the top with your fingers flat on a table). 
+
+If you think condition might be worsening, your illness diary might expand to include the following (see also Level 4): 
+- more frequent temperature readings
+- respiration rate (breaths per minute)
+- heart rate
+- onset of new confusion
+
+
+
+### A typical day
+
+At this stage, a typical day might look something like this... You (or the patient) get up, weigh, and note weight in illness diary. You might want to also take your temperature first thing, before eating or drinking, especially if you are taking temprature orally -- and note it in the illness diary, too. Then start drinking fluids. Not too much caffeine or sugar. As much water and herbal tea as you like. Remember you want to drink at least 2 liters and up to 5 liters a day. Air out your home as much as possible, perhaps while the water for your morning tea or coffee is boiling.  If you have the energy (and enough sheets), consider changing your bed linens if they got sweaty / otherwise soiled. Next, have a quick shower if you're able. Staying clean can help you feel better mentally and emotionally, as well as physically. Eat a small, nutritious meal (piece of fresh fruit? handful of salted nuts?) -- something that sounds good to you. This is also a good time to take fever/pain medicine (e.g., paracetamol) if you need it, and note the dose and time in your illness diary. If that was already enough exertion, take a rest. Nap whenever you can -- sleep is crucial for healing. If you're still upright, now is a good time to steam to help your sinuses / airways open and mucus to drain. Keep drinking throughout the day. Some people find it helpful to empty and refill a liter bottle of water or a teapot that holds approximately a liter, so that it's easier to keep track of roughly how much you have drunk. Check in with yourself about fatigue (sleep as much as possible), hunger (eat small, nutritious meals), thirst (drink whenever you feel like it), and temperature (take care to keep warm enough). Finally, you want to be alert to signs that your condition may be worsening and you may need more care. So after taking basic care of yourself, then check in with other people around you who know that you are really ill. Let them know how you are doing and if you need help, ask. Especially let someone know if you start experiencing more severe symptoms (see Level 4 below). 
