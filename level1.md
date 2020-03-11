@@ -39,10 +39,10 @@ And on top of that, you can prepare so that you are familiar with the things tha
 If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by Covid / pneumonia. You / they should make extra sure they have plenty of all the necessary medication (see Supplies). Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
 
 What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe Covid problems?
-- People with conditions that involve lungs / breathing problems.
-- People with conditions that involve lower platelet or lymphocyte counts, as Covid (like many viral illnesses) may further decrease platelet and lymphocyte counts. 
-- People taking blood thinners or immunosuppressant medications (maybe talk to a doctor about stopping them temporarily while you are ill). 
-
+- Conditions that involve lungs / breathing problems (e.g., asthma, COPD).
+- Conditions that involve lower platelet or lymphocyte counts, as Covid (like many viral illnesses) may further decrease platelet and lymphocyte counts. 
+- Conditions that require taking blood thinners or immunosuppressant medications (maybe talk to a doctor about stopping them temporarily while you are ill, see above). 
+-  Other chronic hematologic, metabolic, neurologic, neuromuscular, cardiovascular, renal, or hepatic disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, congestive heart failure, kidney disease). 
 
 
 During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to suffer because doctors, hospital systems, and the rest of the healthcare system may be overloaded, and because people may be afraid to go to doctors or hospitals for fear (sometimes rational) of being exposed to disease. Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? 
