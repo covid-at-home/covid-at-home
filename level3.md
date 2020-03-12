@@ -4,7 +4,7 @@ All the good care in Level 2 has not worked and things are getting worse. Doesn'
 
 ### If the patient is you
 
-This is when you start telling other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had Covid (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be Covid-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath which inevitably will also affect your ability to talk and to think clearly.
+This is when you start telling other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath which inevitably will also affect your ability to talk and to think clearly.
 
 ### In any case
 
