@@ -58,14 +58,11 @@ Doctors sometimes use the so-called *CRB-65 scale* to roughly evaluate how sick 
 - Blood pressure less than 90 mmHg systolic or diastolic blood pressure 60 mmHg or less? Add one point.
 - Age over 65? Add one point.
 
-The resulting number from 0 to 4 means something to many doctors and might be useful to you too: the higher the score the more severe a case of pneumonia. 
+The resulting number from 0 to 4 means something to many doctors and might be useful to you too: the higher the score the more severe a case of pneumonia. But really: all symptoms from the list above are serious.
 
-### Serious medical situations
+### Call for help
 
-Alright... So things are serious. If any of the above symptoms happen, call a doctor or call the emergency number. Have professionals deal with the situation and tell you what to do. We feel a little worried giving you many hints and tips beyond that, because the risk is we're making things worse. In any normal situation, this is not where you should be taking any decisions based on a guide from the internet anymore. 
+When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse, call a doctor or call the emergency number and get the patient in an ambulance. Stay calm and report the situation as it is. Your job is done: you have kept a patient out of the medical system while he or she was just sick and now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people and doctors that you are not merely panicking for no reason and will likely help get the patient the care he/she needs sooner.
 
-### What if the official channels are overloaded?
 
-In the event, however, that official means of getting medical help are completely clogged, try to get hold of that doctor you know, the nurse down the street, anyone with medical training and/or experience. If that doesn't work, make sure your and the patient's wider circle know you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. Use Facebook or whatever else you think might help. If you have any spare time after that, organize your diary pages, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
 
-If you do get through (by phone?) try to inform doctor / hospital about your situation and give them access to your illness diary. Anything you can do to help them assess the situation quickly wil probably be appreciated when the system is overloaded. Only as a very last resort, in situations that have not yet occurred (to our knowledge) in countries with functional healthcare systems, should you put the patient in a car and drive to a hospital in search of help. But if it does come to that, it may make sense to find someone with a van or even a camper van.
