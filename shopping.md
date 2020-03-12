@@ -41,6 +41,8 @@ Shopping for PPE is a lttle tricky because early on in the pandemic people were 
    > ![](/images/gloves.png)
 
 * **Eye protection, goggles or face shield** (a few EUR/USD) ([example](https://www.amazon.de/dp/B002THV25Y))
+   > ![](/images/glasses.png)
+   > 
 
 &nbsp;
 
