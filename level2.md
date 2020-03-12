@@ -5,24 +5,26 @@ Do you suffer from any of the following symptoms:
 * Dry cough
 * Fever
 * Shortness of breath
+* Coughing up slime?
+* Fatigue
 
-And is COVID-19 in the community where you live? Or have you been to an affected area or been around someone that was in an affected area? THen your symptoms could very well be COVID-19. But remember: in many areas the odds that it's something else will still be greater.
-
-### Diagnosis
+Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone that was in an affected area? Then your symptoms could very well be COVID-19. But remember: in many areas the odds that it's something else will still be greater.
 
 > Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature rectally (i.e. in the ass) it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) 
 
-There will be different policies surrounding testing based on where you are and what stage of the pandemic that area is in. Check online, call official hotline numbers, follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. Under no circumstances should you just show up at a doctor's office or a hospital unannounced.
+### Diagnosis
 
-> Remember: hospitals are bad places until you absolutely have to be there: you and/or the patient run the risk of getting additional infections that, when bacterial, are much more likely to be resistant to antobiotics due to the nature of the hospital environment. Also: many hospitals are going to be overloaded.
+There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic that area is in. Check online, call official hotline numbers, follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. **Under no circumstances should you just show up at a doctor's office or a hospital unannounced.**
+
+> Remember: hospitals are bad places to be until you absolutely have to be there: you and/or the patient run the risk of getting additional infections that, when bacterial, are much more likely to be resistant to antibiotics due to the nature of the hospital environment. Also: many hospitals are going to be overloaded.
 
 ### Don't Panic - The Worried Well
 
-For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain doctors and nurses and available medical resources. We can all help. The "Worried Well" are a medical term for people that visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are really not a good time for that. This website hopes to give you some confidence and preparedness in caring for yourself, friends and loved ones until you/they actually need professional help.
+For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain on doctors, nurses and available medical resources. We can all help. The "Worried Well" are a medical term for people that visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are really not a good time for that. This website hopes to give you some confidence and preparedness in caring for yourself, friends and loved ones until you/they actually need professional help.
 
 ### Self-quarantine
 
-Until tested, assume the patient (you? a family member?) has COVID-19. That means you are now in self-quarantine at home. No more visitors, a sign on the door, and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. You will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change as the virus becomes so prevalent that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
+Until tested and depending on where you are and where you have been, it may be prudent to assume the patient (you? a family member?) has COVID-19. That means self-quarantine at home. No more visitors, a sign on the door, and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. You will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change as in some areas the virus will become so prevalent that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
 
 ### Family, flatmates, etc
 
