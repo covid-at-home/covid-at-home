@@ -1,8 +1,8 @@
 ## Complementary Medicine 
 
-This is a list of a few complementary things (mostly antioxidants and herbs) known to improve immunity and in some cases prevent and mitigate the effects of viral infections. It is by no means a complete list, but it only contains things for which we have scientific evidence. (Note that all the links point to PubMed, the database of medical science articles.) Keep in mind that we do not yet have good data on what works (or doesn't) for COVID-19. So we can only guess at what might apply from other virus research. 
+This is a list of a few complementary things (mostly antioxidants and herbs) known to improve immunity and in some cases prevent and mitigate the effects of viral infections. It is by no means a complete list, but it only contains things for which we have scientific evidence. (Note that all the links point to PubMed, the U.S. National Institutes of Health's National Library of Medicine (NIH/NLM) free full-text archive of biomedical and life sciences journal literature.) Keep in mind that we do not yet have good data on what works (or doesn't) for COVID-19. So we can only guess at what might apply from other virus research. 
 
-Everything listed has a good safety profile (i.e., side effects are rare and not serious). But please read the science for yourself, follow package directions on anything you get, use common sense, and prioritize the more basic lifestyle approaches like eating nutritious, fresh foods, drinking plenty of water, and taking enough rest.
+Everything listed has a good safety profile (i.e., side effects are rare and not serious). But please read the science for yourself, follow package directions on anything you get, use common sense, and prioritize the more basic lifestyle approaches like eating nutritious foods, drinking plenty of water, and taking enough rest.
 
 Above all, **do not take this list as medical advice (we are not doctors) and do not use any of this as a substitute for regular treatment**. It's called "complementary" because it may complement the real deal - it does not replace it. 
 
