@@ -9,14 +9,14 @@ This is when you start telling other people around you that you are really ill a
 ### In any case
 
 * Stay in bed. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in diary). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
-* Ventilate the room as often as possible
-* Drink more water! (more than 2 liters and less then 5 liters a day)
-* Try to eat vitamin-rich foods, but multi-vitamin drink is also ok 
-* Inhale more often 
+* Ventilate the room as often as possible.
+* Drink more water! (more than 2 liters and less then 5 liters a day).
+* Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
+* Inhale more often.
 
-At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient is moving to Level 4. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should insist. Dehydration is a risk and without this daily bare minimum you're quickly in Level 4.
+At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient is moving to Level 4. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum you're quickly in Level 4.
 
-In most cases however the patient will get better after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient his- or herself again. Make sure the disease diary and quarantine are kept up until the patient has been completely well for a while. If you have been caring for the patient, your own two-week self-quarantine period now begins.
+In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Make sure the disease diary and quarantine are kept up until the patient has been completely well for a while. If you have been caring for the patient, your own two-week self-quarantine period now begins.
 
 ### Care work
 
@@ -38,22 +38,21 @@ It's best to keep the illness diary as a physical rather than electronic documen
 
 Columns should include: 
 - daily weight
-- temperature
+- temperature and time
 - fever medication: drug, dose, time(s)
 - other medications: same
-- pain: where, when, how bad 0 (no) to 10 (worst)
+- pain: where, when, how bad it is from 0 (no pain) to 10 (worst pain imaginable)
 - coughing: does it hurt, is it productive, wet or dry, frequent or occasional, does it interfere with sleep?
 - mucus: what color, how much?
+- breathing: is it labored when you're doing nothing, or when you exert yourself? If shortness of breath bothers you, maybe start noting respiration rate in breaths per minute. 
 
-Watch for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness (drink more), rapid breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), rapid heart rate (drink more and use relaxation techniques), and poor capillary refill time (should be 1-2 seconds, check by seeing how long it takes your fingernail to turn its normal color after you press down on it from the top with your fingers flat on a table). 
+Watch for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness (drink more and eat something if you can), labored breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), rapid heart rate (drink more), and poor capillary refill time (should be 1-2 seconds, check by seeing how long it takes your fingernail to turn its normal color after you press down on it from the top with your fingers flat on a table). Also consider using relaxation techniques to slow a rapid respiration or heart rate that may be partially due to anxiety: Listen to soothing music, check in with a friend electronically, or see if you can slow your breathing and bring down your heart rate by counting longer for forceful exhales than gentle inhales. (Some people use 4-7-8 and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns.)
 
-If you think condition might be worsening, your illness diary might expand to include the following (see also Level 4): 
+If you think the patient's condition might be worsening, your illness diary might expand to include the following (see also Level 4): 
 - more frequent temperature readings
 - respiration rate (breaths per minute)
 - heart rate
 - onset of new confusion
-
-
 
 ### A typical day
 
