@@ -1,5 +1,5 @@
 ## Level 2 -- Emerging Symptoms
- 
+
 * Dry cough ?
 * Fever ?
 * Shortness of breath ?
