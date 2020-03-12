@@ -1,0 +1,18 @@
+## Complementary Medicine 
+
+This is a list of a few complementary things (mostly antioxidants and herbs) to improve immunity and in some cases prevent and mitigate the effects of viral infections. It is by no means a complete list, but it only contains things for which we have scientific data to say that it works. (Note that all the links point to PubMed, the database of medical science articles.) Keep in mind that we do not yet have good data on what works (or doesn't) for COVID-19. So we can only guess at what might apply from other virus research. 
+
+Everything listed has a good safety profile (i.e., side effects are rare and not serious). But please read the science, follow package directions on anything you get, use common sense, and prioritize the more basic lifestyle approaches like eating nutritious, fresh foods, drinking plenty of water, and taking enough rest.
+
+Above all, do not take this list as medical advice (we are not doctors) or use any of this as a substitute for regular treatment. It's called "complementary" because it complements the real deal - it does not replace it. 
+
+* [Quercetin](https://articles.mercola.com/sites/articles/archive/2018/02/26/quercetin-for-flu.aspx), an antioxidant, protects against viral infections. 
+* [Elderberry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124954/), a natural source of quercetin, found in various preparations (e.g., [Sambucol](https://www.amazon.de/dp/B005039D78/ref=sr_1_8?keywords=sambucol&qid=1584023224&sr=8-8)).
+* [Bovine colostrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124954/), cows' early milk, confers immune benefits from its rich array of nutrients and bioactive compounds, including immune and antimicrobial factors.
+* [Probiotics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124954/), live microorganisms found as supplements or in fermented foods like yogurt, may reduce the risk, severity, and duration of upper respiratory tract infections. 
+* [NAC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937299/), an antioxidant, may prevent and delay ventilator-assisted pneumonia. It also [decreases duration of ICU stay](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5590037/) for Acute Respiratory Distress Syndrome. It [may or may not help against severe influenza](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5801167/). It has the same general mechanism as quercetin (anti-inflammatory), but also has mucolytic action (helps thin mucus) that make it particularly useful in patients with lung disease (like [COPD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4245155/)). 
+* [Guaifenesin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5724298/), another muco-active substance and common cough syrup ingredient, helps thin mucus to speed healing in acute upper respiratory tract infections as well as chronic sinusitis / bronchitis. 
+* [Glycyrrhizin](https://www.ncbi.nlm.nih.gov/pubmed/12814717), the compound that makes licorice root sweet, has shown activity in inhibiting replication of the SARS-associated coronavirus. Just don't overdo it on this one; licorice toxicity is rare but [not unheard-of](https://emedicine.medscape.com/article/817578-clinical).
+* [Anthemis hyalina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3933739/), a chamomile plant, showed the greatest antiviral load decreasing potential after coronavirus infection of HeLa cells in vitro, compared with sweet orange peel and nigella sativa (also antiviral). 
+* [Povidone-Iodine mouthwash](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4675768/), reduces oral viral load and thus may help prevent transmission. 
+
