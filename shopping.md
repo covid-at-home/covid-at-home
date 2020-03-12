@@ -66,7 +66,7 @@ Shopping for PPE is a lttle tricky because early on in the pandemic people were 
 * **Steam inhaler** (25 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07SNQH6CZ))
    > ![](/images/steam.png)
    >
-   > Often sold as "face sauna" or whatever other names, they're just devices that output steam that is not too hot to breathe. Any other method that produces steam is also OK, just make sure you don't do damage with steam that's too hot. The device takes demineralized water ([example](https://www.amazon.de/gp/product/B07J5Y95MQ), esp. in places where the tapwater is high in calcium. 
+   > Often sold as "face sauna" or whatever other names, they're just devices that output steam that is not too hot to breathe. Any other method that produces steam is also OK, just make sure you don't do damage with steam that's too hot. The device takes demineralized water ([example](https://www.amazon.de/gp/product/B07J5Y95MQ)), esp. in places where the tapwater is high in calcium. 
 
 * **Vitamins** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/images/multi-vitamin.png)
