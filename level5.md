@@ -1,7 +1,17 @@
-## Level 5 -- Life-Threatening
+## Level 5 -- System Overload
 
-This section will at some point in the next weeks and months possibly contain tips for when you know the patient is in very bad shape, but are unable to get timely help. At this point we feel it may not be appropriate to put much here as this situation is not yet happening and we do not want people playing doctor when there's real medical help available.
+### What if the official channels are overloaded?
 
-If your loved one is in bad shape - and we've tried to give you some tools to figure out if they are - call your local emergency number and get the patient in an ambulance. Stay calm and report the situation as it is. Your job is done: you have kept a patient out of the medical system until the situation got too bad for non-professionals to handle. The data you have been gathering should hopefully help you convince the operator that you are not merely panicking for no reason and will help get the patient the care he/she needs sooner.
+What we're unfortenately seeing in some areas is that the system becomes stressed to a breaking point if too many people become sick at the same time. Either you cannot get through, or hospitals are not taking new patients at all, or some hospitals exclude from treatment certain groups of patients (such as the elderly or people with existing illnesses).
 
-For now let's all hope our medical professionals can cope with the case load that is coming to them.
+In the event that official means of getting medical help are completely clogged, you might want to try to get hold of that doctor you know, the nurse down the street, anyone with medical training and/or experience. If that doesn't work, make sure your and the patient's wider circle know you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. Use Facebook or whatever else you think might help. If you have any spare time after that, organize your diary pages, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
+
+If you do get through (by phone?) try to inform doctor / hospital about your situation and give them access to your illness diary. Anything you can do to help them assess the situation quickly wil probably be appreciated when the system is overloaded. Only as a very last resort, in situations that have not yet occurred (to our knowledge) in countries with functional healthcare systems, should you put the patient in a car and drive to a hospital in search of help. But if it does come to that, it may make sense to find someone with a van or even a camper van. Drive safely, the last thing you want is a car accident on the way to the hospital.
+
+&nbsp;
+
+----
+
+&nbsp;
+
+For now let's all hope our medical professionals can cope with the case load that is coming to them. Do your part in slowing the disease down as much as possible. Let's try to all still be there at the other end of this.
