@@ -26,19 +26,21 @@ Here are some necessary and handy things to have if you are going to be taking c
 
 ### PPE (Personal Protective Equipment)
 
-Shopping PPE is a lttle tricky because early on the pandemic people were panic-buying masks, making them unavailable in some regions to medical personnel that really needed them. If it's still early in the pandemic, your government will probably be providing masks to people that live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy such as to not make things unavailable for doctors and nurses.
+Shopping for PPE is a lttle tricky because early on in the pandemic people were panic-buying masks, making them unavailable in some regions to medical personnel that really needed them. If it's still early in the pandemic, your government will probably be providing masks to people that live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy such as to not make things unavailable for doctors and nurses.
 
-* **Medical mask, preferably N95** (20-30 EUR/USD) ([example](https://www.amazon.de/dp/B085H6Y6HN))
+* **Medical mask, preferably N95** (a few EUR/USD) ([example](https://www.amazon.de/dp/B085H6Y6HN))
+   > ![](/images/mask.png)
+   > 
+   > FFP2 or FFP3 respirators (valved or non-valved versions) are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator.
 
-   > FFP2 or FFP3 respirators (valved or non-valved versions) are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. 
-
-* **Gown** (5 EUR/USD) ([example](https://www.amazon.de/dp/B00FRGIS56))
+* **Gown / raincoat** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07DFDFFRX))
 
    > Best is if you can find a long-sleeved, water-resistant gown. 
 
-* **Gloves** (10-15 EUR/USD) ([example](https://www.amazon.de/dp/B01LWJ80C7))
+* **Gloves** (less than a EUR/USD) ([example](https://www.amazon.de/dp/B01LWJ80C7))
+   > ![](/images/gloves.png)
 
-* **Eye protection, goggles or face shield** (4 EUR/USD) ([example](https://www.amazon.de/dp/B002THV25Y))
+* **Eye protection, goggles or face shield** (a few EUR/USD) ([example](https://www.amazon.de/dp/B002THV25Y))
 
 &nbsp;
 
