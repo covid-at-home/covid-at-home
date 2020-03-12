@@ -4,7 +4,7 @@
 * Fever ?
 * Shortness of breath ?
 
-Well, if it appears in the next weeks and months, it could very well be Covid. (But in many areas the odds that it's something else will still be greater for a while.)
+Well, if it appears in the next weeks and months, it could very well be COVID-19. (But in many areas the odds that it's something else will still be greater for a while.)
 
 ### Diagnosis
 
@@ -20,7 +20,7 @@ For most people, this will be as bad as it gets. You'll be a little sick, and th
 
 ### Self-quarantine
 
-Until tested, assume the patient (you? a family member?) has Covid. That means you are now in self-quarantine at home. No more visitors, a sign on the door (e.g., "Please stop; Covid is here"), and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. You will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change as the virus becomes so prevalent that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
+Until tested, assume the patient (you? a family member?) has COVID-19. That means you are now in self-quarantine at home. No more visitors, a sign on the door (e.g., "Please stop; COVID-19 is here"), and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. You will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change as the virus becomes so prevalent that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
 
 ### Family, flatmates, etc
 
@@ -28,7 +28,7 @@ Household members should treat themselves as potentially infected and self-quara
 
 Now at the latest is time to think about PPE, or Personal Protection Equipment. This website will contain a special section on PPE soon. It's important to realise that thinking about protection is very dependent on context. If you can get masks and haven't been sick yet, it is probably a good idea to wear one. If there is a limited number of cases in your area/region, you probably need to get tested and your health authorities will have rules and might offer equipment for your quarantine. Any rules they give you supersede this document, just do as they say.
 
-In most places there will probably come a time when the number of cases skyrockets, many people have already had Covid and authorities will no longer keep records of who has had it and who hasn't. If you have to make decisions on your own, try to protect older people and people with existing illnesses as much as possible, and try to minimize spread whereever you can, best you can. Remember: the more we slow the disease down, the better it is for everyone.
+In most places there will probably come a time when the number of cases skyrockets, many people have already had COVID-19 and authorities will no longer keep records of who has had it and who hasn't. If you have to make decisions on your own, try to protect older people and people with existing illnesses as much as possible, and try to minimize spread whereever you can, best you can. Remember: the more we slow the disease down, the better it is for everyone.
 
 ### Diary
 
