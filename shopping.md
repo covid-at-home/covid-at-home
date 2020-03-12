@@ -18,7 +18,7 @@ Here are some necessary and handy things to have if you are going to be taking c
    
 * **Cleaning supplies, bleach**
 
-* **paracetamol**
+* **Paracetamol**
 
   > The painkiller and fever supressant of choice. Unless you are allergic to it, in which case ibuprofen may be the next best thing. Make sure you follow the packing slip instructions and do not exceed the maximum recommended daily dose.
 
@@ -26,7 +26,7 @@ Here are some necessary and handy things to have if you are going to be taking c
 
 ### PPE (Personal Protective Equipment)
 
-Shopping for PPE is a lttle tricky because early on in the pandemic people were panic-buying masks, making them unavailable in some regions to medical personnel that really needed them. If it's still early in the pandemic, your government will probably be providing masks to people that live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy such as to not make things unavailable for doctors and nurses.
+Shopping for PPE is a lttle tricky because early on in the pandemic people were panic-buying masks, making them unavailable in some regions to medical personnel who really needed them. If it's still early in the pandemic, your government will probably be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy so as to not make things unavailable to the doctors and nurses who need them the most. 
 
 * **Medical mask, preferably N95** (a few EUR/USD) ([example](https://www.amazon.de/dp/B085H6Y6HN))
    > ![](/images/mask.png)
@@ -51,7 +51,7 @@ Shopping for PPE is a lttle tricky because early on in the pandemic people were 
 * **Pulse oxymeter** (20-25 EUR/USD) ([example](https://www.amazon.de/gp/product/B07P3ZS6L3))
    > ![](/images/pulse-oxi.png)
    >
-   > Little gadget that clips on your finger and shows the heart rate (which is easy to measure other ways) and the oxygen saturation in the blood (which is harder to measure any other way).
+   > Little gadget that clips on your finger and shows the heart rate (which is also easy to measure in other ways) and the oxygen saturation in the blood (which is hard to measure any other way).
 
 * **Blood pressure meter** (20 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07KY867ZH))
    > ![](/images/blood-pressure.png)
