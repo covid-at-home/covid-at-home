@@ -2,7 +2,7 @@
 
 ### Don't Get Infected
 
-Where possible, follow the instructions from authorities. This includes the by-now familiar guidelines for social distancing:
+Where possible, follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
 
 * Change greeting. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
 * Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
@@ -14,9 +14,13 @@ Where possible, follow the instructions from authorities. This includes the by-n
 * Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
 * Avoid crowds and unnecessary travel. 
 * Instead of taking public transit, walk or bike wherever you can.
-* Follow any additional government advice, including the eventual advice to stay indoors. 
+* Follow any additional government advice, including the eventual advice to stay indoors when that becomes applicable for where you are.
+* Try to be wary of "alternative facts". Covid is not US biological warfare against China. Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is neccesary. When there is a discrepancy, go with the reputable sources such as:
+   * [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+   * [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
+   * [RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
 
-Remember that there is no difference in potential infectiousness between friends and strangers. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people, than others. Slowing the spread is never absolute, but still works when everyone does what they can, within their limits.
+Remember that there is no difference in potential infectiousness between friends and strangers. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society still works when everyone does what they can, within their limits.
 
 ### Stay Healthy
 
@@ -24,11 +28,11 @@ On top of this, you can do things to stay as healthy as possible:
 
 * Breathe fresh air as often as possible.
 * Ventilate your rooms frequently.
-* Eat appropriate amounts of nutrient-rich, healthy food. Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. Adequate carbohydrate and general nutrient intake are also important. 
-* Hydrate. 
+* Eat appropriate amounts of nutrient-rich, healthy food. Include at least some carbo-hydrates (potatoes, pasta, rice, etc). Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. 
+* Drink enough.
 * Get regular exercise.
 * If you smoke, stop smoking.
-* Avoid heavy drinking and all illicit drug use, as alcohol and drugs tend to suppress immmune function.
+* Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immmune function.
 
 ### Prepare
 
