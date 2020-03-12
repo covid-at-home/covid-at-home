@@ -5,4 +5,4 @@
 
 ### Team meeting
 
-Audio / video team meeting for writing this is [here](https://meet.jit.si/TenseTomatoesPostponeFiercely) or by [dialing in](+15124022718) to +1 512 402 2718 - PIN: 1961 5458 67#
+An ongoing audio / video team meeting for writing/translation efforts wrt to this website is [here](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome) or by [dialing in](+15124022718) to +1 512 402 2718 - PIN: 3558 5897 26# . Just visit and see if anyone is there.
