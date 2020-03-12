@@ -15,10 +15,10 @@ Where possible, follow the instructions from authorities. This includes some of 
 * Avoid crowds and unnecessary travel. 
 * Instead of taking public transit, walk or bike wherever you can.
 * Follow any additional government advice, including the eventual advice to stay indoors when that becomes applicable for where you are.
-* Try to be wary of "alternative facts". Covid is not US biological warfare against China. Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is neccesary. Where there are discrepancies, trust reputable sources such as:
-   * [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
-   * [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
-   * [RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
+* Try to be wary of "alternative facts". Covid is a real virus from natural souces, its effects on the world as a whole will not be "just like the flu, nor will it spell the end of civilisation. Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is neccesary. Where there are discrepancies, trust reputable sources such as:
+   * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+   * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
+   * [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
 
 Remember that there is no difference in potential infectiousness between friends and strangers. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society still works when everyone does what they can, within their limits.
 
