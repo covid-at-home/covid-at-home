@@ -51,7 +51,7 @@ Heart rate is easier to measure than blood pressure, and usually high heart rate
 
 ### Age 65 or older
 
-Age is included in the CRB-65 criteria, and also appears to be a risk factor for more severe Covid manifestations and complications including mortality. The full CRB-65 criteria are as follows: 
+Age is included in the CRB-65 criteria, and also appears to be a risk factor for more severe COVID-19 manifestations and complications including mortality. The full CRB-65 criteria are as follows: 
 - Confusion of new onset (defined as an AMTS of 8 or less)
 - Respiratory rate of 30 breaths per minute or greater
 - Blood pressure less than 90 mmHg systolic or diastolic blood pressure 60 mmHg or less
