@@ -6,11 +6,11 @@ Where possible, follow the guidance from public health authorities. Recent guida
 
 * **Medical mask, preferably N95** (20-30 EUR/USD) ([example](https://www.amazon.de/dp/B085H6Y6HN))
 
-FFP2 or FFP3 respirators (valved or non-valved versions) are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. 
+   > FFP2 or FFP3 respirators (valved or non-valved versions) are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. 
 
 * **Gown** (5 EUR/USD) ([example](https://www.amazon.de/dp/B00FRGIS56))
 
-Best is if you can find a long-sleeved, water-resistant gown. 
+   > Best is if you can find a long-sleeved, water-resistant gown. 
 
 * **Gloves** (10-15 EUR/USD) ([example](https://www.amazon.de/dp/B01LWJ80C7))
 
