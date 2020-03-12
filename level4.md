@@ -37,28 +37,31 @@ If you have an oxymeter (see [shopping page](https://www.covid-at-home.info/shop
 
 ### Very low blood pressure
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) counts as a point in the CRB-65 criteria. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. The [diary
+Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) counts as a point in the CRB-65 criteria (see below). Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](https://www.covid-at-home.info/images/covid-diary.pdf).
 
 Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); syncope (fainting) may occur. 
 
 ### Too high or too low heart rate
 
-Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller people and children often have normally higher heart rates. 
-
+Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller people and children often have normally higher heart rates.
 
 ### Very high fever that comes (back) suddenly
 
+If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important.
 
-### Age 65 or older
+# CRB-65
 
-Age is included in the CRB-65 criteria, and also appears to be a risk factor for more severe COVID-19 manifestations and complications including mortality. The full CRB-65 criteria are as follows: 
-- Confusion of new onset (defined as an AMTS of 8 or less)
-- Respiratory rate of 30 breaths per minute or greater
-- Blood pressure less than 90 mmHg systolic or diastolic blood pressure 60 mmHg or less
-- Age 65+
+Doctors sometimes use the so-called *CRB-65 scale* to roughly evaluate how sick a patient with pneumonia is. This scale uses inputs that we can also measure at home. here's how to do it:
 
-So if you are compiling a CRB-65 score for the patient to assess severity of pneumonia that would normally be used to determine requirement for hospital care, add a point for age. 
+- Confusion of new onset, defined as an AMTS (see above) of 8 or less? Add one point.
+- Respiratory rate of 30 breaths per minute or greater? Add one point.
+- Blood pressure less than 90 mmHg systolic or diastolic blood pressure 60 mmHg or less? Add one point.
+- Age over 65? Add one point.
 
+The resulting number from 0 to 4 means something to many doctors and might be useful to you too. 
+
+> For what it's worth, this is how the scale might be interpreted:
+> Patients with a score of 0 can be treated as outpatients and have a negligible probability of dying due to pneumonia. A score of 1 or 2 suggests that the patient should receive treatment in a hospital. Patients with scores of 3-4 should receive intensive care. In the case that the physician decides on outpatient treatment an appointment for a "second look" 24-48 hours later should be made. The mortality is increased to roughly 5% for patients with a score of 1-2 points. With 3-4 points it increases over 20%.
 
 ### Serious medical situations
 
@@ -68,4 +71,4 @@ Still here? Crap!
 
 Make sure your wider circle know you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. Use Facebook or whatever else you think might help. If you have any spare time after that, organize your patient data, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
 
-Same as Level 3 plus: Ask friends or family for help, tell them to take care about recommendations for Level 4 supporters, inform doctor / hospital about your situation and give them access to your illness diary. At this point it might include a CRB-65 assessment score that can help them speed up triage. Anything you can do to help them assess the situation quickly wil probably be appreciated when the system is overloaded. 
+Ask friends or family for help, tell them to take care about recommendations for Level 4 supporters, inform doctor / hospital about your situation and give them access to your illness diary. At this point it might include a CRB-65 assessment score that can help them speed up triage. Anything you can do to help them assess the situation quickly wil probably be appreciated when the system is overloaded. 
