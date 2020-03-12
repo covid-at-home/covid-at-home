@@ -49,7 +49,7 @@ Heart rate is easier to measure than blood pressure, and usually high heart rate
 
 If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important.
 
-# CRB-65
+### CRB-65
 
 Doctors sometimes use the so-called *CRB-65 scale* to roughly evaluate how sick a patient with pneumonia is. This scale uses inputs that we can also measure at home. here's how to do it:
 
@@ -58,17 +58,14 @@ Doctors sometimes use the so-called *CRB-65 scale* to roughly evaluate how sick 
 - Blood pressure less than 90 mmHg systolic or diastolic blood pressure 60 mmHg or less? Add one point.
 - Age over 65? Add one point.
 
-The resulting number from 0 to 4 means something to many doctors and might be useful to you too. 
-
-> For what it's worth, this is how the scale might be interpreted:
-> Patients with a score of 0 can be treated as outpatients and have a negligible probability of dying due to pneumonia. A score of 1 or 2 suggests that the patient should receive treatment in a hospital. Patients with scores of 3-4 should receive intensive care. In the case that the physician decides on outpatient treatment an appointment for a "second look" 24-48 hours later should be made. The mortality is increased to roughly 5% for patients with a score of 1-2 points. With 3-4 points it increases over 20%.
+The resulting number from 0 to 4 means something to many doctors and might be useful to you too: the higher the score the more severe a case of pneumonia. 
 
 ### Serious medical situations
 
-We feel a little worried giving you many hints and tips. In any normal situation, this is not where you should be taking any decisions based on a guide from the internet anymore. Call a doctor. If official means of getting medical help are clogged, try to get hold of that doctor you know, the nurse down the street, anyone with medical training and/or experience. 
+Alright... So things are serious. If any of the above symptoms happen, call a doctor or call the emergency number. Have professionals deal with the situation and tell you what to do. We feel a little worried giving you many hints and tips beyond that, because the risk is we're making things worse. In any normal situation, this is not where you should be taking any decisions based on a guide from the internet anymore. 
 
-Still here? Crap!
+### What if the official channels are overloaded?
 
-Make sure your wider circle know you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. Use Facebook or whatever else you think might help. If you have any spare time after that, organize your patient data, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
+In the event, however, that official means of getting medical help are completely clogged, try to get hold of that doctor you know, the nurse down the street, anyone with medical training and/or experience. If that doesn't work, make sure your and the patient's wider circle know you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. Use Facebook or whatever else you think might help. If you have any spare time after that, organize your diary pages, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
 
-Ask friends or family for help, tell them to take care about recommendations for Level 4 supporters, inform doctor / hospital about your situation and give them access to your illness diary. At this point it might include a CRB-65 assessment score that can help them speed up triage. Anything you can do to help them assess the situation quickly wil probably be appreciated when the system is overloaded. 
+If you do get through (by phone?) try to inform doctor / hospital about your situation and give them access to your illness diary. Anything you can do to help them assess the situation quickly wil probably be appreciated when the system is overloaded. Only as a very last resort, in situations that have not yet occurred (to our knowledge) in countries with functional healthcare systems, should you put the patient in a car and drive to a hospital in search of help. But if it does come to that, it may make sense to find someone with a van or even a camper van.
