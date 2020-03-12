@@ -6,7 +6,7 @@ This guide is based on the assumption that in the coming months, more people tha
 
 This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information from other credible sources that is more local to where you are.
 
-> **WARNING:** *As of March 12, 2020 this website is a work in progress. We are working with experts to make it better and would appreciate any comments. Please file an issue [here](https://github.com/covid-at-home/covid-at-home.github.io/issues) if you see something that you feel we should change or add. We aim to have the entire site in a somewhat publishable state by tomorrow, March 13, around noon. Italian translation is scheduled to happen first.*
+> **WARNING:** *As of March 12, 2020 this website is a work in progress. We are working with experts to make it better and would appreciate any comments. Please file an issue [here](https://github.com/covid-at-home/covid-at-home.github.io/issues) if you see something that you feel we should change or add. We aim to have the entire site in a somewhat publishable state by tomorrow, March 13, around noon. Italian translation will probably happen first.*
 
 &nbsp; 
 
