@@ -35,7 +35,7 @@ On top of this, you can do things to stay as healthy as possible:
 * Get regular exercise.
 * If you smoke, stop smoking.
 * Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immmune function.
-* Herbal / alternative medicine preparations to improve immunity and in some cases prevent and treat viral infections. There are a number of possibly useful preparations, but the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. Here is a list of some possibly helpful preparations with credible research behind them and citations thereof; our mileage may vary.
+* Herbal / alternative medicine preparations to improve immunity and in some cases prevent and treat viral infections. There are a number of possibly useful preparations, but the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. Here is a list of some possibly helpful preparations with credible research behind them and citations thereof; your mileage may vary.
 
 ### Prepare
 
