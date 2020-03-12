@@ -15,6 +15,7 @@ Where possible, follow the instructions from authorities. This includes some of 
 * Avoid crowds and unnecessary travel. 
 * Instead of taking public transit, walk or bike wherever you can.
 * Instead of going to restaurants, cook and eat at home. 
+* Instead of meeting friends for a coffee or a drink, have a video-chat or coordinate a walk to the grocery store while keeping your safe distance of one meter or a little over 3 feet apart. 
 * Follow any additional government advice, including the eventual advice to stay indoors when that becomes applicable for where you are.
 * Try to be wary of "alternative facts". COVID-19 is real. It's a virus from nature, its effects on the world as a whole will not be "just like the flu," nor will it spell the end of civilisation. Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is neccesary. Where there are discrepancies, trust reputable sources such as:
    * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
