@@ -15,7 +15,7 @@ Where possible, follow the instructions from authorities. This includes some of 
 * Avoid crowds and unnecessary travel. 
 * Instead of taking public transit, walk or bike wherever you can.
 * Follow any additional government advice, including the eventual advice to stay indoors when that becomes applicable for where you are.
-* Try to be wary of "alternative facts". Covid is not US biological warfare against China. Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is neccesary. When there is a discrepancy, go with the reputable sources such as:
+* Try to be wary of "alternative facts". Covid is not US biological warfare against China. Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is neccesary. Where there are discrepancies, trust reputable sources such as:
    * [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
    * [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
    * [RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
@@ -36,7 +36,11 @@ On top of this, you can do things to stay as healthy as possible:
 
 ### Prepare
 
-And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide, and note and obtain any easy-to-get items that you do not have lying around (see: shopping list). It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. It doesn't hurt to be a tiny bit more ready for the worst-case scenario. But remember at the same time that there is no reason to panic, take a deep breath, and continue your regular life as much as possible.
+And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide. It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. It doesn't hurt to be a tiny bit more ready for the worst-case scenario. But remember at the same time that there is no reason to panic, take a deep breath, and continue your regular life as much as possible.
+
+#### Get the things you need
+
+We made a [shopping page](https://www.covid-at-home.info/shopping) that lists handy things that help you care for yourself and others.
 
 ### Existing Medical Conditions
 
@@ -44,8 +48,7 @@ If you or your loved ones have existing medical conditions, now is the time to r
 
 What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe Covid problems?
 - Conditions that involve lungs / breathing problems (e.g., asthma, COPD).
-- Conditions that involve poor clotting, or that require taking blood thinners or immunosuppressant medications (maybe talk to a doctor about stopping them temporarily while you are ill, as Covid and other viral illnesses may decrease platelet and lymphocyte counts). 
+- Conditions that involve poor blood clotting, or that require taking blood thinners or immunosuppressant medications.
 -  Other chronic hematologic, metabolic, neurologic, neuromuscular, cardiovascular, renal, or hepatic disorders (e.g., diabetes, hypertension, sickle cell anemia, muscular dystrophy, congestive heart failure, kidney disease). 
 
-
-During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to suffer because doctors, nurses, hospital systems, and the rest of the healthcare system may be overloaded, and because people may be afraid to go in to doctors' offices or hospitals for fear (sometimes rational) of being exposed to disease. Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? 
+During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to suffer because doctors, nurses, hospital systems, and the rest of the healthcare system may be overloaded, and because people may be afraid to go in to doctors' offices or hospitals for fear (sometimes rational) of being exposed to disease. In case your area is not greatly affected by Covid yet: Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed?
