@@ -10,5 +10,5 @@ This is a list of complementary things (mostly antioxidants and herbs) to improv
 * [Guaifenesin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5724298/), another muco-active substance and common cough syrup ingredient, helps thin mucus to speed healing in acute upper respiratory tract infections as well as chronic sinusitis / bronchitis. 
 * [Glycyrrhizin](https://www.ncbi.nlm.nih.gov/pubmed/12814717), the compound that makes licorice root sweet, has shown activity in inhibiting replication of the SARS-associated coronavirus. Just don't overdo it on this one; licorice toxicity is rare but [not unheard-of](https://emedicine.medscape.com/article/817578-clinical).
 * [Anthemis hyalina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3933739/), a chamomile plant, showed the greatest antiviral load decreasing potential after coronavirus infection of HeLa cells in vitro, compared with sweet orange peel and nigella sativa (also antiviral). 
-* [Povidone-Iodine mouthwash](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4675768/), reduces oral viral load to help prevent transmission. 
+* [Povidone-Iodine mouthwash](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4675768/), reduces oral viral load and thus may help prevent transmission. 
 
