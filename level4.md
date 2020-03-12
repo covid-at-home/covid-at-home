@@ -1,14 +1,16 @@
-## Level 4 -- Severe Symptoms
+## Level 4 -- Professionals take over
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours. Things are getting serious if any of the following occurs:
+As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours.
+
+An emergency is when any of the following occurs:
 
 ### Loss of consciousness
 
-There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)  
+There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
 
 ### Cognitive problems
 
-There's an Abbreviated mental test score (the AMTS) sometimes used to assess for cognitive problems. Compile the score by asking the following questions, giving one point for each correct answer. A score of less than or equal to 8 suggests cognitive problems may be present. 
+You probably know the patient, so you should be able to tell without any fancy tests that they are not with it anymore. But here's the Abbreviated Mental Test Score (the AMTS) sometimes used to assess for cognitive problems. Compile the score by asking the following questions, giving one point for each correct answer. A score of less than or equal to 8 suggests cognitive problems may be present. 
 
 - What is your age? 
 - What is the time to the nearest hour? 
@@ -21,19 +23,19 @@ There's an Abbreviated mental test score (the AMTS) sometimes used to assess for
 - Name the current President/Prime Minister. 
 - Count backwards from 10 down to 1.
 
-If the AMTS suggests cognitive problems, this counts as one point in the CRB-65 criteria, a clinical prediction rule used to assess whether patients with pneumonia have such a severe condition that they would require out-patient or in-patient hospital care under normal circumstances. 
+If the AMTS suggests cognitive problems, this counts as one point in the CRB-65 criteria, a clinical prediction rule used to assess whether patients with pneumonia have such a severe condition that they would require hospital care. 
 
-Immediate home care for cognitive problems may include encouraging the patient to eat and drink, being sure appropriate fever medication has been taken on schedule, and freshly ventilating the room. 
+Immediate home care for cognitive problems may include encouraging the patient to eat and drink, being sure appropriate fever medication has been taken on schedule, and freshly ventilating the room. But really, get help.
 
 ### Too high or too low respiration rate
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and/or watching his or her abdomen, while holding a clock with a second hand or a digital watch/phone stopwatch. Respiration rate (RR) should be higher than 12 bpm and lower than 27. A respiratory rate of 30+ bpm counts as a point in the CRB-65 criteria. 
+Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and/or watching his or her abdomen, while holding a clock with a second hand or a digital watch/phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. A respiratory rate over 30 times a minute counts as a point in the CRB-65 criteria, but you should hopefully have the patient in a hospital well before that.
 
-Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too. 
+Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too.
 
 ### Low oxygen saturation
 
-If you have an oxymeter (see [shopping page](https://www.covid-at-home.info/shopping)), any oxygen saturation lower than 95%  may also indicate a respiratory problem.
+If you have an oxymeter (see [shopping page](https://www.covid-at-home.info/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's lips should turn blue, call an ambulance immediately!
 
 ### Very low blood pressure
 
@@ -62,7 +64,4 @@ The resulting number from 0 to 4 means something to many doctors and might be us
 
 ### Call for help
 
-When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse, call a doctor or call the emergency number and get the patient in an ambulance. Stay calm and report the situation as it is. Your job is done: you have kept a patient out of the medical system while he or she was just sick and now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people and doctors that you are not merely panicking for no reason and will likely help get the patient the care he/she needs sooner.
-
-
-
+When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse, call a doctor or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: you have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people and doctors that you are not merely panicking for no reason and will likely help get the patient the care he/she needs sooner.
