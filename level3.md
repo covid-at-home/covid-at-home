@@ -8,7 +8,7 @@ This is when you start telling other people around you that you are really ill a
 
 ### In any case
 
-* Stay in bed. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in diary). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
+* Stay in bed. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](https://www.covid-at-home.info/images/covid-diary.pdf)). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
 * Ventilate the room as often as possible.
 * Drink more water! (more than 2 liters and less then 5 liters a day).
 * Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
@@ -16,7 +16,7 @@ This is when you start telling other people around you that you are really ill a
 
 At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient is moving to Level 4. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum you're quickly in Level 4.
 
-In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Make sure the disease diary and quarantine are kept up until the patient has been completely well for a while. If you have been caring for the patient, your own two-week self-quarantine period now begins.
+In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Make sure the illness diary and quarantine are kept up until the patient has been completely well for a while. If you have been caring for the patient, your own two-week self-quarantine period now begins.
 
 ### Care work
 
@@ -34,7 +34,7 @@ Some possibly useful behaviors include:
 
 ### Illness diary
 
-It's best to keep the illness diary as a physical rather than electronic document for various reasons (e.g., data are more private and it's easier to take the sheet of paper in to a doctor's office or hospital, than to take a whole computer). To start the illness diary, you might take a sheet of blank computer paper or legal pad and turn it lengthwise / landscape orient it. Write the fields you want to track on the left in the first column header. Write the first day's date at the top in the first row header. Then just fill it out as you go. 
+You might want to use this printable [form](https://www.covid-at-home.info/images/covid-diary.pdf), or make your own. If you make your own, keep in mind it's better to keep the illness diary physical rather than electronic. It protects the data better from a privacy perspective. It also makes it easier to take in to a doctor's office or hospital. To start the illness diary if you want to make your own instead of printing the form, you might take a sheet of blank computer paper or legal pad and turn it lengthwise / landscape orient it. Write the fields you want to track on the left in the first column header. Write the first day's date at the top in the first row header. Then just fill it out as you go. 
 
 Columns should include: 
 - daily weight
@@ -46,7 +46,7 @@ Columns should include:
 - mucus: what color, how much?
 - breathing: is it labored when you're doing nothing, or when you exert yourself? If shortness of breath bothers you, maybe start noting respiration rate in breaths per minute. 
 
-Watch for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness (drink more and eat something if you can), labored breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), rapid heart rate (drink more), and poor capillary refill time (should be 1-2 seconds, check by seeing how long it takes your fingernail to turn its normal color after you press down on it from the top with your fingers flat on a table). Also consider using relaxation techniques to slow a rapid respiration or heart rate that may be partially due to anxiety: Listen to soothing music, check in with a friend electronically, or see if you can slow your breathing and bring down your heart rate by counting longer for forceful exhales than gentle inhales. (Some people use 4-7-8 and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns.)
+Watch for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness (drink more and eat something if you can), labored breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), rapid heart rate (drink more), and poor capillary refill time (should be 1-2 seconds, check by seeing how long it takes your fingernail to turn its normal color after you press down on it from the top with your fingers flat on a table). Also consider using relaxation techniques to slow a rapid respiration or heart rate that may be partially due to anxiety: Listen to soothing music, check in with a friend electronically, or see if you can slow your breathing and bring down your heart rate by counting longer for forceful exhaling than for gentle inhaling. (Some people use 4-7-8 and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns.)
 
 If you think the patient's condition might be worsening, your illness diary might expand to include the following (see also Level 4): 
 - more frequent temperature readings
