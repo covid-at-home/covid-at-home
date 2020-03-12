@@ -8,7 +8,7 @@ Well, if it appears in the next weeks and months, it could very well be Covid. (
 
 ### Diagnosis
 
-> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature rectally (more precise), be sure you have enough wipes and alcohol to clean the thermometer after use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) 
+> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature rectally (i.e. in the ass) it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) 
 
 There will be different policies surrounding testing based on where you are and what stage of the pandemic that area is in. Follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. Under no circumstances should you show up at a doctor's office or hospital unannounced. Hospitals are bad places to be unless you absolutely have to be there: you and/or the patient run the risk of getting additional infections that are more likely to be resistant due to the nature of the hospital environment. 
 
@@ -18,7 +18,15 @@ For most people, this will be as bad as it gets. You'll be sick, and then you'll
 
 ### Self-quarantine
 
-Until tested, assume the patient (you? a family member?) has Covid. That means you are now in self-quarantine at home. No more visitors, a sign on the door (e.g., "Please stop; Covid is here"), and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. You will want to err on the side of safety and try to get everything delivered for 2 weeks. Household members should treat themselves as potentially infected and stay at home too, while keeping the maximum practicable distance from the patient while the patient can take care of him- or herself. Regularly clean all frequently touched surfaces, and then clean again with household bleach water diluted with water (10 ml bleach with .5 liters water to disinfect surfaces that may have been contaminated with secretions). 
+Until tested, assume the patient (you? a family member?) has Covid. That means you are now in self-quarantine at home. No more visitors, a sign on the door (e.g., "Please stop; Covid is here"), and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. You will want to err on the side of safety and try to get everything delivered for 2 weeks. 
+
+### Family, flatmates, etc
+
+Household members should treat themselves as potentially infected and stay at home too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. Regularly clean all frequently touched surfaces, and then clean again with household bleach water diluted with water (10 ml bleach with .5 liters water to disinfect surfaces that may have been contaminated with secretions). This is a time to begin thinking about PPE, or Personal Protection Equipment. This website will contain a special section on PPE soon.
+
+It's important to realise that thinking about protection is very dependent on context. If you can get masks and you haven't been sick yet, it is probably a good idea to wear one. If there is a limited number of cases in your area/region, you probably need to get tested and your health authorities will have rules for your quarantine. These rules supersede this document, just do as they say.
+
+In most places there will probably come a time when the number of cases skyrockets, many people have already had Covid and authorities will no longer keep records of who has had it and who hasn't. If you have to make decisions on your own, try to protect older people and people with existing illnesses as much as possible, and try to minimize spread whereever you can, best you can. The more we slow the disease down, the better it is for everyone.
 
 ### Diary
 
