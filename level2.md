@@ -36,9 +36,9 @@ In most places there will probably come a time when the number of cases skyrocke
 
 When symptoms first start is the right time to start an illness diary. A few times a day, preferably at regular hours, measure temperature, even if you don't feel like you have a fever (yet). Weigh the patient once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to the procedures and if you start early it will give you practise and some idea what (more or less) healthy values look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](https://www.covid-at-home.info/shopping)). Write down what symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? And be sure to note what medication, if any, the patient takes. Paracetamol is a good choice for painkilling and fever supression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than recommended amount in a 24-hour period. 
 
-#### [Diary form](https://www.covid-at-home.info/images/covid-diary.pdf)
+#### Printable form
 
-We have made a printable [form](https://www.covid-at-home.info/images/covid-diary.pdf) that you can use to write down all the information you collect when you take temperature, heart rate etc. Simply print one of these forms for each day and keep the them with the patient in case things get worse and you need to go to hospital.
+We have made a **printable [form](https://www.covid-at-home.info/images/covid-diary.pdf)** that you can use to write down all the information you collect when you take temperature, heart rate etc. If you like you can print one of these forms for each day and keep the them with the patient in case things get worse and you need to go to hospital.
 
 ### Get healthy again
 
