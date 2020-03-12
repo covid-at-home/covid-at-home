@@ -1,6 +1,6 @@
 ## Shopping list
 
-Here are some necessary and handy things to have if you are going to be taking care of someone with Covid-19. None of this is very expensive. If we included examples (on the German version of Amazon) this is not a buying recommendation, we are not making any money if you click that precise one (or another), and by showing you the example we mean "use your local version or whatever other online or retail channel to get something similar". 
+Here are some necessary and handy things to have if you are going to be taking care of someone with COVID-19. None of this is very expensive. If we included examples (on the German version of Amazon) this is not a buying recommendation, we are not making any money if you click that precise one (or another), and by showing you the example we mean "use your local version or whatever other online or retail channel to get something similar". 
 
 &nbsp;
 
@@ -26,7 +26,7 @@ Here are some necessary and handy things to have if you are going to be taking c
 
 ### PPE (Personal Protective Equipment)
 
-Shopping PPE is a lttle tricky because early on the pandemic people were panic-buying masks, making them unavailable in some regions to medical personnel that really needed them. If it's still early in the pandemic, your government will probably be providing masks to people that live with and/or care for people with Covid. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy such as to not make things unavailable for doctors and nurses.
+Shopping PPE is a lttle tricky because early on the pandemic people were panic-buying masks, making them unavailable in some regions to medical personnel that really needed them. If it's still early in the pandemic, your government will probably be providing masks to people that live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy such as to not make things unavailable for doctors and nurses.
 
 * **Medical mask, preferably N95** (20-30 EUR/USD) ([example](https://www.amazon.de/dp/B085H6Y6HN))
 
