@@ -16,7 +16,7 @@ There will be different policies surrounding testing based on where you are and 
 
 ### Don't Panic - The Worried Well
 
-For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain doctors and nurses and available medical resources. We can all help. The "Worried Well" are a medical term for people that visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are really not a good time to for that. This website hopes to give you some confidence and preparedness in caring for yourself, friends and loved ones until you/they actually need professional help.
+For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain doctors and nurses and available medical resources. We can all help. The "Worried Well" are a medical term for people that visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are really not a good time for that. This website hopes to give you some confidence and preparedness in caring for yourself, friends and loved ones until you/they actually need professional help.
 
 ### Self-quarantine
 
