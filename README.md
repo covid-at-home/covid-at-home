@@ -1,4 +1,4 @@
-## The website that this github repository is the editing back-end to live at
+## The website that this github repository is the editing back-end to is live at
 
 # [covid-at-home.info](https://www.covid-at-home.info)
 
