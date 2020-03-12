@@ -33,11 +33,11 @@ Immediate home care for respiratory problems may include ventilating the patient
 
 ### Low oxygen saturation
 
-If you have an oxymeter, oxygen saturation of < 92%  also indicates a likely respiratory problem. 
+If you have an oxymeter (see [shopping page](https://www.covid-at-home.info/shopping)), any oxygen saturation lower than 95%  may also indicate a respiratory problem.
 
 ### Very low blood pressure
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) counts as a point in the CRB-65 criteria. 
+Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) counts as a point in the CRB-65 criteria. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. The [diary
 
 Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); syncope (fainting) may occur. 
 
