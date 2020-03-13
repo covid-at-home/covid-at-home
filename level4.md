@@ -39,7 +39,7 @@ If you or the patient are experiencing shortness of breath / labored breathing, 
 
 ### Low oxygen saturation
 
-If you have an oxymeter (see [shopping page](https://www.covid-at-home.info/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
 
 ![](/images/cyanosis.png)
 
@@ -51,7 +51,7 @@ If the patient's skin gets a lacy purple overlay (also called livedo reticularis
 
 ### Very low blood pressure
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](https://www.covid-at-home.info/images/covid-diary.pdf).
+Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](/images/covid-diary.pdf).
 
 If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
 
