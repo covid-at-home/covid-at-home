@@ -14,7 +14,7 @@ Is COVID-19 spread in the community where you live? Or have you been to an affec
 
 ### Diagnosis
 
-There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. **Under no circumstances should you just show up at a doctor's office or a hospital unannounced.**
+There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. **You should not just show up at a doctor's office or a hospital unannounced if you just experience the first symptoms.**
 
 > Remember: Hospitals are bad places to be until you absolutely have to be there: You and / or the patient run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded.
 
