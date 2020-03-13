@@ -5,7 +5,7 @@ Do you suffer from any of the following symptoms:
 * Dry cough
 * Fever
 * Shortness of breath
-* Coughing up slime?
+* Coughing up slime
 * Fatigue
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone that was in an affected area? Then your symptoms could very well be COVID-19. But remember: in many areas the odds that it's something else will still be greater.
