@@ -26,7 +26,13 @@ Here are some necessary and handy things to have if you are going to be taking c
 
 ### PPE (Personal Protective Equipment)
 
-Shopping for PPE is a little tricky for several reasons. You may not be familiar with what kinds of protection are needed in what situations, how to fit it, or how to dispose of/disinfect the equipment so it really works to protect you and others. Plus, some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy so as to not make things unavailable to the doctors and nurses who need them the most. 
+Shopping for PPE is a little tricky for several reasons.
+
+First of all you may not be familiar with what kinds of protection are needed in what situations. Also it is surprisingly hard to make sure your mask has a proper fit. Make sure you watch some YouTube videos on how to safely put on, use and dispose of your PPE to make sure it really works to protect you and others.
+
+Then there's the fact that some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy so as to not make things unavailable to the doctors and nurses who need them the most. 
+
+When it comes right down to it you'll have to make your own choices as to the level of protection that is appropriate in your situation.
 
 * **Medical mask, preferably N95** (a few EUR/USD) ([example](https://www.amazon.de/dp/B085H6Y6HN))
    > ![](/images/mask.png)
