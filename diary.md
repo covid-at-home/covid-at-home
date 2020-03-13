@@ -2,7 +2,7 @@
 
 We have created an example of what a diary page in your COVID diary could look like. It looks a lot like the information they keep about patients in hospitals. It may seem a bit overengineered, but it allows you to keep track of how someone is doing and then (if you need to see a doctor or go to hospital) hand over whatever data you have kept in a format that doctors like to read. Simply print one of these these for every day that the patient is sick. Since you don't want to find out you're out of printer paper in the middle of this, maybe print out 20-30 of these as part of your preparation. Don't worry if you don't have equipment to do all these measurements. (Although it is pretty cheap to get and it really doesn't hurt to have, see the [shopping page](/shopping).)
 
-<a href="/images/covid-diary.pdf"><img style="border: 1px;" src="/images/covid-diary.png"></img></a>
+<a href="/images/covid-diary.pdf"><img style="border: 2px solid black" src="/images/covid-diary.png"></a>
 
 ### Starting the diary
 
