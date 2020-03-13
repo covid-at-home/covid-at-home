@@ -35,7 +35,7 @@ On top of this, you can do things to stay as healthy as possible:
 * Get regular exercise.
 * If you smoke, stop smoking.
 * Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immmune function.
-* If you want to do more after first covering these essentials, then consider [complementary medicine options](https://www.covid-at-home.info/complementary) to improve immunity, prevent and treat upper respiratory and / or viral infections, and the like. There are a number of possibly useful options, but keep in mind that the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. 
+* If you want to do more after first covering these essentials, then consider [complementary medicine options](/complementary) to improve immunity, prevent and treat upper respiratory and / or viral infections, and the like. There are a number of possibly useful options, but keep in mind that the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. 
 
 ### Prepare
 
@@ -43,7 +43,7 @@ And on top of that, you can prepare so that you are familiar with the things tha
 
 #### Get the things you need
 
-We made a [shopping page](https://www.covid-at-home.info/shopping) that lists handy things that may help you care for yourself and others.
+We made a [shopping page](/shopping) that lists handy things that may help you care for yourself and others.
 
 ### Existing Medical Conditions
 
