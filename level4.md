@@ -29,9 +29,13 @@ Immediate home care for cognitive problems / confusion may include encouraging t
 
 ### Too high or too low respiration rate
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. A respiratory rate over 30 breaths a minute counts as a point in the CRB-65 criteria, but you should hopefully have the patient in a hospital well before that.
+Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. 
 
 Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too (see Level 3, Care work).
+
+![](/images/dyspnoe.png)
+
+If you or the patient are experiencing shortness of breath / labored breathing, seek medical advice. 
 
 ### Low oxygen saturation
 
@@ -47,7 +51,7 @@ If the patient's skin gets a lacy purple overlay (also called livedo reticularis
 
 ### Very low blood pressure
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) counts as a point in the CRB-65 criteria (see below). Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](https://www.covid-at-home.info/images/covid-diary.pdf).
+Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](https://www.covid-at-home.info/images/covid-diary.pdf).
 
 If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
 
