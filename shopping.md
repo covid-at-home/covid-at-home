@@ -1,6 +1,6 @@
 ## Shopping list
 
-Here are some necessary and handy things to have if you are going to be taking care of someone with COVID-19. None of this is very expensive. If we included examples (generally on the German version of Amazon) this is not a buying recommendation, we are not making any money if you click that precise one - or any other. By showing you the example we mean nothing more than *"use whatever online or retail channel you like to get something similar"*. 
+Here are some necessary and handy things to have if you are going to be taking care of someone with COVID-19. None of this is very expensive. If we included examples (generally on the German version of Amazon), this is not a buying recommendation and we are not making any money if you click that precise one (or any other). By showing you the example, we mean nothing more than *"something like this"*. Use whatever online or retail channel you like to get something similar. 
 
 &nbsp;
 
@@ -10,23 +10,23 @@ Here are some necessary and handy things to have if you are going to be taking c
 
    > ![](/images/thermometer.png)
    > 
-   > So important that you should probably check yours if it's been in the bathroom cabinet for ages. Is the battery still OK? It really doesn't hurt to have two, just in case. At 2-10 bucks they make great gifts (and as they may be inserted anally to get a more precise measurement, they may not be items you want to loan to someone.)
+   > So important that you should probably check yours if it's been in the bathroom cabinet for ages. Is the battery still OK? It really doesn't hurt to have two, just in case. At 2-10 bucks, they make great gifts (and as they may be inserted anally to get a more precise measurement, they may not be items you want to loan to someone.)
 
 * **Enough sheets, pillow casings, towels**
    
-   > Stuff most everyone has in the home, but just to be sure: once people get sick you want to change the bed linens often, and you may use more towels also.
+   > Stuff most everyone has in the home, but just to be sure: Once people get sick, you want to change the bed linens often, and you may use more towels also.
    
 * **Cleaning supplies, bleach**
 
 * **Paracetamol**
 
-  > The painkiller and fever supressant of choice. Unless you are allergic to it, in which case ibuprofen may be the next best thing. Make sure you follow the packing slip instructions and do not exceed the maximum recommended daily dose.
+  > The fever supressant and painkiller of choice. Unless you are allergic to it, in which case ibuprofen may be the next best thing. Make sure you follow the packaging instructions and do not exceed the maximum recommended daily dose.
 
 &nbsp;
 
 ### PPE (Personal Protective Equipment)
 
-Shopping for PPE is a lttle tricky because early on in the pandemic people were panic-buying masks, making them unavailable in some regions to medical personnel who really needed them. If it's still early in the pandemic, your government will probably be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy so as to not make things unavailable to the doctors and nurses who need them the most. 
+Shopping for PPE is a little tricky for several reasons. You may not be familiar with what kinds of protection are needed in what situations, how to fit it, or how to dispose of/disinfect the equipment so it really works to protect you and others. Plus, some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. Please listen to official advice on what **not** to buy so as to not make things unavailable to the doctors and nurses who need them the most. 
 
 * **Medical mask, preferably N95** (a few EUR/USD) ([example](https://www.amazon.de/dp/B085H6Y6HN))
    > ![](/images/mask.png)
