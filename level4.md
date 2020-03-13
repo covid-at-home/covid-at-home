@@ -2,15 +2,15 @@
 
 As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours.
 
-You should interpret any of the following as a medical emergency: 
+You should interpret any of the following as a medical emergency:
 
 ### Loss of consciousness
 
 There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
 
-Immediate home care for loss of consciousness may include encouraging the patient to eat and drink, and freshly ventilating the room. But really, get help.
+If loss of consciousness is brief, home care may include encouraging the patient to eat and drink, and freshly ventilating the room. But if this persists, get help.
 
-### Cognitive problems
+### Cognitive problems / confusion
 
 You probably know the patient, so you should be able to tell without any fancy tests if / when they are not with it anymore. But here's the Abbreviated Mental Test Score (the AMTS) sometimes used to assess for cognitive problems. Compile the score by asking the following questions, giving one point for each correct answer. A score of less than or equal to 8 suggests cognitive problems may be present. 
 
@@ -25,9 +25,7 @@ You probably know the patient, so you should be able to tell without any fancy t
 - Name the current President / Prime Minister. 
 - Count backwards from 10 down to 1.
 
-If the AMTS suggests cognitive problems, this counts as one point in the CRB-65 criteria, a clinical prediction rule used to assess whether patients with pneumonia have such a severe condition that they would require hospital care. 
-
-Immediate home care for cognitive problems may include encouraging the patient to eat and drink, being sure appropriate fever medication has been taken on schedule, and freshly ventilating the room. But really, again, get help.
+Immediate home care for cognitive problems / confusion may include encouraging the patient to eat and drink, being sure appropriate fever medication has been taken on schedule, and freshly ventilating the room. But really, again, new and persistent confusion is a bad sign. Time to get help.
 
 ### Too high or too low respiration rate
 
@@ -37,15 +35,23 @@ Immediate home care for respiratory problems may include ventilating the patient
 
 ### Low oxygen saturation
 
-If you have an oxymeter (see [shopping page](https://www.covid-at-home.info/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's lips or fingertips take on a blue-ish tint (called cyanosis), call an ambulance immediately! Anything less than 99%, get fresh air into the patient's room, and get him or her warm.
+If you have an oxymeter (see [shopping page](https://www.covid-at-home.info/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+
+![](/images/cyanosis.png)
+
+(Also call a doctor if the fingers, toes or lips turn less blue than this...)
+
+If the patient's skin gets a lacy purple overlay (also called livedo reticularis) like below (and that's not normal for the patient), that is also a reason to call for help.
+
+![](/images/livedo-reticularis.png)
 
 ### Very low blood pressure
 
 Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) counts as a point in the CRB-65 criteria (see below). Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](https://www.covid-at-home.info/images/covid-diary.pdf).
 
-If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should blanch (lose color). Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate a medical emergency. It could also be a symptom of dehydration. 
+If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
 
-Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); syncope (fainting) may occur. But really, once again, if things do not look right somehow - if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal - again, get help.
+Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow - if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal - again, get help.
 
 ### Too high or too low heart rate
 
@@ -54,17 +60,6 @@ Heart rate is easier to measure than blood pressure, and usually high heart rate
 ### Very high fever that comes (back) suddenly
 
 If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
-
-### CRB-65
-
-Doctors sometimes use the so-called *CRB-65 scale* to roughly evaluate how sick a patient with pneumonia is. This scale uses inputs that we can also measure at home. Here's how to do it:
-
-- Confusion of new onset, defined as an AMTS (see above) of 8 or less? Add one point.
-- Respiratory rate of 30 breaths per minute or greater? Add one point.
-- Blood pressure less than 90 mmHg systolic or diastolic blood pressure 60 mmHg or less? Add one point.
-- Age over 65? Add one point.
-
-The resulting number from 0 to 4 means something to many doctors and might be useful to you, too: The higher the score, the more severe a case of pneumonia. But really: All symptoms from the list above are serious enough to seek professional medical help.
 
 ### Call for help
 
