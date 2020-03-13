@@ -8,7 +8,7 @@ This is when you start telling other people around you that you are really ill a
 
 ### In any case
 
-* Stay in bed. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](https://www.covid-at-home.info/images/covid-diary.pdf)). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
+* Stay in bed. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
 * Ventilate the room as often as possible.
 * Drink more water! (more than 2 liters and less then 5 liters a day).
 * Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
@@ -34,7 +34,7 @@ Some possibly useful behaviors include:
 
 ### Illness diary
 
-As mentioned in the previous section, you might want to use this printable [form](https://www.covid-at-home.info/images/covid-diary.pdf), or make your own. 
+As mentioned in the previous section, you might want to use this [printable form](/images/covid-diary.pdf), or make your own. 
 
 At this stage, watch out especially for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness or rapid heart rate (drink more and eat something if you can), rapid breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), and a blue tint to fingertips or lips (cyanosis - get fresh air, get warm, and check blood oxygenation if possible). Also consider using relaxation techniques to slow a rapid respiration or heart rate that may be partially due to anxiety: Listen to soothing music, check in with a friend electronically, or see if you can slow your breathing and bring down your heart rate by counting longer for forceful exhaling than for gentle inhaling. (Some people use 4-7-8 and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns.)
 
