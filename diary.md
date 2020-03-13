@@ -10,8 +10,8 @@ You probably want to take a look at this and keep the data in this format even i
 
 ### Diary procedure
 
-At the beginning of each day you fill in the information on the right. Name, date of birth, sex, and whether or not the patient was tested positive for SARS-CoV-2, the virus that causes COVID-19. First thing in the morning the patient is weighed if possible, so you can see over time if the patient is losing a lot of weight. Then every time you take measurements you note the time in the top row, and then fill in measurements in the column underneath.
+At the beginning of each day you fill in the information on the right. Name, date of birth, sex, and whether or not the patient was tested positive for SARS-CoV-2, the virus that causes COVID-19. First thing in the morning the patient is weighed if possible, so you can see over time if the patient is losing a lot of weight. Then every time you take measurements you note the time in the top row, and then fill in measurements in the column underneath. Anything else is noted on the right side under notes. 
 
 ### When things get serious
 
-As the patients gets sicker, you will want to refer to the "Level 4" chapter in the [main text](/) for some basic guidance as to when to call a doctor or go to hospital. This basic guidance is just that, a guide to help you get a very very basic sense of what is "just sick" vs. "too sick to be at home". You are not a doctor. If you feel insecure, call for help.
+If the patients gets sicker and sicker, you will want to refer to the "Level 4" chapter in the [main text](/) for some basic guidance as to when to call a doctor or go to hospital. This basic guidance is just that, a guide to help you get a very very basic sense of what is "just sick" vs. "too sick to be at home". You are not a doctor. If you feel insecure, call for help.
