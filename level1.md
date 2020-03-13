@@ -12,8 +12,8 @@ Where possible, follow the instructions from authorities. This includes some of 
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
 * Work from home when possible.
 * Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
-* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy.
-* Instead of taking public transit, walk or bike wherever you can.
+* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your personal distance from others and move away from anyone who seems to be ill (e.g., is coughing or sneezing). 
+* Instead of taking public transit, walk or bike wherever you can. If you must take public transit, again keep your personal distance from others and move away from anyone who is ill. 
 * Instead of going to restaurants, cook and eat at home. 
 * Instead of meeting friends for a coffee or a drink, have a video-chat or coordinate a walk to the grocery store while keeping your safe distance of one meter or a little over 3 feet apart. 
 * Follow any additional government / public health authority advice, including the eventual advice to stay indoors when that becomes applicable for where you are.
