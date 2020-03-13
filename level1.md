@@ -51,7 +51,7 @@ If you or your loved ones have existing medical conditions, now is the time to r
 
 What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe COVID-19 problems?
 - Conditions that involve lungs / breathing problems (e.g., asthma, COPD).
-- Conditions that involve poor blood clotting, or that require taking blood thinners or immunosuppressant medications.
+- Conditions that involve poor blood clotting or compromised immune function, or that require taking immunosuppressant medications.
 - Other chronic hematologic, metabolic, neurologic, neuromuscular, cardiovascular, renal, or hepatic disorders (e.g., diabetes, hypertension, sickle cell anemia, muscular dystrophy, congestive heart failure, kidney disease). 
 
 During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to suffer because doctors, nurses, hospitals, and the rest of the healthcare system may be overloaded, and because people may be afraid to go in to doctors' offices or hospitals for fear (sometimes rational) of being exposed to disease. In case your area is not greatly affected by COVID-19 yet: Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? Do it now. 
