@@ -36,11 +36,27 @@ In most places, there will probably come a time when the number of cases skyrock
 
 ### Diary
 
-When symptoms first start is the right time to start an illness diary. A few times a day, preferably at regular hours, measure temperature, even if you don't feel like you have a fever (yet). Weigh the patient once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](https://www.covid-at-home.info/shopping)). Write down what symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? And be sure to note what medication, if any, the patient takes. Paracetamol is a good choice for fever supression and pain management. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period. 
+When symptoms first start is the right time to start an illness diary. 
+
+A few times a day, preferably at somewhat regular hours or points in your normal routines or rhythms (e.g., every morning before making coffee or tea), measure temperature, even if you don't feel like you have a fever (yet). Weigh once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](https://www.covid-at-home.info/shopping)). 
+
+Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. Paracetamol is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period. 
 
 #### Printable illness diary
 
 We made a **printable [illness diary](https://www.covid-at-home.info/images/covid-diary.pdf)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. If you like, you can print one of these forms for each day and keep them with the patient in case things get worse and you need to go to hospital.
+
+If you make your own illness diary instead, keep in mind it's better to keep it physical rather than electronic. This protects your medical data better from a privacy perspective. It also makes it easier to take the diary in to a doctor's office or hospital. To start the illness diary if you want to make your own instead of printing the form, you might take a sheet of blank computer paper or legal pad and turn it lengthwise (i.e., landscape-orient it). Write the fields you want to track on the left in the first column header. Write the first day's date at the top in the first row header. Then just fill it out as you go. 
+
+Columns should include: 
+- daily weight
+- temperature and time
+- fever medication: drug, dose, time(s)
+- other medications: same
+- pain: where, when, how bad it is from 0 (no pain) to 10 (worst pain imaginable)
+- coughing: does it hurt, is it productive, wet or dry, frequent or occasional, does it interfere with sleep?
+- mucus: what color, how much?
+- breathing: is it labored when you're doing nothing, or when you exert yourself? If shortness of breath bothers you, maybe start noting respiration rate in breaths per minute. 
 
 ### Get healthy again
 
