@@ -50,7 +50,7 @@ If the patient's condition seems to be worsening, skip to the next section.
 
 At this stage, a typical day might look something like this: 
 
-You (or the patient) get up, weigh, and note weight in illness diary. You might also want to take your temperature first thing, before eating or drinking, especially if you are taking temprature orally - and note it in the illness diary, too. 
+You (or the patient) get up, weigh, and note weight in illness diary. You might also want to take your temperature first thing, before eating or drinking, especially if you are taking temperature orally - and note it in the illness diary, too. 
 
 Then, start drinking fluids. Not too much caffeine or sugar. As much water and herbal tea as you like. Remember you want to drink at least 2 liters and up to 5 liters a day. 
 
