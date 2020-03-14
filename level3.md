@@ -6,6 +6,8 @@ All the good care in Level 2 has not worked and things are getting worse. Doesn'
 
 This is when you start telling other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath which inevitably will also affect your ability to talk and to think clearly.
 
+![](/images/sick-in-bed.png)
+
 ### In any case
 
 * Stay in bed. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
