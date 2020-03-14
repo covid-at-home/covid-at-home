@@ -1,5 +1,7 @@
 ## Level 2 -- Emerging Symptoms
 
+![](sneezing-emoji.png)
+
 Notice if you suffer from any of the following first symptoms:
 
 * Fever
