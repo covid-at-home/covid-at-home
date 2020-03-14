@@ -48,7 +48,9 @@ When symptoms first start is the right time to start an illness diary.
 A few times a day, preferably at somewhat regular hours or points in your normal routines or rhythms (e.g., every morning before making coffee or tea), measure temperature, even if you don't feel like you have a fever (yet). Weigh once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](/shopping)). 
 
 Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. 
-amol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period. 
+amol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
+
+[![](/images/diary-small-slanted.png)](/diary)
 
 #### Printable illness diary
 
