@@ -52,18 +52,7 @@ amol (also known as acetaminophen) is a good choice for fever and pain suppressi
 
 #### Printable illness diary
 
-We made a **printable [illness diary](/images/covid-diary.pdf)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. If you like, you can print one of these forms for each day and keep them with the patient in case things get worse and you need to go to hospital.
-
-If you make your own illness diary instead, keep in mind it's better to keep it physical rather than electronic. This protects your medical data better from a privacy perspective. It also makes it easier to take the diary in to a doctor's office or hospital. To start the illness diary if you want to make your own instead of printing the form, you might take a sheet of blank computer paper or legal pad and turn it lengthwise (i.e., landscape-orient it). Write the fields you want to track on the left in the first column header. Write the first day's date at the top in the first row header. Then just fill it out as you go. 
-
-Columns should include: 
-- daily weight
-- temperature and time
-- fever medication: drug, dose, time(s)
-- other medications: same
-- pain: where, when, how bad it is from 0 (no pain) to 10 (worst pain imaginable)
-- coughing: does it hurt, is it productive, frequent or occasional, does it interfere with sleep?
-- breathing: is it labored when you're doing nothing, or when you exert yourself? If shortness of breath bothers you, maybe start noting respiration rate in breaths per minute. 
+We made a **[printable illness diary](/diary)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. Please check out the form and our webpage about it via the link above.
 
 ### Get healthy again
 
@@ -71,7 +60,7 @@ Treat pain and fever with over-the-counter medication at the recommended safe do
 
 Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and teas are better choices then. 
 
-Notice the color and amount of your urine. If it is dark (more colored than clear), or there is not a lot, drink more water. It is very important to avoid and treat dehydration by drinking enough, even though it can be hard to drink enough when you have a fever / are sweating a lot, and are suffering from fatigue and discomfort due to illness. If you are struggling to drink enough and beginning to show signs of dehydration like concentrated urine, you might also try eating foods containing more water (e.g., cucumber, oranges, apples), sipping on boullion or soup, or setting a small goal for yourself (e.g., every time you get up, drink a glass of water). 
+Notice the color and amount of your urine. If it is dark (more colored than clear), or there is not a lot, drink more water. It is very important to avoid and treat dehydration by drinking enough, even though it can be hard to drink enough when you have a fever / are sweating a lot, and are suffering from fatigue and discomfort due to illness. If you are struggling to drink enough and beginning to show signs of dehydration like darker urine, you might also try eating foods containing more water (e.g., cucumber, oranges, apples), sipping on boullion or soup, or setting a small goal for yourself (e.g., every time you get up, drink a glass of water). 
 
 Coughing can be an important, healthy effort on the part of the body to clear the lungs of fluid so you can breathe easier. Do not suppress a productive cough all the time / just because you don't want to be coughing. However, if you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, then over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, generally considered safe mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
 
