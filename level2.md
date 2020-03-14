@@ -1,6 +1,6 @@
 ## Level 2 -- Emerging Symptoms
 
-Notice if you suffer from any of the following symptoms:
+Notice if you suffer from any of the following first symptoms:
 
 * Fever
 * Fatigue
@@ -8,7 +8,7 @@ Notice if you suffer from any of the following symptoms:
 * Joint / muscle pain
 * Shortness of breath
 
-Symptoms may also include headache, dizziness, abdominal pain, diarrhea, nausea, and vomiting - but these are less common. 
+First symptoms may also include headache, dizziness, abdominal pain, diarrhea, nausea, and vomiting - but these are less common. 
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
@@ -57,12 +57,15 @@ Columns should include:
 - other medications: same
 - pain: where, when, how bad it is from 0 (no pain) to 10 (worst pain imaginable)
 - coughing: does it hurt, is it productive, frequent or occasional, does it interfere with sleep?
-- mucus: what color, how much?
 - breathing: is it labored when you're doing nothing, or when you exert yourself? If shortness of breath bothers you, maybe start noting respiration rate in breaths per minute. 
 
 ### Get healthy again
 
-Treat pain and fever with over-the-counter medication of your preference (e.g., paracetamol) at the recommended safe dosages; getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable). Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and herbal teas are better choices then. If your mucus (slime) production is high, consider avoiding dairy as it can increase mucus production; avoiding dairy, excessive salt intake, and nitrates (which are used in most cold cuts / deli meats) is also recommended for people with lung disease. If you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
+Treat pain and fever with over-the-counter medication of your preference (e.g., paracetamol) at the recommended safe dosages; getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable - you don't want to accidentally raise your core body temperature by making yourself shiver). Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and teas are better choices then. 
+
+Notice the color and amount of your urine. If it is dark (more colored than clear), or there is not a lot, drink more water. It is very important to avoid and treat dehydration by drinking enough, even though it can be hard to drink enough when you have a fever / are sweating a lot, and are suffering from fatigue and discomfort due to illness. If you are struggling to drink enough and beginning to show signs of dehydration like concentrated urine, you might also try eating foods containing more water (e.g., cucumber, oranges, apples), sipping on boullion or soup, or setting a small goal for yourself (e.g., every time you get up, drink a glass of water). 
+
+If your mucus (slime) production is high, consider avoiding dairy as it can increase mucus production; avoiding dairy, excessive salt intake, and nitrates (which are used in most cold cuts / deli meats) is also recommended for people with lung disease. If you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, generally considered safe mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
 
 ### Feeling better?
 
