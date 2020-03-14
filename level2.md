@@ -10,7 +10,7 @@ Notice if you suffer from any of the following symptoms:
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
-> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature rectally (i.e., in the ass), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) 
+> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature rectally (i.e., in the ass), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
 
 ### Diagnosis
 
