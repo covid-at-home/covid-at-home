@@ -34,7 +34,7 @@ Then there's the fact that some people have been panic-buying and some companies
 
 When it comes right down to it you'll have to make your own choices as to the level of protection that is appropriate in your situation.
 
-* **Medical mask, preferably N95** (a few EUR/USD) ([example](https://www.amazon.de/dp/B085H6Y6HN))
+* **Medical mask, preferably N95** (a few EUR/USD) ([example](https://www.amazon.de/dp/B0856T8DC2))
    > ![](/images/mask.png)
    > 
    > FFP2 or FFP3 respirators (valved or non-valved versions) are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator.
