@@ -35,7 +35,6 @@ Remember that there is no difference in potential infectiousness between friends
 
 On top of this, you can do things to stay as healthy as possible:
 
-* Breathe fresh air as often as possible.
 * Ventilate your rooms frequently.
 * Eat appropriate amounts of nutrient-rich, healthy food. Include at least some carbohydrates (e.g., bread, potatoes, pasta, rice, etc). Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. 
 * Drink enough fluids, mostly water.
