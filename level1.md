@@ -34,7 +34,7 @@ On top of this, you can do things to stay as healthy as possible:
 * Drink enough fluids, mostly water.
 * Get regular exercise.
 * If you smoke, stop smoking.
-* Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immmune function.
+* Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immune function.
 * If you want to do more after first covering these essentials, then consider [complementary medicine options](/complementary) to improve immunity, prevent and treat upper respiratory and / or viral infections, and the like. There are a number of possibly useful options, but keep in mind that the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. 
 
 ### Prepare
@@ -52,7 +52,7 @@ If you or your loved ones have existing medical conditions, now is the time to r
 What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe COVID-19 problems?
 - Conditions that involve lungs / breathing problems (e.g., asthma, COPD, lung cancer).
 - Conditions that involve compromised immune function, or that require taking immunosuppressant medications (e.g., lupus, arthritis).
-- Other chronic hematologic, metabolic, neurologic, neuromuscular, cardiovascular, renal, or hepatic disorders (e.g., diabetes, hypertension, sickle cell anemia, muscular dystrophy, congestive heart failure, kidney disease). 
+- Other chronic haematologic, metabolic, neurologic, neuromuscular, cardiovascular, renal, or hepatic disorders (e.g., diabetes, hypertension, sickle cell anaemia, muscular dystrophy, congestive heart failure, kidney disease). 
 
 If the situation is still somewhat normal where you are, this may be good moment to briefly ask your doctor what (if anything) she/he thinks you should do now, and what you should do if you fall ill.
 
