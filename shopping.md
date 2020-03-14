@@ -18,9 +18,9 @@ Here are some necessary and handy things to have if you are going to be taking c
    
 * **Cleaning supplies, bleach**
 
-* **Paracetamol**
+* **Paracetamol (also known as acetaminophen)**
 
-  > The fever supressant and painkiller of choice. Unless you are allergic to it, in which case ibuprofen may be the next best thing. Make sure you follow the packaging instructions and do not exceed the maximum recommended daily dose.
+  > The fever supressant and painkiller of choice. Make sure you follow the packaging instructions and do not exceed the maximum recommended daily dose.
 
 &nbsp;
 
