@@ -7,6 +7,7 @@ Notice if you suffer from any of the following first symptoms:
 * Dry (unproductive) cough
 * Joint / muscle pain
 * Shortness of breath
+* Lack of hunger
 
 First symptoms may also include headache, dizziness, abdominal pain, diarrhea, nausea, and vomiting - but these are less common. 
 
