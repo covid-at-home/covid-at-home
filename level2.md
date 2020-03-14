@@ -45,7 +45,8 @@ When symptoms first start is the right time to start an illness diary.
 
 A few times a day, preferably at somewhat regular hours or points in your normal routines or rhythms (e.g., every morning before making coffee or tea), measure temperature, even if you don't feel like you have a fever (yet). Weigh once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](/shopping)). 
 
-Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. Paracetamol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period. 
+Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. 
+amol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period. 
 
 #### Printable illness diary
 
@@ -64,7 +65,7 @@ Columns should include:
 
 ### Get healthy again
 
-Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol / acetaminophen if you can. Questions are emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. Getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable - you don't want to accidentally raise your core body temperature by making yourself shiver). 
+Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol (also known as acetaminophen) if you can. Questions are emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. Getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable - you don't want to accidentally raise your core body temperature by making yourself shiver). 
 
 Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and teas are better choices then. 
 
