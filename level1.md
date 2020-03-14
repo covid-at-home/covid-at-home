@@ -6,7 +6,6 @@ Where possible, follow the instructions from authorities. This includes some of 
 
 * Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
 * Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
-* If you have to touch something, try fidgeting with a rubber band around your wrist, or find another replacement behavior. 
 * Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
 * Regularly sterilize doorknobs, table surfaces, keyboards, and other places people frequently touch.
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
@@ -58,7 +57,7 @@ If you or your loved ones have existing medical conditions, now is the time to r
 What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe COVID-19 problems?
 - Conditions that involve lungs / breathing problems (e.g., asthma, COPD, lung cancer).
 - Conditions that involve compromised immune function, or that require taking immunosuppressant medications (e.g., lupus, arthritis).
-- Other chronic haematologic, metabolic, neurologic, neuromuscular, cardiovascular, renal, or hepatic disorders (e.g., diabetes, hypertension, sickle cell anaemia, muscular dystrophy, congestive heart failure, kidney disease). 
+- Other chronic cardiovascular, hematologic, hepatic, metabolic, neurologic, neuromuscular, renal, or disorders (e.g., hypertension, sickle cell anemia, diabetes, muscular dystrophy, kidney disease). 
 
 ### Preventive Care
 
