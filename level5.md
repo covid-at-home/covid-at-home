@@ -8,7 +8,7 @@ In the event that official means of getting medical help are unavailable, you mi
 
 If you do get through (by phone?) try to stay calm and help the doctor / hospital assess the situation quickly. 
 
-In cases where abulances are the bottleneck and you feel you need one, you will have to make your own judgement whether you want to try and drive to the emergency room or wait and hope to get through. Plan which hospital you go to first and maybe have someone who is not driving with access to the internet, either in the car or on the speakerphone. Please drive safely in any case, the last thing you want is a sick patient in a car accident.
+In cases where ambulances are the bottleneck and you feel you need one, you will have to make your own judgement whether you want to try and drive to the emergency room or wait and hope to get through. Plan which hospital you go to first and maybe have someone who is not driving with access to the internet, either in the car or on the speakerphone. Please drive safely in any case, the last thing you want is a sick patient in a car accident.
 
 &nbsp;
 
