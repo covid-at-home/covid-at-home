@@ -4,6 +4,8 @@ We have created an example of what a diary page in your COVID diary could look l
 
 <a href="/images/covid-diary.pdf"><img style="border: 2px solid black; drop-shadow(16px 16px 10px black)" src="/images/covid-diary.png"></a>
 
+(click the image to get the PDF to print)
+
 ### Starting the diary
 
 You probably want to take a look at this and keep the data in this format even if the patient is just developing symptoms. It doesn't matter if you don'f fill in most of the data or don't fill it in often, but this is actually a good time to get a feel for what - more or less - normal values look like. When the patient is in bed and possibly has other people taking care of him or her, you can take measurements a bit more often.
