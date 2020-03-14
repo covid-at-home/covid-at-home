@@ -56,7 +56,7 @@ Then, start drinking fluids. Not too much caffeine or sugar. As much water and h
 
 Air out your home as much as possible, perhaps while the water for your morning tea or coffee is boiling.  If you have the energy (and enough sheets), consider changing your bed linens if they got sweaty / otherwise soiled. Next, have a quick shower if you're able. Staying clean can help you feel better mentally and emotionally, as well as physically. 
 
-Eat a small, nutritious meal (piece of fresh fruit? handful of salted nuts?) - something that sounds good to you. This is also a good time to take fever / pain medicine (e.g., paracetamol) if you need it, and note the dose and time in your illness diary. 
+Eat a small, nutritious meal (piece of fresh fruit? handful of salted nuts?) - something that sounds good to you. This is also a good time to take fever / pain medicine (e.g., paracetamol / acetaminophen) if you need it, and note the dose and time in your illness diary. 
 
 If that was already enough exertion, take a rest. Nap whenever you can - sleep is crucial for healing. If you're not sleepy but need to rest, then try to rest sitting up to give your lungs a better chance to drain. If you're still upright, now is a good time to steam to help your sinuses / airways open and mucus to drain. 
 
