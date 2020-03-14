@@ -5,11 +5,12 @@ Notice if you suffer from any of the following first symptoms:
 * Fever
 * Fatigue
 * Dry (unproductive) cough
+* Coughing up slime
 * Joint / muscle pain
 * Shortness of breath
 * Lack of hunger
 
-First symptoms may also include headache, dizziness, abdominal pain, diarrhea, nausea, and vomiting - but these are less common. 
+Symptoms may also include headache, sore throat, chills, dizziness, nasal congestion, abdominal pain, diarrhea, nausea, and vomiting. 
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
