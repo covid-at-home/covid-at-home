@@ -10,7 +10,7 @@ This guide contains general advice that should be applicable in many places. We 
 
 *At this point the site uses metric units in many places, although sometimes both metric and imperial units are provided. We hope to offer metric and imperial versions of everything in the next few days.*
 
-> **YOU CAN HELP MAKE THIS SITE BETTER.** *If you see something that could be better, please [click here](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. As you can see there the backend of this website is on Github, so if you know that environment you can probably think of other ways to help. To be succesfull, this will need to be an expanding collaborative effort.*
+> **YOU CAN HELP MAKE THIS SITE BETTER.** *If you see something that could be better, please [click here](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. As you can see there the backend of this website is on Github, so if you know that environment you can probably think of other ways to help. To be successful, this will need to be an expanding collaborative effort.*
 
 &nbsp; 
 
