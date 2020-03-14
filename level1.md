@@ -31,7 +31,9 @@ Remember that there is no difference in potential infectiousness between friends
 
 ### Stay Healthy
 
-On top of this, you can do things to stay as healthy as possible: 
+![](/images/situps.png)
+
+On top of this, you can do things to stay as healthy as possible:
 
 * Breathe fresh air as often as possible.
 * Ventilate your rooms frequently.
