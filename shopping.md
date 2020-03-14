@@ -39,7 +39,7 @@ When it comes right down to it you'll have to make your own choices as to the le
 * **Medical mask, preferably N95** (a few EUR/USD) ([example](https://www.amazon.de/dp/B0856T8DC2))
    > ![](/images/mask.png)
    > 
-   > FFP2 or FFP3 respirators (valved or non-valved versions) are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator.
+   > FFP2 or FFP3 respirators are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. Note that the respirators come in version with and without a valve. The valve (often a round plastic thingy) lets out the exhaled air unfiltered. This is finy if you're spraypainting, and it may be fine if you are protecting a know healthy person from a know sick person, but under no circumstances shouldteh sick wear a version with a valve. 
 
 * **Gown / raincoat** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07DFDFFRX))
 
@@ -75,6 +75,7 @@ When it comes right down to it you'll have to make your own choices as to the le
    > ![](/images/steam.png)
    >
    > Often sold as "face sauna" or whatever other names, they're just devices that output steam that is not too hot to breathe. Any other method that produces steam is also OK, just make sure you don't do damage with steam that's too hot. The device takes demineralized water ([example](https://www.amazon.de/gp/product/B07J5Y95MQ)), esp. in places where the tapwater is high in calcium. 
+   > **Warning:** Warm, wet devices are excellent means of spreading the virus around. Probably use for one sick person at a time or at least clean meticulously.
 
 * **Vitamins** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/images/multi-vitamin.png)
