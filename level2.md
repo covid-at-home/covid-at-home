@@ -2,11 +2,13 @@
 
 Notice if you suffer from any of the following symptoms:
 
-* Dry cough
 * Fever
-* Shortness of breath
-* Coughing up slime
 * Fatigue
+* Dry (unproductive) cough
+* Joint / muscle pain
+* Shortness of breath
+
+Symptoms may also include headache, dizziness, abdominal pain, diarrhea, nausea, and vomiting - but these are less common. 
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
@@ -54,7 +56,7 @@ Columns should include:
 - fever medication: drug, dose, time(s)
 - other medications: same
 - pain: where, when, how bad it is from 0 (no pain) to 10 (worst pain imaginable)
-- coughing: does it hurt, is it productive, wet or dry, frequent or occasional, does it interfere with sleep?
+- coughing: does it hurt, is it productive, frequent or occasional, does it interfere with sleep?
 - mucus: what color, how much?
 - breathing: is it labored when you're doing nothing, or when you exert yourself? If shortness of breath bothers you, maybe start noting respiration rate in breaths per minute. 
 
