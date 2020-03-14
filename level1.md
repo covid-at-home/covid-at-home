@@ -37,7 +37,7 @@ On top of this, you can do things to stay as healthy as possible:
 * Ventilate your rooms frequently.
 * Eat appropriate amounts of nutrient-rich, healthy food. Include at least some carbohydrates (e.g., bread, potatoes, pasta, rice, etc). Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. 
 * Drink enough fluids, mostly water.
-* Get regular exercise.
+* Get regular exercise. If it is recommended or required to stay indoors, find ways to get moving at home: Dance to favorite songs with friends over video-chat, join online yoga or other exercise classes, or try simple core bodyweight exercises like push-ups, sit-ups, and squats combined with simple stationary aerobic exercises like jumping jacks, jumping rope, and skipping. 
 * If you smoke, stop smoking.
 * Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immune function.
 * If you want to do more after first covering these essentials, then consider [complementary medicine options](/complementary) to improve immunity, prevent and treat upper respiratory and / or viral infections, and the like. There are a number of possibly useful options, but keep in mind that the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. 
