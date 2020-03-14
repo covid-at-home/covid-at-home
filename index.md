@@ -4,6 +4,8 @@ To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when giv
 
 As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. While it is not now - nor is it ever - a good time to panic, we do think it is now time to think and prepare.
 
+![](/images/virus.png)
+
 This guide is based on the assumption that in the coming months, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that doctors and hospitals are going to be very busy if not overloaded. We have to confront the possibility that some of the people who would normally be cared for under medical supervision might need to be cared for at home. We hope some of the information here will give you some confidence in dealing with this disease, which in and by itself will reduce the load on doctors and nurses who, from the looks of it, will be quite busy in weeks and months to come. At the same time, we hope to give you information that helps you tell when it is time to get professional medical help. Getting large amounts of people to get that balance right may make all the difference in the time to come. 
 
 This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information from other credible sources that is more local to where you are.
