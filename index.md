@@ -1,4 +1,6 @@
-This document was made as a result of the COVID-19 pandemic, but much of the advice may be applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of illness in one place. While we consulted with nurses and doctors on much of this advice, most of this text was written by the non-medically trained, trying to puzzle together what makes sense in this new situation. Just to be clear: **YOU SHOULD LISTEN TO YOUR HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
+This document was made as a result of the COVID-19 pandemic, but much of the advice may be applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of illness in one place. While we consulted with nurses and doctors on much of this advice, most of this text was written by the non-medically trained, trying to puzzle together what makes sense in this new situation. 
+
+To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
 
 As we write this in Berlin, Germany in mid-March 2020, much about the virus is still unclear, but numbers of infected and dead have been rising steadily, most recently in Italy. While it is not now - nor is it ever - a good time to panic, we do think it is now time to think and prepare.
 
