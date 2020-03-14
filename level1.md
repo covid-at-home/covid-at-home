@@ -4,10 +4,10 @@
 
 Where possible, follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
 
-* Change greeting. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
+* Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
 * Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
 * If you have to touch something, try fidgeting with a rubber band around your wrist, or find another replacement behavior. 
-* Wash hands with soap as often as possible, including as soon as you come home and before eating. 
+* Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
 * Regularly sterilize doorknobs, table surfaces, keyboards, and other places people frequently touch.
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
 * Work from home when possible.
