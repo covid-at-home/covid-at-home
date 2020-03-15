@@ -14,10 +14,6 @@ Wanna help? Yeah! Prevent double work: don't start without talking to us. Please
 
 (If you can provide a number of useful local links in your region with the translation, even better.)
 
-#### Alternative medicine
-
-If you would like to help us with hints and tips for medicine that is not proven according to peer-reviewed publications and/or not proven to be very very safe, then thank you but no thank you. Please don't take offense but covid-at-home is proudly with the science on this one. 
-
 #### Content help
 
 Blessed be if you are a doctor, a nurse, or a public health official. We hope to make your job easier in the months to come. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome) if you want to talk to us.
@@ -25,3 +21,7 @@ Blessed be if you are a doctor, a nurse, or a public health official. We hope to
 #### Proofread
 
 We guarantee there will be plenty of typos, failed sentences and worse. Please briefly [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) and we'll fix it.
+
+#### Alternative medicine
+
+If you would like to help us with hints and tips for medicine that is not proven according to peer-reviewed publications and/or not proven to be very very safe, then thank you but no thank you. Please don't take offense but covid-at-home stands proudly the science on this one. 
