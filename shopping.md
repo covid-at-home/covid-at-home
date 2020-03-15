@@ -68,7 +68,7 @@ Then there's the fact that some people have been panic-buying and some companies
 
 When it comes right down to it you'll have to make your own choices as to the level of protection that is appropriate in your situation.
 
-* **Medical mask, preferably N95** (a few EUR/USD) ([example](https://www.amazon.de/dp/B0856T8DC2))
+* **Medical mask, preferably N95** (a few EUR/USD)
    > ![](/images/mask.png)
    > 
    > FFP2 or FFP3 respirators are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. Note that the respirators come in version with and without a valve. The valve (often a round plastic thingy) lets out the exhaled air unfiltered. This is finy if you're spraypainting, and it may be fine if you are protecting a known healthy person from a know sick person, but under no circumstances should the sick wear a version with a valve. 
