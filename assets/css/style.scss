@@ -12,5 +12,7 @@ div.menu {
 div.menu > div.item {
     display: table-cell;
     color: white;
+    text-align: center;
+    font-weight: bold;
     width: 2%; /* any number is ok */
 }
