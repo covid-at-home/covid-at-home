@@ -20,8 +20,8 @@ If you would like to help us with hints and tips for medicine that is not proven
 
 #### Content help
 
-Blessed be if you are a doctor, a nurse, or a health official. Please read through the site and tell us if you have any remarks. But this goes for anyone else as well. Please 
+Blessed be if you are a doctor, a nurse, or a health official. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome).
 
 #### Proofread
 
-We guarantee there will be plenty of typos, failed sentences and worse. Please [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) and we'll fix it.
+We guarantee there will be plenty of typos, failed sentences and worse. Please briefly [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) and we'll fix it.
