@@ -16,11 +16,11 @@ Wanna help? Yeah! Please contact us right now by mailing [team@covid-at-home.inf
 
 #### Alternative medicine
 
-If you would like to help us with hints and tips for medicine that is not proven to work in peer-reviewed publications and/or not very very safe, thank you but no thank you. please don't take offense but covid-at-home is proudly with the science on this one. 
+If you would like to help us with hints and tips for medicine that is not proven according to peer-reviewed publications and/or not very very safe, thank you but no thank you. Please don't take offense but covid-at-home is proudly with the science on this one. 
 
 #### Content help
 
-Blessed be if you are a doctor, a nurse, or a health official. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome).
+Blessed be if you are a doctor, a nurse, or a public health official. We hope to make your job easier in the months to come. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome) if you want to talk to us.
 
 #### Proofread
 
