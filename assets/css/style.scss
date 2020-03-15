@@ -16,3 +16,7 @@ div.menu > div.item {
     font-weight: bold;
     width: 2%; /* any number is ok */
 }
+
+div.menu > div.item > a {
+    color: white;
+}
