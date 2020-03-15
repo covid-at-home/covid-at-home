@@ -35,7 +35,9 @@ Until tested and depending on where you are and where you have been, it may be p
 
 ### Family, flatmates, etc.
 
-Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. Regularly clean all frequently touched surfaces with household bleach diluted with water: 10 ml / 2 tsp bleach with half a liter / 2 cups of water (carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. You should give the spray a minute to work on surfaces before wiping it dry.
+Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. 
+
+Regularly clean all frequently touched surfaces with household bleach diluted with water: 10 ml / 2 tsp bleach with half a liter / 2 cups of water (carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. You should give the spray a minute to work on surfaces before wiping it dry.
 
 Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks and haven't been sick yet, it is probably a good idea to wear one. Disposable gloves, long-sleeve protective gowns, and eye protection may also be appropriate. The [shopping page](/shopping) on this website contains some ideas for personal protection items.
 
@@ -48,7 +50,8 @@ When symptoms first start is the right time to start an illness diary.
 A few times a day, preferably at somewhat regular hours or points in your normal routines or rhythms (e.g., every morning before making coffee or tea), measure temperature, even if you don't feel like you have a fever (yet). Weigh once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](/shopping)). 
 
 Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. 
-amol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
+
+Paracetamol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
 
 [![](/images/diary-small-slanted.png)](/diary)
 
