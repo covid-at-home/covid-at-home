@@ -23,9 +23,9 @@ This site is better because we got help from (in alphabetical order):
 
 (German law requires websites to list a publisher.)
 
-Rop Gonggrijp & Vera Wilde
-Linienstraße 127
-10115 Berlin
+Rop Gonggrijp & Vera Wilde<br>
+Linienstraße 127<br>
+10115 Berlin<br>
 Germany
 
 e-mail: [team@covid-at-home.info](mailto:team@covid-at-home.info)
