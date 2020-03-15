@@ -24,4 +24,4 @@ We guarantee there will be plenty of typos, failed sentences and worse. Please b
 
 #### Alternative medicine
 
-If you would like to help us with hints and tips for medicine that is not proven according to peer-reviewed publications and/or not proven to be very very safe, then thank you but no thank you. Please don't take offense but covid-at-home stands proudly the science on this one. 
+If you would like to help us with hints and tips for medicine that is not proven according to peer-reviewed publications and/or not proven to be very very safe, then thank you but no thank you. Please don't take offense but covid-at-home stands proudly with science on this one. 
