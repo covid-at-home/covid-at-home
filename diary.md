@@ -16,4 +16,4 @@ At the beginning of each day you fill in the information on the right. Name, dat
 
 ### When things get serious
 
-If the patients gets sicker and sicker, you will want to refer to the "Level 4" chapter in the [main text](/) for some basic guidance as to when to call a doctor or go to hospital. This basic guidance is just that, a guide to help you get a very very basic sense of what is "just sick" vs. "too sick to be at home". You are not a doctor. If you feel insecure, call for help.
+If the patients gets sicker and sicker, you will want to refer to the ["Level 4" chapter](/#level-4--professionals-take-over) in the main text for some basic guidance as to when to call a doctor or go to hospital. This basic guidance is just that, a guide to help you get a very very basic sense of what is "just sick" vs. "too sick to be at home". You are not a doctor. If you feel insecure, call for help.
