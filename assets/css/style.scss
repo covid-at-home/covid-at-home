@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
-a#forkme_banner {
-  display: none !important;
+div.menu {
+    display: table;
+    width: 250px;
+    table-layout: fixed;
+}
+
+div.menu > div.item {
+    display: table-cell;
+    width: 2%; /* any number is ok */
 }
