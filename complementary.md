@@ -6,7 +6,7 @@ Everything listed has a good safety profile (i.e., side effects are rare and not
 
 Above all, **do not take this list as medical advice (we are not doctors) and do not use any of this as a substitute for regular treatment**. It's called "complementary" because it may complement the real deal - it does not replace it. 
 
-* [Quercetin](https://articles.mercola.com/sites/articles/archive/2018/02/26/quercetin-for-flu.aspx), an antioxidant, protects against viral infections. 
+* [Quercetin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360794/), an antioxidant, exhibits in vivo and in vitro anti-viral activity, as well as decreasing the incidence of [upper respiratory tract infections](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4863266/), with no apparent adverse effects. 
 * [Elderberry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124954/), a natural source of quercetin, found in various preparations (e.g., [Sambucol](https://www.amazon.de/dp/B005039D78/ref=sr_1_8?keywords=sambucol&qid=1584023224&sr=8-8)).
 * [Bovine colostrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124954/), cows' early milk, confers immune benefits from its rich array of nutrients and bioactive compounds, including immune and antimicrobial factors.
 * [Probiotics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124954/), live microorganisms found as supplements or in fermented foods like yogurt, may reduce the risk, severity, and duration of upper respiratory tract infections. 
