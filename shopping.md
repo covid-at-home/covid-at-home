@@ -36,7 +36,10 @@ If we included examples (generally on the German version of Amazon), this is not
 * **Blood pressure meter** (20 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07KY867ZH))
    > ![](/images/blood-pressure.png)
    > 
-   > There are simple tricks to see if someone's blood pressure is getting too low (see the main text on this site). However, it doesn't hurt to be able to measure this more objectively, especially if you want to see/show a trend in the patient's blood pressure.
+   > There are simple tricks to see if someone's blood pressure is getting too low (see the main text on this site). However, it may be useful to be able to measure this more objectively, especially if you want to see/show a trend in the patient's blood pressure.
+
+> A note on these first two items: the medical professionals we talk to are fundamentally split over whether the non-medically trained will do more harm or good when they start taking SpO2 or blood pressure measurements. We include them here because we feel that in some places, during some periods, the health system is not going to be able to cope with the numbers of people falling ill.
+> **If** you do decide to measure blood pressure and SpO2, then at least properly familiarize yourself with the device, get a good feel for how they work on your and/or your loved ones (and what normal values look like) before anyone gets sick and read the guidance on when (**and when not**) to seek help based on the information they provide.
 
 * **Incontinence / waterproof sheets** (20 EUR/USD or so) ([example](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) or [example](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
    > ![](/images/sheet.png)
@@ -58,15 +61,13 @@ If we included examples (generally on the German version of Amazon), this is not
 
 ### PPE (Personal Protective Equipment)
 
-Shopping for PPE is a little tricky for several reasons.
+Shopping for PPE is more than a lottle tricky for several reasons.
 
 First, this may all be new. You may not be familiar with what kinds of protection are needed in what situations. The World Health Organization has very helpful instructions on [when to wear a mask and how to use masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). You should wear a mask only if you are ill with known or suspected COVID-19 (fever, cough, shortness of breath), and whenever you are in the same room with someone who is ill with known or suspected COVID-19. Keep your hands off your mask while you're wearing it and keep using good hand-washing practices. Make sure you read some advice and watch some videos on when and how to safely put on, use, and dispose of your PPE to make sure it really works to protect you and others. (This is especially true if you use a respirator rather than a mask: It is surprisingly hard to make sure your respirator has a proper fit.)
 
 Then there's the fact that some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. 
 
-**Please listen to official advice on what *not* to buy** so as to not make things unavailable to the doctors and nurses who need them the most. Policies and general practice with regard to masks are going to vary wildly accross the world for a while to come. Going outside with a mask or wearing one in regular daily life if you are healthy is not supported by the scientific evidence on staying well. (Which also means you don't need a ton of masks.) But it probably makes sense to wear a mask if you feel a little ill or are coughing. It also makes sense if you are taking care of someone who is sick. It is even mandatory in the COVID quarantine home care protocols in some countries.  See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
-
-When it comes right down to it, you'll have to make your own choices as to the level of protection that is appropriate in your situation. 
+So first and foremost, and we mean this: **Listen to official advice on what *not* to buy** so as to not make things unavailable to the doctors and nurses who need them the most. Policies and general practice with regard to masks are going to vary wildly accross the world for a while to come. Going outside with a mask or wearing one in regular daily life if you are healthy is not supported by the scientific evidence on staying well. If you have access to a mask, it probably makes sense to wear one if you feel a little ill or are coughing but _absolutely_have_to_ go out. It also makes sense if you are taking care of someone who is sick. It is even mandatory in the COVID quarantine home care protocols in some countries. Check under what circumstances authorities will provide you with masks. See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
 
 * **Medical mask, preferably N95** (a few EUR/USD)
    > ![](/images/mask.png)
@@ -82,4 +83,3 @@ When it comes right down to it, you'll have to make your own choices as to the l
 
 * **Eye protection, goggles or face shield** (a few EUR/USD) ([example](https://www.amazon.de/dp/B002THV25Y))
    > ![](/images/glasses.png)
-   > 
