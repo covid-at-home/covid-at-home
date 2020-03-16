@@ -1,6 +1,6 @@
 ## Shopping list
 
-Here are some necessary and handy things to have if you are going to be taking care of someone with COVID-19. None of this is very expensive or requires special training to use. 
+In addition to having approximately 2-4 weeks of essentials like groceries and other household supplies, here are some necessary and handy things to have if you are going to be taking care of someone with COVID-19. None of this is very expensive or requires special training to use. 
 
 If we included examples (generally on the German version of Amazon), this is not a buying recommendation and we are not making any money if you click that precise one (or any other). By showing you the example, we mean nothing more than *"something like this."* Use whatever online or retail channel you like to get something similar. 
 
