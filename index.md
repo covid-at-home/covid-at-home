@@ -8,7 +8,15 @@ As we started writing for this site in Berlin, Germany in the second week of Mar
 
 This guide is based on the assumption that in the coming months, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that doctors and hospitals are going to be very busy if not overloaded. We have to confront the possibility that some of the people who would normally be cared for under medical supervision might need to be cared for at home. We hope some of the information here will give you some confidence in dealing with this disease, which in and by itself will reduce the load on doctors and nurses who, from the looks of it, will be quite busy in weeks and months to come. At the same time, we hope to give you information that helps you tell when it is time to get professional medical help. Getting large amounts of people to get that balance right may make all the difference in the time to come. 
 
-This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information from other credible sources that is more local to where you are.
+This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information from other credible sources that is more local to where you are. 
+
+Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is vital. Where there are discrepancies, trust reputable sources such as:
+     * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
+     * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
+     * [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
+     * [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
+
+Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society, our efforts still work when everyone does what they can, within their limits.
 
 *At this point the site uses metric units in many places, although sometimes both metric and imperial units are provided. We hope to offer metric and imperial versions of everything in the next few days.*
 
