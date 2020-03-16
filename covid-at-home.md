@@ -17,7 +17,9 @@ This site is better because we got help from (in alphabetical order):
 
 * Jill Bähring
 * Lucky Green
+* Cecile Landman
 * Jakob Richers
+* Max Rodriguez Gomez
 * Katrin Schmidt
 * Andreas Steinhauser
 
