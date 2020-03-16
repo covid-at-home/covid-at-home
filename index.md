@@ -21,11 +21,7 @@ Some of the authors of this website are not known as great fans of government an
   * COVID-19 is real. 
   * It's a virus from nature that mutated to infect human hosts after starting in animals. 
   * It seems to be about twice as infectious and to cause far more pneumonia, other serious disease and deaths than the seasonal influenza virus (flu). It's also worse than the flu because the world population so far lacks immunity. New diseases are more dangerous, because their infection rates can grow incredibly rapidly (even having exponential growth). Such rapid transmission of a new disease can swiftly overwhelm even outstanding health-care systems, making it impossible for everyone who needs care to access it - and in turn contributing to more severe disease and death. 
-  * For these reasons, it is important to follow the by-now widespread recommendation to flatten the curve. As cases increase over time, the first (unflattened) curve shows a fast increase overwhelming the capacity of the healthcare system. The second (flattened) curve shows a much slowerer increase leaving cases (hopefully) below the level at which doctors, nurses, and other healthcare workers are able to respond to the pandemic. By using preventive measures (see the guide below), you can help protect yourself and your loved ones, and help your whole society make sure that sick people can still get help when they need help. 
-  
-  ![](/images/curves.png)
-  
-  * This means it is time now to change our way of life (for now) to address the very real threat this pandemic poses to our world. 
+  * For these reasons, it is time now to change our way of life (for now) to address the very real threat this pandemic poses to our world. 
 
 Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society, our efforts still work when everyone does what they can, within their limits.
 
