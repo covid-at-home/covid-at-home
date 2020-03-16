@@ -26,6 +26,7 @@ Where possible, follow the instructions from authorities. This includes some of 
      * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
      * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
      * [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
+     * [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
 
 Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society, our efforts still work when everyone does what they can, within their limits.
 
