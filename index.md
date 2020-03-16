@@ -11,10 +11,10 @@ This guide is based on the assumption that in the coming months, more people tha
 This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information from other credible sources that is more local to where you are. 
 
 Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is vital. Where there are discrepancies, trust reputable sources such as:
-     * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
-     * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
-     * [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
-     * [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
+* [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
+* [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
+* [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
+* [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
 
 Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society, our efforts still work when everyone does what they can, within their limits.
 
