@@ -2,6 +2,8 @@
 
 ### Don't Get Infected
 
+*(Or infect others should you happen to be asymptomatic / feel fine, but actually have and can transmit COVID-19...) 
+
 Where possible, follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
 
 * Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
