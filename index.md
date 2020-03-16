@@ -21,7 +21,7 @@ Some of the authors of this website are not known as great fans of government an
   * COVID-19 is real. 
   * It's a virus from nature that mutated to infect human hosts after starting in animals. 
   * It seems to be about twice as infectious and to cause far more pneumonia, other serious disease and deaths than the seasonal influenza virus (flu). It's also worse than the flu because the world population so far lacks immunity. New diseases are more dangerous, because their infection rates can grow incredibly rapidly (even having exponential growth). Such rapid transmission of a new disease can swiftly overwhelm even outstanding health-care systems, making it impossible for everyone who needs care to access it - and in turn contributing to more severe disease and death. 
-  * For these reasons, it is important to follow the by-now widespread recommendation to flatten the curve.
+  * For these reasons, it is important to follow the by-now widespread recommendation to flatten the curve. As cases increase over time, the first (unflattened) curve shows a fast increase overwhelming the capacity of the healthcare system. The second (flattened) curve shows a much slowerer increase leaving cases (hopefully) below the level at which doctors, nurses, and other healthcare workers are able to respond to the pandemic. By using preventive measures (see the guide below), you can help protect yourself and your loved ones, and help your whole society make sure that sick people can still get help when they need help. 
   
   ![](/images/curves.png)
   
