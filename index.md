@@ -4,7 +4,7 @@ To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when giv
 
 As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. While it is not now - nor is it ever - a good time to panic, we do think it is now time to think and prepare.
 
-![](/images/curves.png)
+![](/images/virus.png)
 
 This guide is based on the assumption that in the coming months, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that doctors and hospitals are going to be very busy if not overloaded. We have to confront the possibility that some of the people who would normally be cared for under medical supervision might need to be cared for at home. We hope some of the information here will give you some confidence in dealing with this disease, which in and by itself will reduce the load on doctors and nurses who, from the looks of it, will be quite busy in weeks and months to come. At the same time, we hope to give you information that helps you tell when it is time to get professional medical help. Getting large amounts of people to get that balance right may make all the difference in the time to come. 
 
@@ -23,7 +23,7 @@ Some of the authors of this website are not known as great fans of government an
   * It seems to be about twice as infectious and to cause far more pneumonia, other serious disease and deaths than the seasonal influenza virus (flu). It's also worse than the flu because the world population so far lacks immunity. New diseases are more dangerous, because their infection rates can grow incredibly rapidly (even having exponential growth). Such rapid transmission of a new disease can swiftly overwhelm even outstanding health-care systems, making it impossible for everyone who needs care to access it - and in turn contributing to more severe disease and death. 
   * For these reasons, it is important to follow the by-now widespread recommendation to flatten the curve.
   
-  ![](/images/flatten.png)
+  ![](/images/curves.png)
   
   * This means it is time now to change our way of life (for now) to address the very real threat this pandemic poses to our world. 
 
