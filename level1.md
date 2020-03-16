@@ -2,7 +2,7 @@
 
 ### Don't Get Infected
 
-*(Or infect others should you happen to be asymptomatic / feel fine, but actually have and can transmit COVID-19... )* 
+*(Or infect others should you happen to be asymptomatic / feel fine, but actually have COVID-19... Asymptomatic cases are still infectious.)* 
 
 Where possible, follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
 
