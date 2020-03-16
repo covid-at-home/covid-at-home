@@ -60,18 +60,18 @@ If we included examples (generally on the German version of Amazon), this is not
 
 Shopping for PPE is a little tricky for several reasons.
 
-First of all you may not be familiar with what kinds of protection are needed in what situations. Also it is surprisingly hard to make sure your mask has a proper fit. Make sure you watch some YouTube videos on how to safely put on, use and dispose of your PPE to make sure it really works to protect you and others.
+First of all you may not be familiar with what kinds of protection are needed in what situations. Also it is surprisingly hard to make sure your mask has a proper fit. The World Health Organization has very helpful instructions on [when to wear a mask and how to use masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). Make sure you read their advice or watch some YouTube videos on how to safely put on, use, and dispose of your PPE to make sure it really works to protect you and others. 
 
 Then there's the fact that some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. 
 
 **Please listen to official advice on what *not* to buy** so as to not make things unavailable to the doctors and nurses who need them the most. Policies and general practice with regard to masks are going to vary wildly accross the world for a while to come. Going outside with a mask or wearing one in regular daily life may make only limited sense you're healthy. (Which also means you don't need a ton of masks.) But it probably makes sense to wear a mask if you feel a little ill or are coughing. It also makes sense if you are taking care of someone who is sick. It is even mandatory in the COVID quarantine home care protocols in some countries.  See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
 
-When it comes right down to it you'll have to make your own choices as to the level of protection that is appropriate in your situation.
+When it comes right down to it, you'll have to make your own choices as to the level of protection that is appropriate in your situation. 
 
 * **Medical mask, preferably N95** (a few EUR/USD)
    > ![](/images/mask.png)
    > 
-   > FFP2 or FFP3 respirators are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. Note that the respirators come in version with and without a valve. The valve (often a round plastic thingy) lets out the exhaled air unfiltered. This is finy if you're spraypainting, and it may be fine if you are protecting a known healthy person from a know sick person, but under no circumstances should the sick wear a version with a valve. 
+   > FFP2 or FFP3 respirators are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. Note that the respirators come in version with and without a valve. The valve (often a round plastic thingy) lets out the exhaled air unfiltered. This is fine if you're spraypainting, and it may be fine if you are protecting a known healthy person from a known sick person, but under no circumstances should the sick wear a version with a valve. 
 
 * **Gown / raincoat** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07DFDFFRX))
 
