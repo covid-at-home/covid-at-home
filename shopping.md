@@ -56,12 +56,11 @@ If we included examples (generally on the German version of Amazon), this is not
 
 #### Important Note
 
-A note on the first two items: the medical professionals we talk to are fundamentally split over whether the non-medically trained will do more harm or good when they start taking SpO2 or blood pressure measurements. We include them here because we feel that in some places, during some periods, the health system is not going to be able to cope with the numbers of people falling ill, and then being able to see/show trends can be helpful.
+A note on the first two items: some medical professionals we talk to feel the non-medically trained will do more harm or good when they start taking SpO2 or blood pressure measurements. We include the devices here because they are in common use and we feel that in some places, during some periods, the health system is not going to be able to cope with the numbers of people falling ill, and we tip the balance towards the advantages in being able to see/show trends.
 
-**If** you do decide you want to able measure blood pressure and SpO2, then at least properly familiarize yourself with the device, get a good feel for how they work on you and/or your loved ones (and what tehir normal values look like) before anyone gets sick and read the guidance on when **and when not** to seek help based on the information they provide.
+If you do decide you want to be able to measure blood pressure and SpO2, then at least properly familiarize yourself with the device. Practise! Also to get a good feel for what normal values in you and or your loved ones look like before anyone gets sick. Read our guidance on when **and when not** to seek help based on the information they provide.
 
 &nbsp;
-
 
 ### PPE (Personal Protective Equipment)
 
