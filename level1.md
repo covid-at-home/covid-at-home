@@ -37,6 +37,10 @@ On top of this, you can do things to stay as healthy as possible:
 * Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immune function.
 * If you want to do more after first covering these essentials, then consider [complementary medicine options](/complementary) to improve immunity, prevent and treat upper respiratory and / or viral infections, and the like. There are a number of possibly useful options, but keep in mind that the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. 
 
+#### Psychological well-being
+
+This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. refer to the page with [recommandations, hints and tips for psychological well-being](/psychological).
+
 ### Prepare
 
 And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide. It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. It doesn't hurt to be a tiny bit more ready for the worst-case scenario. But remember at the same time that there is no reason to panic. Take a deep breath and continue your regular life as much as possible.

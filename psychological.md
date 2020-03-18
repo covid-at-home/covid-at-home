@@ -1,12 +1,8 @@
-Original German text source: the [Austrian Federal Ministry of Defense](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494). 
+The following recommendations were taken from the [Austrian Federal Ministry of Defense](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (go figure!). All of it seems good advice in the present circumstances. 
 
-## Psychological Service advisory on the handling of COVID-19
+## Psychological advice related to COVID-19
 
-*March 17, 2020* - To contain the COVID-19 virus’s spread, social life restrictions or even quarantine are necessary. Thus, a general initial restriction is currently in force. In some places there is a curfew. Persons who may have become infected or in whom the virus is detected must remain in quarantine.
-
-### Recommendations
-
-These measures affect us. Isolation can take its toll. A suspicion of an infection, the fear of it, or the illness itself can also put a strain on the psyche. In order to lighten these loads, we recommend:
+Isolation can take its toll. A suspicion of an infection, the fear of it, or the illness itself can also put a strain on the psyche. In order to lighten these loads, we recommend:
 
 ### Establish security
 
