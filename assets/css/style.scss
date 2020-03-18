@@ -10,7 +10,14 @@ div.menu {
     table-layout: fixed;
 }
 
-div.menu > div.item {
+div.languages {
+	margin-bottom: 30px;
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+div.menu > div.item, div.languages> div.item {
     display: table-cell;
     color: white;
     text-align: center;
