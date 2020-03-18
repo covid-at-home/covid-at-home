@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header.inner {
+	margin-top: 20px;
+}
+
 div.menu {
     margin-top: 20px;
     display: table;
