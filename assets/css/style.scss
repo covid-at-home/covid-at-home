@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 header.inner {
-	margin-top: 20px;
+	margin-top: 10px;
 }
 
 div.menu {
@@ -37,6 +37,6 @@ div.menu > div.item > a:active {
     color: red;
 }
 
-#header_wrap .inner {
-    padding: 50px 10px 10px 10px;
-}
+// #header_wrap .inner {
+//     padding: 50px 10px 10px 10px;
+// }
