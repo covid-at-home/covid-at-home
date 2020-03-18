@@ -54,11 +54,11 @@ Find things that encourage you. E.g., think up sentences that calm you and your 
 
 ### Allay kids' fears
 
-Be guided by kids’ questions, and then give honest and child-oriented answers.
-Restrict or monitor media consumption around coronavirus. Do not forbid it, but dose it. Explain, be open to kids’ questions, and stick to it.
-Provide security through structured, predictable everyday life.
-Enable social contacts via phone and internet. 
-Possibly give more attention when fears take over.
-Stay calm yourself. Fear is contagious.
-Enable play and distraction.
-Play together and be creative.
+- Be guided by kids’ questions, and then give honest and child-oriented answers.
+- Restrict or monitor media consumption around coronavirus. Do not forbid it, but dose it. Explain, be open to kids’ questions, and stick to it.
+- Provide security through structured, predictable everyday life.
+- Enable social contacts via phone and internet. 
+- Possibly give more attention when fears take over.
+- Stay calm yourself. Fear is contagious.
+- Enable play and distraction.
+- Play together and be creative.
