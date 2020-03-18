@@ -29,11 +29,11 @@ div.menu > div.item, div.languages> div.item {
     width: 2%; /* any number is ok */
 }
 
-div.menu > div.item > a {
+div.item > a {
     color: white;
 }
 
-div.menu > div.item > a:active {
+div.item > a:active {
     color: red;
 }
 
