@@ -12,20 +12,7 @@ If loss of consciousness is brief, you might (if patient quickly recovers and is
 
 ### Cognitive problems / confusion
 
-You probably know the patient, so you should be able to tell without any fancy tests if / when they are not with it anymore. But here's the Abbreviated Mental Test Score (the AMTS) sometimes used to assess for cognitive problems. Compile the score by asking the following questions, giving one point for each correct answer. A score of less than or equal to 8 suggests cognitive problems may be present. 
-
-- What is your age? 
-- What is the time to the nearest hour? 
-- (Give the patient an address, and ask him or her to repeat it at the end of the test. For example, 42 Hacker Way.) 
-- What year is it? 
-- What is the name of the person you are seeing today?
-- (Can the patient recognize two persons (e.g., friends or medical practitioners)?) 
-- What is your date of birth? 
-- In what year did World War II end? 
-- Name the current President / Prime Minister. 
-- Count backwards from 10 down to 1.
-
-Immediate home care for cognitive problems / confusion may include encouraging the patient to eat and drink, being sure appropriate fever medication has been taken on schedule, and freshly ventilating the room. But really, again, new and persistent confusion is a bad sign. Time to get help.
+You probably know the patient, so you should be able to tell without any fancy tests if and when he/she is not with it anymore. Sudden onset of confusion is trouble. Seek medical help.
 
 ### Too high or too low respiration rate
 
