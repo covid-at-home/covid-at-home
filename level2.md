@@ -71,6 +71,6 @@ Coughing can be an important, healthy effort on the part of the body to clear th
 
 ### Feeling better?
 
-Before you break your quarantine, health authorities may want to (re)test you to see you are really not contagious anymore. But maybe the number of cases is already so high that people will have to make their own decisions. Err on the side of safety and try to stay home for a little longer than officially indicated. 
+Before you break your quarantine, health authorities may want to (re)test you to see you are really not contagious anymore. But maybe the number of cases is already so high that people will have to make their own decisions. Err on the side of safety and try to stay home for a little longer than officially indicated. The [World Health Organization recommendation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is to continue isolation for at least two weeks after symptoms disappear, even if you are no longer feeling sick. 
 
 If you managed to get tested, yay! You now know that your body (presumably, keep watching the latest science on this) has built immunity. Which means that this thing is over for you, and also that you are a more logical choice to help your family and friends when they get sick. Depending on what state the world is in, you may want to inform your employer and others that might depend on you that you've had it, so they know you're immune.
