@@ -20,11 +20,11 @@ Rapidly changing emotions are normal in crisis situations: From helplessness and
 
 This gives you back a sense of control. Goals should be realistic and appropriate to the circumstances. They might include: Writing a diary, learning new skills, tidying up, or getting work done that would otherwise always be left undone.
 
-### Talking about it 
+### Talk about it 
 
 Sharing worries with friends, family, colleagues, and comrades helps in times of crisis.
 
-### Staying in touch 
+### Stay in touch 
 
 It is important to maintain regular social contact through phone, chat, and video calls. However, the coronavirus topic should not determine the whole conversation. It is important to pay attention to the other person in order to recognize when the topic becomes too much or too stressful.
 
@@ -52,7 +52,7 @@ Try to stay in your usual routine even in this exceptional situation. Get up at 
 
 Find things that encourage you. E.g., think up sentences that calm you and your family and give you security, such as: "We will be able to cope with the situation together!" Do not lose sight of your own strengths. In times of crisis, attention is automatically directed to fears and what doesn't work. In order to achieve a psychological balance, it is necessary to consciously focus on the good, the successful, and the strengths.
 
-### What can parents do to allay kids' fears?
+### Allay kids' fears
 
 Be guided by kids’ questions, and then give honest and child-oriented answers.
 Restrict or monitor media consumption around coronavirus. Do not forbid it, but dose it. Explain, be open to kids’ questions, and stick to it.
