@@ -8,7 +8,7 @@ You should interpret any of the following as a medical emergency:
 
 There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
 
-If loss of consciousness is brief, home care may include encouraging the patient to eat and drink, and freshly ventilating the room. But if this persists, get help.
+If loss of consciousness is brief, you might (if patient quickly recovers and is fully awake again!) encourage the patient to eat and drink a bit, and freshly ventilating the room. But loss of consciousness is serious, get help.
 
 ### Cognitive problems / confusion
 
