@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 title: Covid @ Home
 description: A collaborative guide to COVID-19 care
-google_analytics: UA-160293705-1
-show_downloads: false
-github:
-  is_project_page: false
+url: https://covid-at-home.info
+slug: covid-at-home
+goatcounter: covid_at_home

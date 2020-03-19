@@ -24,21 +24,22 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-        
+
           <div class="languages">
-<!--            <div class="item"><a href="https://covid-at-home.info">English</a></div> -->
-            <div class="item"><a href="https://covid-zu-hause.info">Deutsch</a></div>
-            <div class="item"><a href="https://covid-en-casa.info">Español</a></div>
+            {% for language in site.data.languages.languages %}
+              {% if language.url != site.url %}
+                <div class="item"><a href="{{ language.url }}">{{ language.title }}</a></div>
+              {% endif %}
+            {% endfor %}
           </div>
 
-          <a href="https://www.covid-at-home.info/"><h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1></a>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          
+          <a href="{{ site.url }}"><h1 id="project_title">{{ site.title }}</h1></a>
+          <h2 id="project_tagline">{{ site.description }}</h2>
+
           <div class="menu">
-            <div class="item"><a href="/">Main page</a></div>
-            <div class="item"><a href="/shopping">Shopping list</a></div>
-            <div class="item"><a href="/help">I can help!</a></div>            
-            <div class="item"><a href="/covid-at-home">About</a></div>
+            {% for item in site.data.mainmenu.items %}
+                <div class="item"><a href="{{ item.url }}">{{ item.title }}</a></div>
+            {% endfor %}
           </div>
 
         </header>
@@ -54,17 +55,13 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-
         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
-        
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a>, privacy-friendly webstats by <a href="https://www.goatcounter.com/">GoatCounter</a></p>
-        
       </footer>
     </div>
 
-	<script data-goatcounter="https://covid_at_home.goatcounter.com/count" 
-		async src="/count.js"></script>
-
+    <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" 
+        async src="/count.js"></script>
   </body>
 </html>

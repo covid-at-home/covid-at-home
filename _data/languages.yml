@@ -1,0 +1,13 @@
+languages:
+
+- title: English
+  url: https://covid-at-home.info
+
+- title: Deutsch
+  url: https://covid-zu-hause.info
+  
+- title: Español
+  url: https://covid-en-casa.info
+  
+#- title: Português
+#  url: https://covid-em-casa.info
