@@ -37,6 +37,7 @@ If we included examples (generally on the German version of Amazon), this is not
    > ![](/images/blood-pressure.png)
    > 
    > There are simple tricks to see if someone's blood pressure is getting too low (see the main text on this site). However, it may be useful to be able to measure this more objectively, especially if you want to see/show a trend in the patient's blood pressure.
+   > **However... What you should NOT do:** *You should not buy one of these, measure blood pressure, find something on the Internet that has a "normal range", and panic if your blood pressure is higher or lower. Lots of people have high or low blood pressure, and stress raises blood pressure (and heart rate). While an elevated blood pressure over a longer time may certainly be something you might want to mention to your doctor when you are there anyway, IT IS NOT A PROBLEM THAT YOU WANT TO BOTHER DOCTORS WITH IN THE MIDDLE OF A PANDEMIC."*
    
 * **Incontinence / waterproof sheets** (20 EUR/USD or so) ([example](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) or [example](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
    > ![](/images/sheet.png)
