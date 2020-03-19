@@ -1,5 +1,5 @@
   
-## About {{ slug }}.info
+## About covid-at-home.info
 
 This site started as a private initiative of Rop Gonggrijp and Vera Wilde who did much of the initial research and writing. Very soon, some of their friends started helping by proofreading, translating and providing helpful correction and additions. Let's crowdsource this guide. A German translation is almost done and other translations are being planned as we write this.
 
@@ -15,13 +15,9 @@ This site is published under a [Creative Commons Attribution-NonCommercial-Share
 
 This site is better because we got help from (in alphabetical order):
 
-* Jill Bähring
-* Lucky Green
-* Cecile Landman
-* Jakob Richers
-* Max Rodriguez Gomez
-* Katrin Schmidt
-* Andreas Steinhauser
+{% for person in site.data.thankyou.people %}
+* {{ person.name }}
+{% endfor %}
 
 ### Impressum
 
