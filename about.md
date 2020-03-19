@@ -1,5 +1,5 @@
   
-## About covid-at-home.info
+## About {{ slug }}.info
 
 This site started as a private initiative of Rop Gonggrijp and Vera Wilde who did much of the initial research and writing. Very soon, some of their friends started helping by proofreading, translating and providing helpful correction and additions. Let's crowdsource this guide. A German translation is almost done and other translations are being planned as we write this.
 
