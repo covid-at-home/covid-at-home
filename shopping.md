@@ -20,7 +20,7 @@ If we included examples (generally on the German version of Amazon), this is not
    
 * **Cleaning supplies, bleach**
 
-* **Paracetamol (also known as acetaminophen)**
+* **Paracetamol (also known as acetaminophen, Tylenol or Panadol)**
 
   > The fever supressant and painkiller of choice. Make sure you follow the packaging instructions and do not exceed the maximum recommended daily dose.
 
