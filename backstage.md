@@ -8,9 +8,9 @@ This page is just a handy collection of links, for example to get to the differe
 
 ### Our various sites
 
-Language | English |  |  |  
+Language |  |  |  
 --- | --- | --- | --- | --- | ---
-{% for language in site.data.languages.languages %}{{ language.title }} | {{ language.english }} | [site]({{ language.url }}) | [GitHub]({{ language.github }}) | [stats]({{ language.stats }})
+{% for language in site.data.languages.languages %}{{ language.title }} (*{{ language.english }}*) | [site]({{ language.url }}) | [GitHub]({{ language.github }}) | [stats]({{ language.stats }})
 {% endfor %}
 
 ### Resources
