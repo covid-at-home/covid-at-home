@@ -1,8 +1,10 @@
 ## Backstage
 
-### (Do not translate this page)
+**(Do not translate this page)**
 
 This page is just a handy collection of links, for example to get to the different country sites, their github pages and their webstats.
+
+* [Edit backstage](https://github.com/covid-at-home/covid-at-home.github.io/edit/master/backstage.md)
 
 ### Our various sites
 
