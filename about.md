@@ -15,8 +15,7 @@ This site is published under a [Creative Commons Attribution-NonCommercial-Share
 
 This site is better because we got help from (in alphabetical order):
 
-{% for person in site.data.thankyou.people %}
-* {{ person.name }}
+{% for person in site.data.thankyou.people %}* {{ person.name }}
 {% endfor %}
 
 ### Impressum
