@@ -34,6 +34,7 @@ languages:
   url: https://covid-a-casa.info
   github: https://github.com/covid-a-casa/covid-a-casa.github.io
   stats: https://stats.covid-a-casa.info
+  published: true
 
 - title: Nederlands
   english: Dutch
