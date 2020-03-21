@@ -10,8 +10,12 @@ This page is just a handy collection of links, for example to get to the differe
 
 Language |  |  |  
 --- | --- | --- | --- | --- | ---
-{% for language in site.data.languages.languages %}{{ language.title }} (*{{ language.english }}*) | [site]({{ language.url }}) | [GitHub]({{ language.github }}) | [stats]({{ language.stats }})
+{% for language in site.data.languages.languages %}{{ language.title }} *({{ language.english }})* | [site]({{ language.url }}) | [GitHub]({{ language.github }}) | [stats]({{ language.stats }})
 {% endfor %}
+
+### Meeting
+
+* [Our video chat](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome)
 
 ### Resources
 
@@ -22,3 +26,4 @@ Language |  |  |
 Stuff that Rop and others click all the time when working on the site
 
 * [Joker (Domain registry we use)](https://joker.com)
+* [DeepL](https://www.deepl.com/translator) and [Google Translate](https://translate.google.com/)
