@@ -27,7 +27,7 @@
 
           <div class="languages">
             {% for language in site.data.languages.languages %}
-              {% if language.url != site.url %}
+              {% if language.url != site.url % and language.published="true"}
                 <div class="item"><a href="{{ language.url }}">{{ language.title }}</a></div>
               {% endif %}
             {% endfor %}

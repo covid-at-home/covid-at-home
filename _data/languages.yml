@@ -5,27 +5,48 @@ languages:
 
 - title: English
   url: https://covid-at-home.info
+  github: https://github.com/covid-at-home/covid-at-home.github.io
+  stats: https://stats.covid-at-home.info
+  published: true
 
 - title: Deutsch
   url: https://covid-zu-hause.info
+  github: https://github.com/covid-zu-hause/covid-zu-hause.github.io
+  stats: https://stats.covid-zu-hause.info
+  published: true
   
 - title: Español
   url: https://covid-en-casa.info
+  github: https://github.com/covid-en-casa/covid-en-casa.github.io
+  stats: https://stats.covid-en-casa.info
+  published: true
   
-#- title: Français
-#  url: https://covid-chez-soi.info
+- title: Français
+  url: https://covid-chez-soi.info
+  github: https://github.com/covid-chez-soi/covid-chez-soi.github.io
+  stats: https://stats.covid-chez-soi.info
 
-#- title: Italiano
-#  url: https://covid-a-casa.info
+- title: Italiano
+  url: https://covid-a-casa.info
+  github: https://github.com/covid-a-casa/covid-a-casa.github.io
+  stats: https://stats.covid-a-casa.info
 
-#- title: Nederlands
-#  url: https://covid-thuis.info
+- title: Nederlands
+  url: https://covid-thuis.info
+  github: https://github.com/covid-thuis/covid-thuis.github.io
+  stats: https://stats.covid-thuis.info
 
-#- title: Polsku
-#  url: https://covid-w-domu.info
+- title: Polsku
+  url: https://covid-w-domu.info
+  github: https://github.com/covid-w-domu/covid-w-domu.github.io
+  stats: https://stats.covid-w-domu.info
 
-#- title: Português
-#  url: https://covid-em-casa.info
+- title: Português
+  url: https://covid-em-casa.info
+  github: https://github.com/covid-em-casa/covid-em-casa.github.io
+  stats: https://stats.covid-em-casa.info
 
-#- title: Romaneste
-#  url: https://covid-acasa.info
+- title: Romaneste
+  url: https://covid-acasa.info
+  github: https://github.com/covid-acasa/covid-acasa.github.io
+  stats: https://stats.covid-acasa.info
