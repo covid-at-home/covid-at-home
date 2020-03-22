@@ -11,7 +11,7 @@ Language |  |  |
 
 ### Meeting
 
-* [Our video chat](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome)
+* [Our video chat](https://meet.rawmushroom.com/covid)
 
 ### Resources
 
