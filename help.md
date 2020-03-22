@@ -10,13 +10,13 @@ This is now one of the most important things you can do to help. Tweet about thi
 
 We can set up a site with a domain in your language in no time, and link it from the main english website. All you need to do is translate text in the editing interface of Github, which we can talk you through. We think the entire website as it is now (March 15, 2020) can be translated in two to three person-days. You don't need to be a professional translator (but yay if you are). If your language is Spanish, German, French, Portugese, Italian, Dutch, Polish or Russian, we can set up your site preloaded with computer-transleted text that "only" needs to be fixed. (We use [DeepL translator](https://www.deepl.com/translator) for this, which is quite a bit better than Google Translate; the texts will still need quite a bit of manual work, but it does save time versus doing it all by hand. If your language has formal and informal addressing (Sie/du, U/jij, ...), we try to use the informal one, also to signify that this is a collaborative effort and that we are all in this together. 
 
-Wanna help? Yeah! Prevent double work: don't start without talking to us. Please contact us right now by mailing [team@covid-at-home.info](mailto:team@covid-at-home.info) or by directly joining the [team video-conference]({{ data.languages.conf }}). (We try to be there when we work on the site. If we're not there, please be polite to whoever else joins.)
+Wanna help? Yeah! Prevent double work: don't start without talking to us. Please contact us right now by mailing [team@covid-at-home.info](mailto:team@covid-at-home.info) or by directly joining the [team video-conference]({{ site.data.languages.conf }}). (We try to be there when we work on the site. If we're not there, please be polite to whoever else joins.)
 
 (If you can provide a number of useful local links in your region with the translation, even better.)
 
 #### Content help
 
-Blessed be if you are a doctor, a nurse, or a public health official. We hope to make your job easier in the months to come. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference]({{ data.languages.conf }}) if you want to talk to us.
+Blessed be if you are a doctor, a nurse, or a public health official. We hope to make your job easier in the months to come. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference]({{ site.data.languages.conf }}) if you want to talk to us.
 
 #### Proofread
 
