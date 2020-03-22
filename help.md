@@ -16,7 +16,7 @@ Wanna help? Yeah! Prevent double work: don't start without talking to us. Please
 
 #### Content help
 
-Blessed be if you are a doctor, a nurse, or a public health official. We hope to make your job easier in the months to come. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome) if you want to talk to us.
+Blessed be if you are a doctor, a nurse, or a public health official. We hope to make your job easier in the months to come. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference]({{ data.languages.conf }}) if you want to talk to us.
 
 #### Proofread
 
