@@ -17,9 +17,7 @@ Language |  |  |
 
 * CCC CERT - [Informationssammlung zum Thema CoVid-19](https://github.com/cwoomi/cert-covid19)
 
-### Work flow
-
-Stuff that Rop and others click all the time when working on the site
+### Random useful stuff
 
 * [Joker (Domain registry we use)](https://joker.com)
 * [DeepL](https://www.deepl.com/translator) and [Google Translate](https://translate.google.com/)
