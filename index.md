@@ -19,7 +19,7 @@ Some of the authors of this website are not known as great fans of government an
 ### Know the Facts: 
 
   * COVID-19 is real. 
-  * It's a virus from nature that mutated to infect human hosts after starting in animals. 
+  * It’s a disease caused by the SARS-CoV-2 virus that mutated to infect human hosts after starting in animals.
   * It seems to be about twice as infectious and to cause far more pneumonia, other serious disease and deaths than the seasonal influenza virus (flu). It's also worse than the flu because the world population so far lacks immunity. New diseases are more dangerous, because their infection rates can grow incredibly rapidly (even having exponential growth). Such rapid transmission of a new disease can swiftly overwhelm even outstanding health-care systems, making it impossible for everyone who needs care to access it - and in turn contributing to more severe disease and death. 
   * Containment of COVID-19 is the best chance we have to save a large number of lives. Containment requires widespread cooperation with and implementation of measures like accessible testing and social distancing (see Level 1 below).  
   * For these reasons, it is time now to change our way of life (for now) to address the very real threat this pandemic poses to our world. 
