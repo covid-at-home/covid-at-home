@@ -45,7 +45,7 @@ languages:
   stats: https://stats.covid-thuis.info
   published: true
 
-- title: Polsku
+- title: Po Polsku
   english: Polish
   url: https://covid-w-domu.info
   github: https://github.com/covid-w-domu/covid-w-domu.github.io
