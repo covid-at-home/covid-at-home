@@ -57,7 +57,7 @@ languages:
   github: https://github.com/covid-em-casa/covid-em-casa.github.io
   stats: https://stats.covid-em-casa.info
 
-- title: Romaneste
+- title: Română
   english: Romanian
   url: https://covid-acasa.info
   github: https://github.com/covid-acasa/covid-acasa.github.io
