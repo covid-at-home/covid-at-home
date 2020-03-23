@@ -43,6 +43,7 @@ languages:
   url: https://covid-thuis.info
   github: https://github.com/covid-thuis/covid-thuis.github.io
   stats: https://stats.covid-thuis.info
+  published: true
 
 - title: Polsku
   english: Polish
