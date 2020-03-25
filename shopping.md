@@ -66,25 +66,33 @@ If you do decide you want to be able to measure blood pressure and SpO2, then at
 
 ### PPE (Personal Protective Equipment)
 
-The topic of PPE is more than a little tricky for several reasons.
+The topic of PPE is tricky for several reasons.
 
 First, this may all be new. You may not be familiar with what kinds of protection are needed in what situations. It is important that you learn what types of PPE you need in what situations, how to fit it properly so that it works, how to safely don and doff it, and how to disinfect or dispose of it after use. 
 
 Second, advice has varied widely on this. In some countries, during some points of the pandemic, wearing masks in public is or has been mandatory. In other countries, it has been strongly encouraged as a social norm with few deviations. In others, wearing masks is mandatory if you are caring for a COVID-19 patient. And in still other countries, public health authorities have told people that wearing masks will not protect them. The protection offered by masks and other PPE is imperfect but important, especially for healthcare workers and other at-risk groups such as immunosuppressed people and those with heart or lung disease. 
 
-Third, some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. 
+Third, some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get - or make - if you are ill, need to be caring for other people who are ill, or are in an at-risk group. **Listen to official advice on what *not* to buy** so as to not make things unavailable to the doctors and nurses who need them the most. 
+
+#### When to use PPE
 
 The World Health Organization offers public advice on [when to wear a mask and how to use masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). You should wear a mask if you are ill with known or suspected COVID-19 (fever, cough, shortness of breath) but _absolutely_have_to_ go out; this protects other people. Wear one whenever you are in the same room with someone who is ill with known or suspected COVID-19; this is even mandatory in some countries' COVID-19 quarantine home care protocols. If you live somewhere with additional requirements such as wearing a mask in public, your government will let you know. Check under what circumstances authorities will provide you with masks. If you are in a special risk group for COVID-19 severity, then it probably also makes sense to wear a mask when you go out (if you have to go out) while the pandemic is ongoing. Similarly, if you are in a group that has more probable exposure, such as healthcare workers, teachers, or grocery store clerks, then it probably make sense to treat yourself as a potential asymptomatic carrier, and wear a mask in public to protect others. See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
 
-Create a clean zone before donning your PPE. Wash your hands first, then put on your mask, and keep your hands off your mask while you're wearing it. 
+Studies have shown that high-filtration respirators like the N95 work best to prevent respiratory disease transmission, followed by high-filtration surgical masks, and then low-filtration surgical masks. Research also shows that a home-made mask is better than no mask at all when it comes to filtering potentially dangerous particulate. So if you cannot find a respirator or mask, try making one yourself. https://www.scmp.com/news/hong-kong/health-environment/article/3050689/how-make-your-own-mask-hong-kong-scientists
 
+If you do nothing but wear a mask when appropriate and practice good hand hygiene, for most people, that's most of the PPE battle. But in addition to this, it makes sense to wear gloves when taking out the trash, as that involves touching fomites, objects like doorknobs and trash receptacle lids that are especially likely to transmit disease because many people touch them. Wearing gloves also makes sense when caring for someone who is ill. Gowns and eye protection probably only make sense for healthcare workers and people caring for someone with COVID-19 at home. Healthcare workers and others with particularly high exposures may even need to take additional PPE precautions where possible, like double-gowning, because it seems that more viral exposures are associated with worse disease outcomes. 
 
+#### How to fit it properly
 
+Respirators are typically the hardest piece of PPE to fit. 
 
-Make sure you read some advice and watch some videos on when and how to safely put on, use, and dispose of your PPE to make sure it really works to protect you and others. (This is especially true if you use a respirator rather than a mask: It is surprisingly hard to make sure your respirator has a proper fit.)
+#### How to safely don and doff it
 
+Create a clean zone before donning PPE. Wash your hands first, then put on your mask, and keep your hands off your mask while you're wearing it. Maintain good hand hygiene while wearing PPE. 
 
-**Listen to official advice on what *not* to buy** so as to not make things unavailable to the doctors and nurses who need them the most. 
+#### How to disinfect or dispose of it after use
+
+70 degrees Celsius / 30 minutes / or sit in a clean place fo ra week -- decontaminated PPE / virus should be dead. (Sunlight also disinfects.) 
 
 
 * **Medical mask, preferably N95** (a few EUR/USD)
@@ -92,12 +100,12 @@ Make sure you read some advice and watch some videos on when and how to safely p
    > 
    > FFP2 or FFP3 respirators are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. Note that the respirators come in version with and without a valve. The valve (often a round plastic thingy) lets out the exhaled air unfiltered. This is fine if you're spraypainting, and it may be fine if you are protecting a known healthy person from a known sick person, but under no circumstances should the sick wear a version with a valve. 
 
+* **Gloves** (less than a EUR/USD) ([example](https://www.amazon.de/dp/B01LWJ80C7))
+   > ![](/images/gloves.png)
+
 * **Gown / raincoat** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07DFDFFRX))
 
    > Best is if you can find a long-sleeved, water-resistant gown. 
-
-* **Gloves** (less than a EUR/USD) ([example](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/images/gloves.png)
 
 * **Eye protection, goggles or face shield** (a few EUR/USD) ([example](https://www.amazon.de/dp/B002THV25Y))
    > ![](/images/glasses.png)
