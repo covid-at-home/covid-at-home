@@ -63,3 +63,4 @@ languages:
   url: https://covid-acasa.info
   github: https://github.com/covid-acasa/covid-acasa.github.io
   stats: https://stats.covid-acasa.info
+  published: true
