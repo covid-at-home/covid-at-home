@@ -92,7 +92,10 @@ Create a clean zone before donning PPE. Wash your hands first, then put on your 
 
 #### How to disinfect or dispose of it after use
 
-70 degrees Celsius / 30 minutes / or sit in a clean place fo ra week -- decontaminated PPE / virus should be dead. (Sunlight also disinfects.) 
+Under normal circumstances, PPE is often considered disposal, i.e., intended to be thrown away after one use. But a global pandemic with shortages in many countries of critical equipment including respirators / masks for healthcare workers and others, does not present a normal set of circumstances. Now is a time to use what you have to the fullest. That means disinfecting rather than disposing of PPE whenever possible. 
+
+One possibility is to mark seven masks - one for each day of the week. Rotate them after wearing to sit in a clean place for a week. The virus should be dead after that period of time. There do not presently seem to be shortages of other PPE, but the same rotation decontamination strategy would apply. Alternately, if you need the mask(s) decontaminated faster, bake them in the oven at 70 degrees Celsius for 30 minutes. 
+
 
 
 * **Medical mask, preferably N95** (a few EUR/USD)
