@@ -69,7 +69,12 @@ Drinking is also key. Drinking enough fluids helps the lungs produce secretions,
 
 Coughing can be an important, healthy effort on the part of the body to clear the lungs of fluid so you can breathe easier. Do not suppress a productive cough all the time / just because you don't want to be coughing. However, if you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, then over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, generally considered safe mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
 
-There are other simple ways you can try to prevent lung complications from developing, borrowed from nursing care for patients at high risk of developing pneumonia. Sit upright as much as possible to help fluids drain. Get up and move periodically if you can. Expand your lungs by breathing deeply (in and out), and raising your arms (up above your head and down again). Open the window and breathe the fresh air. 
+Other simple ways to try to prevent pneumonia and other lung complications from developing typically include: 
+- Sitting upright as much as possible to help fluids drain. Do not lie flat in bed all day. 
+- Getting up and moving periodically. Although you may be very tired (malaise) due to your illness, being upright and moving around can similarly help fluids drain. 
+- Expanding your lungs by breathing deeply (in and out), and raising your arms (up above your head and down again). 
+- Opening the window and breathing the fresh air. 
+- Exercising your fuller lung capacity by blowing up a balloon every hour (or using any other toy you might have on hand that exercises lung capacity. This is a particularly good idea if your breathing is fast / shallow, and / or you are feeling breathless (dyspnea). Be gentle and patient with yourself. Focus on taking deep breaths all the way in and all the way out, and remember lung capacity is like muscle strength: You can build it up by repeated exercise. 
 
 ### Feeling better?
 
