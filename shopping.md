@@ -60,7 +60,7 @@ If we included examples (generally on the German version of Amazon), this is not
 
 A note on the first two items: some medical professionals we talk to feel the non-medically trained will do more harm or good when they start taking SpO2 or blood pressure measurements. We include the devices here because they are in common use and we feel that in some places, during some periods, the health system is not going to be able to cope with the numbers of people falling ill, and we tip the balance towards the advantages in being able to see/show trends.
 
-If you do decide you want to be able to measure blood pressure and SpO2, then at least properly familiarize yourself with the device. Practise! Also to get a good feel for what normal values in you and or your loved ones look like before anyone gets sick. Read our guidance on when **and when not** to seek help based on the information they provide.
+If you do decide you want to be able to measure blood pressure and SpO2, then at least properly familiarize yourself with the device. Practise! Also to get a good feel for what normal values in you and or your loved ones look like before anyone gets sick. Read our guidance on the main page on when **and when not** to seek help based on the information they provide.
 
 &nbsp;
 
