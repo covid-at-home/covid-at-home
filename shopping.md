@@ -66,13 +66,26 @@ If you do decide you want to be able to measure blood pressure and SpO2, then at
 
 ### PPE (Personal Protective Equipment)
 
-Shopping for PPE is more than a little tricky for several reasons.
+The topic of PPE is more than a little tricky for several reasons.
 
-First, this may all be new. You may not be familiar with what kinds of protection are needed in what situations. The World Health Organization offers instructions on [when to wear a mask and how to use masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). You should wear a mask if you are ill with known or suspected COVID-19 (fever, cough, shortness of breath), and whenever you are in the same room with someone who is ill with known or suspected COVID-19. Keep your hands off your mask while you're wearing it and keep using good hand-washing practices. Make sure you read some advice and watch some videos on when and how to safely put on, use, and dispose of your PPE to make sure it really works to protect you and others. (This is especially true if you use a respirator rather than a mask: It is surprisingly hard to make sure your respirator has a proper fit.)
+First, this may all be new. You may not be familiar with what kinds of protection are needed in what situations. It is important that you learn what types of PPE you need in what situations, how to fit it properly so that it works, how to safely don and doff it, and how to disinfect or dispose of it after use. 
 
-And then there's the fact that some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. 
+Second, advice has varied widely on this. In some countries, during some points of the pandemic, wearing masks in public is or has been mandatory. In other countries, it has been strongly encouraged as a social norm with few deviations. In others, wearing masks is mandatory if you are caring for a COVID-19 patient. And in still other countries, public health authorities have told people that wearing masks will not protect them. The protection offered by masks and other PPE is imperfect but important, especially for healthcare workers and other at-risk groups such as immunosuppressed people and those with heart or lung disease. 
 
-So first and foremost, and we mean this: **Listen to official advice on what *not* to buy** so as to not make things unavailable to the doctors and nurses who need them the most. Policies and general practice with regard to masks are going to vary wildly accross the world for a while to come. Going outside with a mask or wearing one in regular daily life if you are healthy is not supported by the scientific evidence on staying well. If you have access to a mask, it probably makes sense to wear one if you feel a little ill or are coughing but _absolutely_have_to_ go out. It also makes sense if you are taking care of someone who is sick. It is even mandatory in the COVID quarantine home care protocols in some countries. Check under what circumstances authorities will provide you with masks. See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
+Third, some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. 
+
+The World Health Organization offers public advice on [when to wear a mask and how to use masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). You should wear a mask if you are ill with known or suspected COVID-19 (fever, cough, shortness of breath) but _absolutely_have_to_ go out; this protects other people. Wear one whenever you are in the same room with someone who is ill with known or suspected COVID-19; this is even mandatory in some countries' COVID-19 quarantine home care protocols. If you live somewhere with additional requirements such as wearing a mask in public, your government will let you know. Check under what circumstances authorities will provide you with masks. If you are in a special risk group for COVID-19 severity, then it probably also makes sense to wear a mask when you go out (if you have to go out) while the pandemic is ongoing. Similarly, if you are in a group that has more probable exposure, such as healthcare workers, teachers, or grocery store clerks, then it probably make sense to treat yourself as a potential asymptomatic carrier, and wear a mask in public to protect others. See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
+
+Create a clean zone before donning your PPE. Wash your hands first, then put on your mask, and keep your hands off your mask while you're wearing it. 
+
+
+
+
+Make sure you read some advice and watch some videos on when and how to safely put on, use, and dispose of your PPE to make sure it really works to protect you and others. (This is especially true if you use a respirator rather than a mask: It is surprisingly hard to make sure your respirator has a proper fit.)
+
+
+**Listen to official advice on what *not* to buy** so as to not make things unavailable to the doctors and nurses who need them the most. 
+
 
 * **Medical mask, preferably N95** (a few EUR/USD)
    > ![](/images/mask.png)
