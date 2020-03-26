@@ -44,7 +44,7 @@ Diarrhea | **Rare** | No | Sometimes<sup>*</sup> | No
 Runny Nose | **Rare** | Common | Sometimes | Common
 Sneezing | **No** | Common | No | Common
 
-<sup>*</sup>  Sometimes for children&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(source CDC, WHO, et al via [BI](https://www.businessinsider.com/coronavirus-in-charts-covid-19-symptoms-spread-deaths-warnings-2020-2))
+<sup>*</sup>  Sometimes for children&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(source CDC, WHO, et al via [Business Insider](https://www.businessinsider.com/coronavirus-in-charts-covid-19-symptoms-spread-deaths-warnings-2020-2))
 
 &nbsp;
 
