@@ -43,7 +43,7 @@ If we included examples (generally on the German version of Amazon), this is not
 * **Incontinence / waterproof sheets** (20 EUR/USD or so) ([example](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) or [example](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
    > ![](/images/sheet.png)
    >
-   > Sick people sometimes have accidents. You'll thank us.
+   > Sick people sometimes have accidents. You'll thank us. (In fact... Put two waterproof sheets on the bed, if it's still comfortable enough. Then removing the top layer in the middle of the night will hopefully be enough.)
 
 * **Steam inhaler** (25 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07SNQH6CZ))
    > ![](/images/steam.png)
