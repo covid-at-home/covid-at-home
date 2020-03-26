@@ -43,12 +43,9 @@ Fatigue | **Sometimes** | Sometimes | Common | Sometimes
 Diarrhea | **Rare** | No | Sometimes<sup>*</sup> | No
 Runny Nose | **Rare** | Common | Sometimes | Common
 Sneezing | **No** | Common | No | Common
-
 <sup>*</sup>  Sometimes for children
 
-&nbsp
-
-
+&nbsp;
 
 > Remember: Hospitals are bad places to be until you absolutely have to be there: You and / or the patient run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded.
 
