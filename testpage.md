@@ -43,7 +43,8 @@ Fatigue | **Sometimes** | Sometimes | Common | Sometimes
 Diarrhea | **Rare** | No | Sometimes<sup>*</sup> | No
 Runny Nose | **Rare** | Common | Sometimes | Common
 Sneezing | **No** | Common | No | Common
-<sup>*</sup>  Sometimes for children
+
+<sup>*</sup>  Sometimes for children&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(source CDC, WHO, American College of Allergy, Asthma and Immunology)
 
 &nbsp;
 
