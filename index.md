@@ -1,8 +1,8 @@
-This website was made as a result of the COVID-19 pandemic, but much of the advice may be applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of illness in one place. While we consulted with nurses and doctors on much of this advice, most of this text was written by the non-medically trained, trying to puzzle together what makes sense in this new situation. 
+This website started as a way to share our early research regarding the COVID-19 pandemic. We were trying to write down for ourselves and our friends what to do when so many people were going to get sick. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of illness in one place. We consulted with nurses and doctors, but this site was created by the non-medically trained, trying to puzzle together what makes sense in our new normal. 
 
 To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
 
-As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. While it is not now - nor is it ever - a good time to panic, we do think it is now time to think and prepare.
+As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. Whether the virus has caused total crisis where you are or not: it is time to think and prepare.
 
 ![](/images/virus.png)
 
@@ -10,7 +10,17 @@ This guide is based on the assumption that in the coming months, more people tha
 
 [![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
-This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information from other credible sources that is more local to where you are. 
+{{ site.breakout_start }}
+
+### What this guide is not...
+
+We try to provide a large amount of *general* helpful tips for dealing with COVID-19 during the various stages in which it might affect your household. **What we cannot do is provide up-to-date information that is specific to where you are.** We will try to tell you when need local information throughout the text in boxes such as this one.
+
+Note that any advice from official sources you may find could be outdated as little as a few days after it is issued, so always try to find the latest guidance and advice if you can. Refer to local broadcast media and **trusted** information on the internet. Your local health authorities know the situation on the ground where you are, and should be talking to the population through the media.
+
+Having said that, we are seeing various levels of quality in official response. Often, the means for getting individual local help and advice (such as hotlines and testing centers) is shown to not have sufficient capacity and individual help may thus be unavailable at times. So in this text we will at times just keep going, giving you the best advice we found in our research, assuming local help may well be unavailable where you are.
+
+{{ site.breakout_end }}
 
 Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is vital. Where there are discrepancies, trust reputable sources such as:
 * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
@@ -26,10 +36,9 @@ For the more research-minded, we compiled a list of [additional resources here](
   * It’s a disease caused by the SARS-CoV-2 virus that mutated to infect human hosts after starting in animals.
   * It seems to be about twice as infectious and to cause far more pneumonia, other serious disease and deaths than the seasonal influenza virus (flu). It's also worse than the flu because the world population so far lacks immunity. New diseases are more dangerous, because their infection rates can grow incredibly rapidly (even having exponential growth). Such rapid transmission of a new disease can swiftly overwhelm even outstanding health-care systems, making it impossible for everyone who needs care to access it - and in turn contributing to more severe disease and death. 
   * Containment of COVID-19 is the best chance we have to save a large number of lives. Containment requires widespread cooperation with and implementation of measures like accessible testing and social distancing (see Level 1 below).  
-  * For these reasons, it is time now to change our way of life (for now) to address the very real threat this pandemic poses to our world. 
+  * For these reasons, many have or will soon need to change their way of life to address the very real threat this pandemic poses to everyone on planet earth. 
 
-Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in contact with large groups of people unnecessarily. There are obvious trade-offs here that everyone has to weigh for themselves. Some people will need to have more contact with other people than others. Slowing the spread is never absolute, but over all of society, our efforts still work when everyone does what they can, within their limits.
-
+Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in physical contact with other people unnecessarily: a lot will depend on whether the social fabric of our society holds. Slowing the spread of an infectious disease is rarely absolute. But taken over society as a whole, our efforts still work when everyone does what they can, within their limits.
 
 > **YOU CAN HELP MAKE THIS SITE BETTER.** *If you see something that could be better, please [click here](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. As you can see there the backend of this website is on Github, so if you know that environment you can probably think of other ways to help. To be successful, this will need to be an expanding collaborative effort.*
 
