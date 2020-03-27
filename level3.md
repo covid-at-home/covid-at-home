@@ -10,9 +10,9 @@ This is when you start telling other people around you that you are really ill a
 
 ### In any case
 
-* Rest. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius or warmer.
+* Rest. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed as often as possible and wash the old sheets at 60 degrees Celsius (140 degrees Farenheit) or warmer.
 * Get fresh air. Ventilate the room as often as possible.
-* Drink more water! (More than 2 liters and less then 5 liters a day.)
+* Drink more water! (More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever.)
 * Eat something. Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
 * Use those lungs. See the Level 2 advice on breathing deeply in and out, moving your arms above your head to help your chest fully expand, and even exercising your lung capacity if possible by blowing up a balloon every hour. 
 
@@ -54,7 +54,7 @@ At this stage, a typical day might look something like this:
 
 You (or the patient) get up, weigh, and note weight in illness diary. You might also want to take your temperature first thing, before eating or drinking, especially if you are taking temperature orally - and note it in the illness diary, too. 
 
-Then, start drinking fluids. Not too much caffeine or sugar. As much water and herbal tea as you like. Remember you want to drink at least 2 liters and up to 5 liters a day. 
+Then, start drinking fluids. Not too much caffeine or sugar. As much water and herbal tea as you like. Remember you want to drink at least 2 liters (around 8.5 cups) and up to 5 liters a day. 
 
 Air out your home as much as possible, perhaps while the water for your morning tea or coffee is boiling.  If you have the energy (and enough sheets), consider changing your bed linens if they got sweaty / otherwise soiled. Next, have a quick shower if you're able. Staying clean can help you feel better mentally and emotionally, as well as physically. 
 
