@@ -84,11 +84,11 @@ If you do nothing but wear a mask when appropriate and practice good hand hygien
 
 #### How to fit it properly
 
-Much PPE is one-size-fits all (caps) or sized in large category chunks like small, medium, and large (gloves, gowns). Respirators are typically the hardest piece of PPE to fit. If you have and haven't used respirators before, take the time to look up some videos on how to properly fit one to your face. Mask and respirator fit are especially important for keeping potentially dangerous particulate out (in the case of going out in public or taking care of patients) or in (in case you are ill). 
+Much PPE is one-size-fits all (caps) or sized in large category chunks like small, medium, and large (gloves, gowns). Respirators are the hardest piece of PPE to fit. Take the time to look up some videos on how to properly mold one to your face with your fingers, covering your nose and cheekbones closely. Don't squeeze the bridge. Mask and respirator fit are especially important for keeping potentially dangerous particulate out (in the case of going out in public or taking care of patients) or in (in case you are ill). 
 
 #### How to safely don and doff it
 
-To put it on: Create a clean zone (other than wearing your "dirty" / patient care / outside clothes) before donning PPE. Wash your hands first, then put on your mask, and keep your hands off your mask while you're wearing it. Then put on your gown and any other protective equipment. Always maintain good hand hygiene while wearing PPE. 
+To put it on: Create a clean zone (other than wearing your "dirty" / patient care / outside clothes) before donning PPE. Wash your hands first, then put on your mask, and keep your hands off your mask while you're wearing it. Then put on your gown and any other protective equipment -- whille keeping it "clean." This means, for example, ripping the gown's back of the neck fastening so you can put your arms into it without putting it over your head (to avoid smearing the gown against the mask). Always maintain good hand hygiene while wearing PPE. 
 
 To take it off: First remove your gloves and wash your hands. Then remove your gown and wash your hands again. Then remove any remaining PPE and wash your hands again. Then remove your "dirty" clothes and wash your hands again. Then put on your "clean" clothes and proceed to a zone you know is "clean." 
 
