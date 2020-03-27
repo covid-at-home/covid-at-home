@@ -10,7 +10,7 @@ This guide is based on the assumption that in the coming months, more people tha
 
 [![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
-{{ site.breakout_start }}
+{{ site.breakout_begin }}
 
 ### What this guide is not...
 
