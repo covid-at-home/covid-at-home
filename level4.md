@@ -50,7 +50,7 @@ Heart rate is easier to measure than blood pressure, and usually high heart rate
 
 ### Very high fever that comes (back) suddenly
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
+If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius or around 102.2° Farenheit) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
 
 ### Call for help
 
