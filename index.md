@@ -10,15 +10,17 @@ This guide is based on the assumption that in the coming months, more people tha
 
 [![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
+&nbsp;
+
 {{ site.breakout_begin }}
 
 ### What this guide is not...
 
-We try to provide a large amount of *general* helpful tips for dealing with COVID-19 during the various stages in which it might affect your household. **What we cannot do is provide up-to-date information that is specific to where you are.** We will try to tell you when need local information throughout the text in boxes such as this one.
+We try to provide a large amount of *general* helpful tips for dealing with COVID-19 during the various stages in which it might affect your household. **What we cannot do is provide up-to-date information that is specific to where you are.** We will try to tell you when we think you need to seek up-to-date local information in text boxes such as this.
 
-Note that any advice from official sources you may find could be outdated as little as a few days after it is issued, so always try to find the latest guidance and advice if you can. Refer to local broadcast media and **trusted** information on the internet. Your local health authorities know the situation on the ground where you are, and should be talking to the population through the media.
+Note that any advice from official sources you may find could be outdated as soon as a few days after it is issued, so always try to find the latest guidance and advice you can. Refer to local broadcast media and **trusted** information on the internet. Your local health authorities know the situation on the ground where you are, and should be talking to the public through the media.
 
-Having said that, we are seeing various levels of quality in official response. Often, the means for getting individual local help and advice (such as hotlines and testing centers) is shown to not have sufficient capacity and individual help may thus be unavailable at times. So in this text we will at times just keep going, giving you the best advice we found in our research, assuming local help may well be unavailable where you are.
+That said, we are seeing various levels of quality in official response. Often, the means for getting individual local help and advice (such as hotlines and testing centers) is shown to have insufficient capacity, so help will probably be unavailable at times. So in this text we will just keep going, giving you the best advice we found in our research.
 
 {{ site.breakout_end }}
 

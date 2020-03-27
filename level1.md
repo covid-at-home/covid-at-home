@@ -1,10 +1,8 @@
 ## Level 1 -- Healthy
 
-### Don't Get Infected
+### Don't Get Infected - don't infect others
 
-*(Or infect others should you happen to be asymptomatic / feel fine, but actually have COVID-19... Asymptomatic cases are still infectious.)* 
-
-Where possible, follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
+You might feel fine, but the virus can spread before you show symptoms. Some people can spread it without ever showing symptoms. Follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
 
 * Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
 * Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
@@ -19,9 +17,13 @@ Where possible, follow the instructions from authorities. This includes some of 
 * Instead of going to restaurants, cook and eat at home. 
 * Instead of having food or groceries delivered or delivering them to another person at home with direct contact, arrange to have them left or to leave them outside the door. 
 * Instead of meeting friends for a coffee or a drink, have a video-chat or coordinate a walk to the grocery store while keeping your [safe distance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) of at least 1.5 meters, or around five feet apart. 
-* Instead of exercising inside (e.g., at the gym), go outside for a walk or run if weather permits, while keeping your distance from other people. 
-* Follow any additional government / public health authority advice, including the eventual advice to stay indoors when that becomes applicable for where you are.
+* Instead of exercising inside, go outside for a walk or run if weather permits, while keeping your distance from other people. 
 
+{{ site.breakout_begin }}
+
+Here you will need up-to-date local information. Walks outside may well be illegal where you are, and much of this advice may actually be mandatory. You may be asked or required to do other things, not on this list. Let the local information guide you where there are conflicts between that and this text.
+
+{{ site.breakout_end }}
 
 ### Stay Healthy
 
@@ -31,7 +33,7 @@ On top of this, you can do things to stay as healthy as possible:
 
 * Ventilate your rooms frequently.
 * Eat appropriate amounts of nutrient-rich, healthy food. Include at least some carbohydrates (e.g., bread, potatoes, pasta, rice, etc). Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. 
-* Drink enough fluids, mostly water.
+* Drink enough, mostly water. Your urine should be very light-colored, never dark yellow.
 * Get regular exercise. If it is recommended or required to stay indoors, find ways to get moving at home: Dance to favorite songs with friends over video-chat, join online yoga or other exercise classes, or try simple core bodyweight exercises like push-ups, sit-ups, and squats combined with simple stationary aerobic exercises like jumping jacks, hula hooping, and skipping. 
 * If you smoke, stop smoking.
 * Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immune function.
@@ -39,11 +41,13 @@ On top of this, you can do things to stay as healthy as possible:
 
 #### Psychological well-being
 
-This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. refer to the page with [recommandations, hints and tips for psychological well-being](/psychological).
+This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. refer to the page with [recommendations, hints and tips for psychological well-being](/psychological).
 
 ### Prepare
 
-And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide. It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. It doesn't hurt to be a tiny bit more ready for the worst-case scenario. But remember at the same time that there is no reason to panic. Take a deep breath and continue your regular life as much as possible.
+And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide. It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. But in these times it doesn't hurt to be a tiny bit more ready for the worst-case scenario.
+
+Remember at the same time that there is no reason to panic. Take a deep breath and continue your regular life as much as possible.
 
 #### Get the things you need
 
@@ -61,6 +65,13 @@ What sorts of existing medical conditions are especially likely to make you / yo
 
 ### Preventive Care
 
+{{ site.breakout_begin }}
+
+If the news is full of stories of hospitals being overloaded with COVID-19 patients where you are, then ignore the advice below and let the doctors and nurses work. Except when local health authorities tell you otherwise, naturally.
+
+{{ site.breakout_end }}
+
 If the situation is still somewhat normal where you are, this may be good moment to briefly ask your doctor what (if anything) she/he thinks you should do now, and what you should do if you fall ill. If you have not yet been vaccinated for the seasonal flu, pneumococcal pneumonia, or meningococcal meningitis, now may also be a good time to ask your doctor if you are a candidate for those vaccines. Getting these vaccinations now if your doctor advises it could help prevent another infection from compounding problems that may be caused by COVID-19, should be you be infected later. 
 
-During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to get cancelled or delayed because doctors, nurses, hospitals, and the rest of the healthcare system may be overloaded, and because people may be afraid to go in to doctors' offices or hospitals for fear (sometimes rational) of being exposed to disease. In case your area is not yet greatly affected by COVID-19: Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? Do it now. 
+During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to get cancelled or delayed because doctors, nurses, hospitals, and the rest of the healthcare system may be overloaded, and because people may be afraid to go in to doctors' offices or hospitals for fear (sometimes rational) of being exposed to disease. In case your area is not yet greatly affected by COVID-19: Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? Do it now.
+
