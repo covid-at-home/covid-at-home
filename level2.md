@@ -33,6 +33,10 @@ For most people, this will be as bad as it gets. You'll be a little sick, and th
 
 Until tested and depending on where you are and where you have been, it may be prudent to assume the patient (you? a family member?) has COVID-19. That means self-quarantine at home. No more visitors, a sign on the door, and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. If possible, you will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change, as in some areas the virus will become so common (endemic) that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
 
+### Garbage
+
+During this time at least, err on the side of caution when it comes to waste disposal. Used tissues, paper towels, and other possibly contaminated disposable items should be bagged in disposable trash bags, tied securely, and put aside for 72 hours prior to external disposal. Some municipalities also recommend placing these items in a second disposable trash bag. If you use communal garbage bins, disinfect the handles when possible before and after use. Wash your hands after handling trash and bins. 
+
 ### Family, flatmates, etc.
 
 Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. 
