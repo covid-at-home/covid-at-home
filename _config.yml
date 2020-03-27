@@ -5,5 +5,5 @@ url: https://covid-at-home.info
 slug: covid-at-home
 goatcounter: covid_at_home
 
-breakout_begin: <div class="testdiv" markdown="1">
+breakout_begin: <div class="breakout" markdown="1">
 breakout_end: </div>
