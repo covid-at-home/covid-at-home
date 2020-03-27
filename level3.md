@@ -66,4 +66,18 @@ Keep drinking throughout the day. Some people find it helpful to empty and refil
 
 Throughout the day, check in with yourself about fatigue (sleep as much as possible), hunger (eat small, nutritious meals), thirst (drink whenever you feel like it), and temperature (take care to keep warm enough). If you feel up to it, and only if you feel up to it, move (e.g., go for a short walk as long as it's still permitted where you are, or get up and dance to a favorite song). 
 
-Finally, you want to be alert to signs that your condition may be worsening and you may need more care. So after taking basic care of yourself, then check in with other people around you who know that you are really ill. Let them know how you are doing - and if you need help, ask. Especially let someone know if you start experiencing more severe symptoms (see the next section). 
+Finally, you want to be alert to signs that your condition may be worsening and you may need more care. So after taking basic care of yourself, then check in with other people around you who know that you are really ill. Let them know how you are doing - and if you need help, ask. Especially let someone know if you start experiencing more severe symptoms (see the next section).
+
+
+### Go bag
+
+If the condition deteriorates to the point that you / the patient need to go to hospital, you will not have time to think about what to pack. So prepare beforehand a bag that contains:
+* a set or two of simple fresh clothes
+* a toothbrush and toothpaste
+* The patient's living will document, if applicable
+* Contact information of the patient's loved ones on paper
+* phone charger if you have a extra
+* USB battery pack if you have one
+* previous days of the patient illness diary
+
+And then remember to put phone, charger and today's page of the illness diary in the bag before you go. Remember that there may be no visits in hospital and COVID-19 patients may be in far-away makeshift hospitals. Don't forget phone or charger!
