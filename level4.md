@@ -46,11 +46,11 @@ Dehydration is a common cause of low blood pressure, so immediate home care may 
 
 ### Too high or too low heart rate
 
-Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller people and children often have normally higher heart rates. High heart rate alone may not be cause for alarm, as it may indicate anxiety or dehydration. Relaxation techniques and drinking / eating something might be appropriate. But once again, values outside the normal range here should cue you to seek medical help immediately. This is especially true if you see rapid breathing along with low blood pressure or high heart rate and / or confusion. 
+Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller adults and children often have normally higher heart rates. High heart rate alone may not be cause for alarm, as it may indicate anxiety or dehydration. Relaxation techniques and drinking / eating something might be appropriate. But once again, values outside the normal range here should cue you to seek medical help immediately. This is especially true if you see rapid breathing along with low blood pressure or high heart rate and / or confusion. 
 
 ### Very high fever that comes (back) suddenly
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
+If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius or around 102.2° Farenheit) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
 
 ### Call for help
 
