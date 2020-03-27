@@ -84,17 +84,21 @@ If you do nothing but wear a mask when appropriate and practice good hand hygien
 
 #### How to fit it properly
 
-Respirators are typically the hardest piece of PPE to fit. 
+Much PPE is one-size-fits all (caps) or sized in large category chunks like small, medium, and large (gloves, gowns). Respirators are the hardest piece of PPE to fit. Take the time to look up some videos on how to properly mold one to your face with your fingers, covering your nose and cheekbones closely. Don't squeeze the bridge. Mask and respirator fit are especially important for keeping potentially dangerous particulate out (in the case of going out in public or taking care of patients) or in (in case you are ill). 
 
 #### How to safely don and doff it
 
-Create a clean zone before donning PPE. Wash your hands first, then put on your mask, and keep your hands off your mask while you're wearing it. Maintain good hand hygiene while wearing PPE. 
+To put it on: Create a clean zone (other than wearing your "dirty" / patient care / outside clothes) before donning PPE. Wash your hands first, then put on your mask, and keep your hands off your mask while you're wearing it. Then put on your gown and any other protective equipment -- whille keeping it "clean." This means, for example, ripping the gown's back of the neck fastening so you can put your arms into it without putting it over your head (to avoid smearing the gown against the mask). Always maintain good hand hygiene while wearing PPE. 
+
+To take it off: First remove your gloves and wash your hands. Then remove your gown and wash your hands again. Then remove any remaining PPE and wash your hands again. Then remove your "dirty" clothes and wash your hands again. Then put on your "clean" clothes and proceed to a zone you know is "clean." 
 
 #### How to disinfect or dispose of it after use
 
-Under normal circumstances, PPE is often considered disposal, i.e., intended to be thrown away after one use. But a global pandemic with shortages in many countries of critical equipment including respirators / masks for healthcare workers and others, does not present a normal set of circumstances. Now is a time to use what you have to the fullest. That means disinfecting rather than disposing of PPE whenever possible. 
+If you are disposing of PPE after use, you will want to place it in a disposable trash bag. Some municipalities recommend double-bagging that bag. Then place the trash aside for 72 hours before external disposal in a communal area or trash bin. 
 
-The best way to reuse PPE during this pandemic is probably to mark seven masks or sets of PPE -- one for each day of the week. Rotate them after wearing to sit in a clean place for a week. The virus should be dead after that period of time. There do not presently seem to be shortages of other PPE, but the same rotation decontamination strategy would apply. Alternately, if you need the mask(s) decontaminated faster, bake them in the oven at 70 degrees Celsius for 30 minutes. It seems likely, however, that using heat or other, faster potential decontamination techniques will result in worse overall wear and tear on the PPE than rotating a weekly set in and out of a clean place. 
+Under normal circumstances, most PPE is considered disposal, i.e., intended to be thrown away after one use. But a global pandemic with shortages in many countries of critical equipment including respirators / masks for healthcare workers and others, does not present a normal set of circumstances. Now is a time to use what you have to the fullest. That means disinfecting rather than disposing of PPE whenever possible. 
+
+The best way to reuse PPE during this pandemic is probably to mark seven masks or sets of PPE -- one for each day of the week. Rotate them after wearing to sit in a clean place for a week. The virus should be dead after that period of time. There do not presently seem to be shortages of other PPE, but the same rotation decontamination strategy would apply. Alternately, if you need the mask(s) / respirator(s) decontaminated faster, bake them in the oven at 70 degrees Celsius for 30 minutes. For hard surfaces like face shields and goggles, normal disinfectant solutions like Windex should kill the virus. For soft surfaces like cotton masks, spraying with alcohol should do the trick. It seems likely, however, that using heat, chemicals or other, faster potential decontamination techniques will result in worse overall wear and tear on the PPE than rotating a weekly set in and out of a clean place. 
 
 
 
