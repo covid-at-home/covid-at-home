@@ -18,7 +18,7 @@ This is when you start telling other people around you that you are really ill a
 
 At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient is moving to Level 4. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum you're quickly in Level 4.
 
-In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Make sure the illness diary and quarantine are kept up until the patient has been completely well for a while. If you have been caring for the patient, your own two-week self-quarantine period now begins.
+In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Make sure the illness diary is kept until all symptoms are gone, and quarantine is kept up until the patient has been symptom-free for 14 days. If you have been caring for the patient, self-isolate again. Your own two-week self-quarantine period now begins.
 
 ### Care work
 
@@ -32,7 +32,6 @@ Some possibly useful behaviors include:
 * Reassure the patient that it is likely that he or she will make a full recovery. 
 * If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes (e.g., leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two). 
 * Keeping the illness diary (see below).
-
 
 ### Illness diary
 
@@ -71,13 +70,20 @@ Finally, you want to be alert to signs that your condition may be worsening and 
 
 ### Go bag
 
-If the condition deteriorates to the point that you / the patient need to go to hospital, you will not have time to think about what to pack. So prepare beforehand a bag that contains:
-* a set or two of simple fresh clothes
-* a toothbrush and toothpaste
-* The patient's living will document, if applicable
-* Contact information of the patient's loved ones on paper
-* phone charger if you have a extra
+If the condition deteriorates to the point that you / the patient need to go to hospital, **you will not have time or be in the mood to think about what to pack**. So prepare beforehand a small bag with a zipper and that contains:
+* A piece of paper with, in clearly readable print:
+  * identifying information: Name, date of birth, address
+  * Names, addresses and telephone numbers of loved ones and next of kin.
+  * ( maybe: pincode to patient's telephone )
+* Government issued ID, or a copy of that
+* Health-ID card, health insurance card, whatever is applicable where you are
+* A set or two of simple and compact fresh clothes
+* Bath slippers, flip-flops
+* Spare glasses if available
+* Toothbrush, toothpaste
+* Patient's living will document, if applicable
+* Phone charger if you have an extra
 * USB battery pack if you have one
-* previous days of the patient illness diary
+* Previous days of the patient illness diary
 
-And then remember to put phone, charger and today's page of the illness diary in the bag before you go. Remember that there may be no visits in hospital and COVID-19 patients may be in far-away makeshift hospitals. Don't forget phone or charger!
+And then remember to put glasses, phone, charger and today's page of the illness diary in the bag before you go. Remember that there are likely no visits allowed in hospital and COVID-19 patients may be in far-away makeshift hospitals. Don't forget glasses, phone or charger!
