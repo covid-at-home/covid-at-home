@@ -78,9 +78,9 @@ During pandemics, it is typical for childhood immunizations, maternal healthcare
 
 ### Death and dying
 
-It may seem strange that we address the dark issue of death right in Level 1, when you and your loved ones are not even infected with the virus. But if at all possible you want to be level-headed and not rushed when you think about these things. 
+It may seem strange that we address the dark issue of death right in Level 1, when you and your loved ones are not even infected with the virus. But, if at all possible, you want to be level-headed and not rushed when you think about these things. 
 
-First of all, remember not to panic. Of all the people who get infected with the virus, many will show no symptoms. The majority of people who do show symptoms will have a mild or moderate version of the disease. The majority of the people who get sick do not need to go to hospital. Even among risk groups such as the elderly and people with preexisting medical problems, most will survive. That all being said: the sad reality is that some patients will develop severe respiratory problems, and some of these will die.
+First, remember not to panic. Of all the people who get infected with the virus, many will show no symptoms. The majority of people who do show symptoms will have a mild or moderate version of the disease. The majority of the people who get sick do not need to go to hospital. Even among risk groups such as the elderly and people with preexisting medical problems, most will survive. That all being said: the sad reality is that some patients will develop severe respiratory problems, and some of these will die.
 
 Many people have previously thought about how they would like to die when the time comes. We know most people (ourselves included) hate to think about death, but here are a few things that may guide your thinking:
 * The COVID-19 crisis is already forcing doctors around the world to make terrible choices to distribute limited resources to the patients with the best prospects for recovery. For patients that are older and/or have existing health problems, the terrible truth is that during the peak in cases in your area, some may simply not qualify for treatment. 
