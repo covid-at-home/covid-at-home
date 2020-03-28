@@ -62,7 +62,7 @@ What sorts of existing medical conditions are especially likely to make you / yo
 - Conditions that involve lungs / breathing problems (e.g., asthma, COPD, lung cancer).
 - Heart conditions, particularly chronic cardiovascular disease (e.g., hypertension, congestive heart failure, atrial fibrillation).
 - Conditions that involve compromised immune function and / or require taking immunosuppressant medications (e.g., lupus, arthritis, organ transplantation, some forms of cancer).
-- Other chronic hematologic, hepatic, metabolic, neurologic, neuromuscular, renal, or disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, kidney disease). 
+- Other chronic hematologic, hepatic, metabolic, neurologic, neuromuscular, or renal disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, kidney disease). 
 
 ### Preventive Care
 
