@@ -6,7 +6,7 @@ You might feel fine. But the virus can spread before you show symptoms. Some peo
 
 * Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance, or bumping elbows or feet.
 * Your eyes, nose, and mouth are possible places for the virus to enter your body. So wash your hands before touching your face. Don't touch your face while outside.
-* Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
+* Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). Use moisturizer as needed, too: [Keeping skin healthy](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2flifestyle%2fwellness%2fhand-washing-coronavirus-moisturizer-dry%2f2020%2f03%2f06%2fede43874-5fcb-11ea-b014-4fafa866bb81_story.html) makes disinfection more effective and reduces the risk of infection from other germs.
 * Change your clothes when you get home as well. 
 * Regularly sterilize doorknobs, table surfaces, keyboards, and other places people frequently touch.
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
