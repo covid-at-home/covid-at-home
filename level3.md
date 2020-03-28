@@ -18,14 +18,14 @@ This is when you start telling other people around you that you are really ill a
 
 {{ site.breakout_begin }}
 
-As you / the patient get sicker, it's time to let the doctor know if you haven't spoken to him/her already earlier. The doctor may have a protocol to assess the patinet over the phone or videochat, there may be additional advice or guidelines given. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general advice given here.
+As you / the patient get sicker, it's time to let the doctor know if you haven't spoken to him/her already earlier. The doctor may have a protocol to assess the patient over the phone or videochat, there may be additional advice or guidelines given. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general advice given here.
 
 Ask the doctor, if reachable and otherwise try to use realiable local information to see what, if anything, is expected of people with worsening symptoms where you are. The health authorities may have a website, app or other mechanism to register a worsening of symptoms. This could important for keeping an eye on the pandemic, but also to figure out who needs additional care.
 
 {{ site.breakout_end }}
 
 
-At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient is moving to Level 4. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum you're quickly in Level 4.
+At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient needs expert medical care. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum you're quickly in Level 4.
 
 In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Make sure the illness diary is kept until all symptoms are gone, and quarantine is kept up until the patient has been symptom-free for 14 days. If you have been caring for the patient, self-isolate again. Your own two-week self-quarantine period now begins.
 
@@ -79,7 +79,7 @@ Finally, you want to be alert to signs that your condition may be worsening and 
 
 ### Go bag
 
-If the condition deteriorates to the point that you / the patient need to go to hospital, **you will not have time or be in the mood to think about what to pack**. So prepare beforehand a small bag with a zipper and that contains:
+If the condition deteriorates to the point that you / the patient need to go to hospital, **you will not have time or be in the mood to think about what to pack**. So prepare beforehand a small bag with a zipper that contains:
 * A piece of paper with, in clearly readable print:
   * identifying information: Name, date of birth, address
   * Names, addresses and telephone numbers of loved ones and next of kin.
@@ -95,4 +95,6 @@ If the condition deteriorates to the point that you / the patient need to go to 
 * USB battery pack if you have one
 * Previous days of the patient illness diary
 
-And then remember to put glasses, phone, charger and today's page of the illness diary in the bag before you go. Remember that there are likely no visits allowed in hospital and COVID-19 patients may be in far-away makeshift hospitals. Don't forget glasses, phone or charger!
+(It would be good to have the patient name and date of birth readbale on the outside of the bag as well.)
+
+When it is time to go, remember to put glasses, phone, charger and today's page of the illness diary in the bag before you go. Remember that there are likely no visits allowed in hospital and COVID-19 patients may be in far-away makeshift hospitals.
