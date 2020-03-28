@@ -42,7 +42,8 @@ On top of this, you can do things to stay as healthy as possible:
 
 #### Psychological well-being
 
-This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. Here are some [recommendations, hints and tips for psychological well-being](/psychological).
+This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. If you are having difficulty coping, try thinking, journaling, or talking with a trusted friend about a time you have felt most alive. What has brought you quality of life? How can you build out from those bright spots? Here are some additional [recommendations, hints and tips for psychological well-being in the context of the COVID-19 pandemic](/psychological). 
+
 
 ### Prepare
 
@@ -88,5 +89,5 @@ Many people have previously thought about how they would like to die when the ti
 * When thinking about the above, it's important to simultaneously realize than even in the best of times, elderly people with existing conditions have a low survival rate once they need to be mechanically ventilated.
 * If you are older and/ or if your health is already marginal, you may want to be explicit as to what you want in case you face difficulty breathing. Many countries have "living will" documents that let patients tell doctors what treatments they would _not_ like to receive. Talk to your doctor if still possible and openly discuss different scenarios.
 * Death in a hospital is likely to be a heartbreakingly lonely and technical affair that may first involve intubation, all sorts of other tubes and machines -- and isolation from home and loved ones, possibly even during the last moments. Many hospitals have already stopped visitation altogether (including outside of ICUs) in order to lessen the spread of COVID-19. 
-* On the other hand, if you decide to stay at home when the moment comes, you may need to arrange for palliative care and possibly for spiritual/religious and emotional support to the extent desired and possible. You may also want to pre-arrange access to pallative care medication (such as opiates and sedatives) that is no longer intended to prolong life, but to ease suffering during the dying process. In some countries, doctors can help patients have such medicines at home before the situation is dire, in case the time comes.
+* On the other hand, if you decide to stay at home when the time comes, you may need to arrange for palliative care and possibly for spiritual/religious and emotional support to the extent desired and possible. You may also want to pre-arrange access to pallative care medication (such as opiates and sedatives) that is no longer intended to prolong life, but to ease suffering during the dying process. In some countries, doctors can help patients have such medicines at home before the situation is dire, in case the time comes.
 * You may want to talk about these things with others close to you if you find these issues difficult to think about on your own.
