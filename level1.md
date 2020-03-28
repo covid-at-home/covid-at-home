@@ -21,7 +21,7 @@ You might feel fine, but the virus can spread before you show symptoms. Some peo
 
 {{ site.breakout_begin }}
 
-Here you will need up-to-date local information. Walks outside may well be illegal where you are (for a time), while much of this advice may actually be mandatory. You may be asked or required to do other things not on this list, like [wearing a mask in public or having your temperature taken before buying groceries](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says). Let up-to-date local information guide you where there are conflicts between that and this text.
+Here you will need up-to-date local information. Walks outside may well be illegal where you are (for a time), while much of this advice may actually be mandatory. You may be asked or required to do other things not on this list, like [wearing a mask if you can't avoid crowds, or having your temperature taken before buying groceries](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says). Let up-to-date local information guide you where there are conflicts between that and this text.
 
 {{ site.breakout_end }}
 
@@ -61,8 +61,8 @@ If you or your loved ones have existing medical conditions, now is the time to r
 What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe COVID-19 problems?
 - Conditions that involve lungs / breathing problems (e.g., asthma, COPD, lung cancer).
 - Heart conditions, particularly chronic cardiovascular disease (e.g., hypertension, congestive heart failure, atrial fibrillation).
-- Conditions that involve compromised immune function, or that require taking immunosuppressant medications (e.g., lupus, arthritis, organ transplantation, some forms of cancer).
-- Other chronic hematologic, hepatic, metabolic, neurologic, neuromuscular, renal, or disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, kidney disease). 
+- Conditions that involve compromised immune function and / or require taking immunosuppressant medications (e.g., lupus, arthritis, organ transplantation, some forms of cancer).
+- Other chronic hematologic, hepatic, metabolic, neurologic, neuromuscular, or renal disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, kidney disease). 
 
 ### Preventive Care
 
@@ -78,9 +78,9 @@ During pandemics, it is typical for childhood immunizations, maternal healthcare
 
 ### Death and dying
 
-It may seem strange that we address the dark issue of death right in Level 1, when you and your loved ones are not even infected with the virus. But if at all possible you want to be level-headed and not rushed when you think about these things. 
+It may seem strange that we address the dark issue of death right in Level 1, when you and your loved ones are not even infected with the virus. But, if at all possible, you want to be level-headed and not rushed when you think about these things. 
 
-First of all, remember not to panic. Of all the people who get infected with the virus, many will show no symptoms. The majority of people who do show symptoms will have a mild or moderate version of the disease. The majority of the people who get sick do not need to go to hospital. Even among risk groups such as the elderly and people with preexisting medical problems, most will survive. That all being said: the sad reality is that some patients will develop severe respiratory problems, and some of these will die.
+First, remember not to panic. Of all the people who get infected with the virus, many will show no symptoms. The majority of people who do show symptoms will have a mild or moderate version of the disease. The majority of the people who get sick do not need to go to hospital. Even among risk groups such as the elderly and people with preexisting medical problems, most will survive. That all being said: the sad reality is that some patients will develop severe respiratory problems, and some of these will die.
 
 Many people have previously thought about how they would like to die when the time comes. We know most people (ourselves included) hate to think about death, but here are a few things that may guide your thinking:
 * The COVID-19 crisis is already forcing doctors around the world to make terrible choices to distribute limited resources to the patients with the best prospects for recovery. For patients that are older and/or have existing health problems, the terrible truth is that during the peak in cases in your area, some may simply not qualify for treatment. 
