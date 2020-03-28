@@ -30,25 +30,25 @@ As this point you need up-to-date local information. Your health authorities may
 
 #### Diagnosis
 
-You will want to know whether what you have is just a cold, a flu or actual COVID-19. There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines, and if available consider driving to a drive-through testing center if your area has one and the patient qualifies for testing.
+You will want to know whether what you have is just a cold, a flu or actual COVID-19. There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines. If testing capacity is limited, you may not qualify for testing, even if you have all the symptoms of COVID-19. 
 
-You may find that the official information getting tested doesn't always match the reality on the ground. It may be impossible to get tested, the lines may be way too long or the waiting conditions unsafe. (You don't want to get COVID-19 from trying to find out if you have it.)
+You may find that the official information on getting tested doesn't always match the reality on the ground. It may be impossible to get through, the queues may be way too long or the waiting conditions unsafe. (You don't want to get COVID-19 from trying to find out if you have it.)
 
-In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places there are drive-throughs. There are also Do-It-Yourself test kits where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly give you any general advice other than to inform yourself as soon as you have isolated yourself.
+In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places there are drive-throughs. There are also Do-It-Yourself test kits you can order by mail where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly give you any general advice other than to inform yourself as soon as you have isolated yourself.
 
 {{ site.breakout_end }}
 
 **Under no circumstances should you just show up at a doctor's office or a hospital unannounced if you experience symptoms.**
 
-> Remember: Hospitals are bad places to be until you absolutely have to be there: You and / or the patient run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded.
+> Remember: This is for your own protection as well as that of the other patients. Hospitals are bad places to be until you absolutely have to be there: You run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded, so waiting times may be astronomical.
 
 ### Don't Panic - The Worried Well
 
-For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain on doctors, nurses and available medical resources. We can all help. The "Worried Well" are people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
+For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain on doctors, nurses and available medical resources. We can all help. The "Worried Well" is a medical term for people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
 
 ### Self-quarantine
 
-Until tested and depending on where you are and where you have been, it may be prudent to assume the patient (you? a family member?) has COVID-19. That means self-quarantine at home. No more visitors, a sign on the door, and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. If possible, you will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change, as in some areas the virus will become so common (endemic) that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
+Until tested and depending on where you are and where you have been, simply assume the patient (you? a family member?) has COVID-19. That means self-quarantine at home. No more visitors, a sign on the door, and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. If possible, you will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change, as in some areas the virus will become so common (endemic) that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
 
 ### Garbage
 
@@ -99,6 +99,12 @@ Other simple ways to try to prevent pneumonia and other lung complications from 
 
 ### Feeling better?
 
-Before you break your quarantine, health authorities may want to (re)test you to see you are really not contagious anymore. But maybe the number of cases is already so high that people will have to make their own decisions. Err on the side of safety and try to stay home for a little longer than officially indicated. The [World Health Organization recommendation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is to continue isolation for at least two weeks after symptoms disappear, even if you are no longer feeling sick. 
+{{ site.breakout_begin }}
+
+If your symptoms go away, that doesn't mean you should end your quarantine immediately. You need up-to-date local information again to see whether the authorities want you to register as healed. Depending on availability and local policy, you may need to be tested again. The authorities may provide you with specific advice on what to do next. If so: follow it.
+
+{{ site.breakout_end }}
+
+Absent of up-to-date local instructionsfrom authorities, you should not break your quarantine immediately when you feel better. Try to err on the side of safety and try to stay home for a little longer than officially indicated. The [World Health Organization recommendation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is to continue isolation for at least two weeks after symptoms disappear, even if you are no longer feeling sick. 
 
 If you managed to get tested, yay! You now know that your body (presumably, keep watching the latest science on this) has built immunity. Which means that this thing is over for you, and also that you are a more logical choice to help your family and friends when they get sick. Depending on what state the world is in, you may want to inform your employer and others that might depend on you that you've had it, so they know you're immune.
