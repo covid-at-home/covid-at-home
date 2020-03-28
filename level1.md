@@ -21,7 +21,7 @@ You might feel fine, but the virus can spread before you show symptoms. Some peo
 
 {{ site.breakout_begin }}
 
-Here you will need up-to-date local information. Walks outside may well be illegal where you are, and much of this advice may actually be mandatory. You may be asked or required to do other things, not on this list. Let up-to-date local information guide you where there are conflicts between that and this text.
+Here you will need up-to-date local information. Walks outside may well be illegal where you are (for a time), while much of this advice may actually be mandatory. You may be asked or required to do other things not on this list, like [wearing a mask in public or having your temperature taken before buying groceries](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says). Let up-to-date local information guide you where there are conflicts between that and this text.
 
 {{ site.breakout_end }}
 
