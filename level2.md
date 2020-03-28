@@ -2,18 +2,17 @@
 
 ![](/images/sneezing-emoji.png)
 
-Notice if you suffer from any of the following first symptoms:
+Notice if you suffer from any of the following, most common first symptoms:
 
 * Fever
 * Fatigue
-* Sore throat
 * Dry (unproductive) cough
-* Coughing up slime
-* Joint / muscle pain
 * Shortness of breath
-* Lack of hunger
+* Gastrointestinal symptoms
 
-Initial symptoms may also include headache, chills, dizziness, nasal congestion, abdominal pain, diarrhea, nausea, and vomiting. Later in the infection, symptoms may include loss of smell and taste lasting for several days. 
+Fever seems to be the most common symptom. [Early data](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) reported low incidence of * gastrointestinal symptoms (diarrhea, nausea, vomiting, abdominal pain, loss of appetite). But [later evidence](https://www.gastrojournal.org/article/S0016-5085(20)30282-1/pdf) shows they are common and can even precede respiratory symptoms. Initial symptoms may also include joint / muscle pain, headache, chills, dizziness, nasal congestion, and sore throat. Later in the infection, symptoms may include [loss of smell and taste](npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out) lasting for several days. 
+
+However, common colds, flu, and allergies can also cause many of the same symptoms. There is no way to know for sure whether you have COVID-19 without testing for it. 
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
