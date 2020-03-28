@@ -42,7 +42,7 @@ On top of this, you can do things to stay as healthy as possible:
 
 #### Psychological well-being
 
-This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. If you are having difficulty coping, try thinking, journaling, or talking with a trusted friend about a time you have felt most alive. What has brought you quality of life? How can you build out from those bright spots? Here are some additional [recommendations, hints and tips for psychological well-being in the context of the COVID-19 pandemic](/psychological). 
+This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. Here are some [recommendations, hints and tips for psychological well-being in the context of the COVID-19 pandemic](/psychological). 
 
 
 ### Prepare
