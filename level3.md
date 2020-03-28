@@ -14,7 +14,16 @@ This is when you start telling other people around you that you are really ill a
 * Get fresh air. Ventilate the room as often as possible.
 * Drink more water! (More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever.)
 * Eat something. Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
-* Use those lungs. See the Level 2 advice on breathing deeply in and out, moving your arms above your head to help your chest fully expand, and even exercising your lung capacity if possible by blowing up a balloon every hour. 
+* Use those lungs. See the Level 2 advice on breathing deeply in and out, moving your arms above your head to help your chest fully expand, and even exercising your lung capacity if possible by blowing up a balloon every hour.
+
+{{ site.breakout_begin }}
+
+As you / the patient get sicker, it's time to let the doctor know if you haven't spoken to him/her already earlier. The doctor may have a protocol to assess the patinet over the phone or videochat, there may be additional advice or guidelines given. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general advice given here.
+
+Ask the doctor, if reachable and otherwise try to use realiable local information to see what, if anything, is expected of people with worsening symptoms where you are. The health authorities may have a website, app or other mechanism to register a worsening of symptoms. This could important for keeping an eye on the pandemic, but also to figure out who needs additional care.
+
+{{ site.breakout_end }}
+
 
 At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient is moving to Level 4. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum you're quickly in Level 4.
 
