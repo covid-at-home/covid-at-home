@@ -10,7 +10,7 @@ This is when you start telling other people around you that you are really ill a
 
 ### In any case
 
-* Rest. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed as often as possible and wash the old sheets at 60° Celsius (140° Farenheit) or warmer.
+* Rest. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed when you can, and wash the old sheets at 60° Celsius (140° Farenheit) or warmer.
 * Get fresh air. Ventilate the room as often as possible.
 * Drink more water! (More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever.)
 * Eat something. Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
