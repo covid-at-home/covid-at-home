@@ -42,7 +42,7 @@ On top of this, you can do things to stay as healthy as possible:
 
 #### Psychological well-being
 
-This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. refer to the page with [recommendations, hints and tips for psychological well-being](/psychological).
+This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. Here are some [recommendations, hints and tips for psychological well-being](/psychological).
 
 ### Prepare
 
