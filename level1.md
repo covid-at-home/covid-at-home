@@ -12,7 +12,7 @@ You might feel fine, but the virus can spread before you show symptoms. Some peo
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
 * Work from home when possible.
 * Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
-* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your personal distance from others and move away from anyone who seems to be ill (e.g., is coughing or sneezing). 
+* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your personal distance from others and move away from anyone who seems to be ill (e.g., is coughing or appears feverish). 
 * Instead of taking public transit, walk or bike wherever you can. If you must take public transit, again keep your personal distance from others and move away from anyone who is ill. 
 * Instead of going to restaurants, cook and eat at home. 
 * Instead of having food or groceries delivered or delivering them to another person at home with direct contact, arrange to have them left or to leave them outside the door. 
