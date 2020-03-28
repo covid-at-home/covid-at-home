@@ -4,7 +4,7 @@
 
 You might feel fine, but the virus can spread before you show symptoms. Some people can spread it without ever showing symptoms. Follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
 
-* Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
+* Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance, or bumping elbows or feet.
 * Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
 * Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
 * Change your clothes when you get home as well. 
