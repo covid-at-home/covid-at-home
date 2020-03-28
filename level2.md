@@ -12,15 +12,33 @@ Notice if you suffer from any of the following, most common first symptoms:
 
 Fever seems to be the most common symptom - but is by no means universal. [Early data](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) reported low incidence of gastrointestinal symptoms (diarrhea, nausea, vomiting, abdominal pain, loss of appetite). But [later evidence](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf) shows they are common and can even precede respiratory symptoms. Initial symptoms may also include joint / muscle pain, headache, chills, dizziness, nasal congestion, and sore throat. Later in the infection, symptoms may include [loss of smell and taste](npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out) lasting for several days. 
 
-However, common colds, flu, and allergies can also cause many of the same symptoms. In fact, nasal congestion, itchy eyes, and sneezing most likely indicate a condition other than COVID-19, such as allergies. There is no single unique COVID-19 sign or symptom. There is no way to know for sure whether you have COVID-19 without testing for it. 
+However, common colds, flu, and allergies can also cause many of the same symptoms. In fact, nasal congestion, itchy eyes, and sneezing most likely indicate a condition other than COVID-19, such as allergies. There is no single unique COVID-19 sign or symptom. There is no way to know for sure whether you have COVID-19 without testing for it.
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
-> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature internally (i.e., in the bottom / rectum), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7° Celsius or 1° Farenheit is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
+> Note: Fever is not subjective. You will need a thermometer (or two, in case one breaks), and to keep track in a log of at least daily temperature. If you choose to take temperature internally (i.e., in the bottom / rectum), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7° Celsius or 1° Farenheit is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
 
-### Diagnosis
+### If you have symptoms
 
-There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. **You should not just show up at a doctor's office or a hospital unannounced if you just experience the first symptoms.**
+The single most important thing once you have symtoms that might be COVID-19 is to stay at home, or to go home if you discover them while not at home. Call in sick. Stay away from people as much as possible and go to a separate room if you live with others.
+
+{{ site.breakout_begin }}
+
+#### Symptoms? Maybe you need to register...
+
+As this point you need up-to-date local information. Your health authorities may want to know if you have symptoms. Reasons for this may include population monitoring to see where the virus is, planning the government's response as well as opening a channel to follow up with your personally. There may be a phone number to call if you have symptoms, or a website to visit, or an app to download. Just figure out what the authorities in your area want you to do as soon as you have isolated yourself from others.
+
+#### Diagnosis
+
+You will want to know whether what you have is just a cold, a flu or actual COVID-19. There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines, and if available consider driving to a drive-through testing center if your area has one and the patient qualifies for testing.
+
+You may find that the official information getting tested doesn't always match the reality on the ground. It may be impossible to get tested, the lines may be way too long or the waiting conditions unsafe. (You don't want to get COVID-19 from trying to find out if you have it.)
+
+In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places there are drive-throughs. There are also Do-It-Yourself test kits where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly give you any general advice other than to inform yourself as soon as you have isolated yourself.
+
+{{ site.breakout_end }}
+
+**Under no circumstances should you just show up at a doctor's office or a hospital unannounced if you experience symptoms.**
 
 > Remember: Hospitals are bad places to be until you absolutely have to be there: You and / or the patient run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded.
 
