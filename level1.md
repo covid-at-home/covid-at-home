@@ -1,22 +1,22 @@
 ## Level 1 -- Healthy
 
-### Don't Get Infected - don't infect others
+### Don't Get Infected - And Don't Infect Others
 
-You might feel fine, but the virus can spread before you show symptoms. Some people can spread it without ever showing symptoms. Follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
+You might feel fine. But the virus can spread before you show symptoms. Some people can spread it without ever showing symptoms. Follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
 
 * Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance, or bumping elbows or feet.
-* Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
+* Your eyes, nose, and mouth are possible places for the virus to enter your body. So wash your hands before touching your face. Don't touch your face while outside.
 * Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
 * Change your clothes when you get home as well. 
 * Regularly sterilize doorknobs, table surfaces, keyboards, and other places people frequently touch.
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
 * Work from home when possible.
 * Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
-* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your personal distance from others and move away from anyone who seems to be ill (e.g., is coughing or appears feverish). 
-* Instead of taking public transit, walk or bike wherever you can. If you must take public transit, again keep your personal distance from others and move away from anyone who is ill. 
+* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your [safe distance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) of at least 1.5 meters (or around five feet) from others. Move away from anyone who seems to be ill (e.g., is coughing or appears feverish). 
+* Instead of taking public transit, walk or bike wherever you can. If you must take public transit, again, keep your safe distance from others and move away from anyone who is ill. 
 * Instead of going to restaurants, cook and eat at home. 
 * Instead of having food or groceries delivered or delivering them to another person at home with direct contact, arrange to have them left or to leave them outside the door. 
-* Instead of meeting friends for a coffee or a drink, have a video-chat or coordinate a walk to the grocery store while keeping your [safe distance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) of at least 1.5 meters, or around five feet apart. 
+* Instead of meeting friends for a coffee or a drink, have a video-chat or coordinate a walk to the grocery store while keeping your safe distance. 
 * Instead of exercising inside, go outside for a walk or run if weather permits, while keeping your distance from other people. 
 
 {{ site.breakout_begin }}
