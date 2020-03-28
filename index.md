@@ -2,7 +2,7 @@ This website started as a way to share our early research regarding the COVID-19
 
 To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
 
-As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. Whether the virus has caused total crisis where you are or not: it is time to think and prepare.
+As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. Whether the virus has caused total crisis where you are or not: It is time to think and prepare.
 
 ![](/images/virus.png)
 
