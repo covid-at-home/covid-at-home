@@ -4,7 +4,7 @@
 
 You might feel fine, but the virus can spread before you show symptoms. Some people can spread it without ever showing symptoms. Follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
 
-* Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
+* Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance, or bumping elbows or feet.
 * Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
 * Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
 * Change your clothes when you get home as well. 
@@ -12,7 +12,7 @@ You might feel fine, but the virus can spread before you show symptoms. Some peo
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
 * Work from home when possible.
 * Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
-* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your personal distance from others and move away from anyone who seems to be ill (e.g., is coughing or sneezing). 
+* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your personal distance from others and move away from anyone who seems to be ill (e.g., is coughing or appears feverish). 
 * Instead of taking public transit, walk or bike wherever you can. If you must take public transit, again keep your personal distance from others and move away from anyone who is ill. 
 * Instead of going to restaurants, cook and eat at home. 
 * Instead of having food or groceries delivered or delivering them to another person at home with direct contact, arrange to have them left or to leave them outside the door. 
@@ -21,7 +21,7 @@ You might feel fine, but the virus can spread before you show symptoms. Some peo
 
 {{ site.breakout_begin }}
 
-Here you will need up-to-date local information. Walks outside may well be illegal where you are, and much of this advice may actually be mandatory. You may be asked or required to do other things, not on this list. Let up-to-date local information guide you where there are conflicts between that and this text.
+Here you will need up-to-date local information. Walks outside may well be illegal where you are (for a time), while much of this advice may actually be mandatory. You may be asked or required to do other things not on this list, like [wearing a mask in public or having your temperature taken before buying groceries](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says). Let up-to-date local information guide you where there are conflicts between that and this text.
 
 {{ site.breakout_end }}
 
@@ -42,7 +42,7 @@ On top of this, you can do things to stay as healthy as possible:
 
 #### Psychological well-being
 
-This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. refer to the page with [recommendations, hints and tips for psychological well-being](/psychological).
+This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. Here are some [recommendations, hints and tips for psychological well-being](/psychological).
 
 ### Prepare
 
