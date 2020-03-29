@@ -1,6 +1,6 @@
 ## Level 4 -- Professionals Take Over
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should increase. At this point, your log should contain temperature, respiration, and heart rate every few hours.
+As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should increase. At this point, your log should contain temperature, respiration, and heart rate every few hours. Be especially alert for rapidly worsening shortness of breath, rapid breathing, and low blood oxygen level, as these can be signs of acute respiratory distress which requires immediately medical attention. 
 
 You should interpret any of the following as a medical emergency:
 
@@ -51,6 +51,10 @@ Heart rate is easier to measure than blood pressure, and usually high heart rate
 ### Very high fever that comes (back) suddenly
 
 If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (39.4° Celsius or around 103° Farenheit, or higher) is a cue to seek medical advice. So is a fever that goes away and then comes back suddenly. 
+
+### Coughing up blood
+
+This one is self-explanatory. If you notice the patient coughing up blood, seek medical advice.
 
 ### Call for help
 
