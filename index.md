@@ -20,9 +20,9 @@ We try to provide a large amount of *general* helpful tips for dealing with COVI
 
 Note that any advice from official sources you may find could be outdated as soon as a few days after it is issued, so always try to find the latest guidance and advice you can. Refer to local broadcast media and **trusted** information on the internet. Your local health authorities know the situation on the ground where you are, and should be talking to the public through the media.
 
-That said, we are seeing various levels of quality in official response. Often, the means for getting individual local help and advice (such as hotlines and testing centers) is shown to have insufficient capacity, so help will probably be unavailable at times. So in this text we will just keep going, giving you the best advice we found in our research. This doesn't mean we think such general advice as is on this site could be better than local help from actual trained professionals. Treat the advanced chapters of this website as a last resort: much better than nothing, but by all means get local help from actual professionals if you can.
+That said, we are seeing various levels of quality in official response. Often, the means for getting individual local help and advice (such as hotlines and testing centers) is shown to have insufficient capacity, so **help may well be unavailable at some times**. So in this text we will just keep going, giving you the best advice we found in our research. This doesn't mean we think such general advice as is on this site could be better than local help from trained professionals. Treat the advanced chapters of this website as a last resort: much better than nothing, but by all means get local help from actual professionals if you can.
 
-Also note that we do not sugarcoat. There is no reason to panic, but the situation is serious enough that we feel everyone should have access to the best information we could find. 
+Also note that **we do not sugar-coat**. This site is written by and for adults who can handle thinking through the consequences of our current predicament. There is no reason to panic, but the situation is serious enough that we feel everyone should have access to the best information we could find. 
 
 {{ site.breakout_end }}
 
