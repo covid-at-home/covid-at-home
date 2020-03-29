@@ -18,9 +18,11 @@ This is when you start telling other people around you that you are really ill a
 
 {{ site.breakout_begin }}
 
-As you / the patient get sicker, it's time to let the doctor know if you haven't spoken to him / her already earlier. The doctor may have a protocol to assess the patient over the phone or videochat; there may be additional advice or guidelines given. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general advice given here.
+Now that you / the patient is really ill, it's time to let your regular General Practitioner / doctor / primary care physician know if you haven't spoken to him/her already earlier. The doctor may have a protocol to assess you / the patient over the phone or videochat, there may be additional advice or guidelines given. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general advice given here.
 
-Ask the doctor, if reachable and otherwise try to use reliable local information to see what, if anything, is expected of people with worsening symptoms where you are. The health authorities may have a website, app, or other mechanism for you to tell them if symptoms worsen. This could be important for keeping an eye on the pandemic, but also to figure out who needs additional care.
+Ask the doctor, if reachable and otherwise try to use realiable local information to see what, if anything, is expected of people with worsening symptoms where you are. The health authorities may have a website, app or other mechanism to register a worsening of symptoms. This could important for keeping an eye on the pandemic, but also to figure out who needs additional care.
+
+If you / the patient has no primary care doctor, you will need to seek up-to-date local information on what remote help is avaliable to you. If all lines everywhere are busy - which is certainly a possibility during the peaks of this crisis - do not panic and just keep watching the patient.
 
 {{ site.breakout_end }}
 
@@ -81,7 +83,7 @@ Finally, you want to be alert to signs that your condition may be worsening and 
 
 ### Go bag
 
-If the condition deteriorates to the point that you / the patient need to go to hospital, **you will not have time or be in the mood to think about what to pack**. So prepare beforehand a small bag with a zipper that contains:
+If the condition deteriorates to the point that you / the patient needs to go to hospital, **you will not have time or be in the mood to think about what to pack**. So prepare beforehand a small bag with a zipper that contains:
 * A piece of paper with, in clearly readable print:
   * Identifying information: Name, date of birth, address
   * Names, addresses, and telephone numbers of loved ones and next of kin
