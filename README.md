@@ -1,6 +1,6 @@
 ### The website that this github repository is the editing back-end to is live at
 
-# [cah-new.github.io](https://cah-new.github.io)
+# [covid-at-home.info](https://www.covid-at-home.info)
 
 
 ### Team meeting
