@@ -4,13 +4,13 @@ All the good care in Level 2 has not worked and things are getting worse. Doesn'
 
 ### If the patient is you
 
-This is when you start telling other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath which inevitably will also affect your ability to talk and to think clearly.
+This is when you start telling other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath which inevitably will also affect your ability to talk and think clearly.
 
 ![](/images/sick-in-bed.png)
 
 ### In any case
 
-* Rest. At this point rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed when you can, and wash the old sheets at 60° Celsius (140° Farenheit) or warmer.
+* Rest. At this point, rest is very important. The patient should sleep as much as possible. At least in the beginning, patients will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed when you can, and wash the old sheets at 60° Celsius (140° Farenheit) or warmer.
 * Get fresh air. Ventilate the room as often as possible. 
 * Drink more water! More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever.
 * Eat something. Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
@@ -20,9 +20,9 @@ This is when you start telling other people around you that you are really ill a
 
 Now that you / the patient is really ill, it's time to let your regular General Practitioner / doctor / primary care physician know if you haven't spoken to him/her already earlier. The doctor may have a protocol to assess you / the patient over the phone or videochat, there may be additional advice or guidelines given. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general advice given here.
 
-Ask the doctor, if reachable and otherwise try to use realiable local information to see what, if anything, is expected of people with worsening symptoms where you are. The health authorities may have a website, app or other mechanism to register a worsening of symptoms. This could important for keeping an eye on the pandemic, but also to figure out who needs additional care.
+Ask the doctor if reachable and otherwise try to use reliable local information to see what, if anything, is expected of people with worsening symptoms where you are. The health authorities may have a website, app, or other mechanism to register a worsening of symptoms. This could be important for keeping an eye on the pandemic, but also to figure out who needs additional care.
 
-If you / the patient has no primary care doctor, you will need to seek up-to-date local information on what remote help is avaliable to you. If all lines everywhere are busy - which is certainly a possibility during the peaks of this crisis - do not panic and just keep watching the patient.
+If you / the patient has no primary care doctor, you will need to seek up-to-date local information on what remote help is available to you. If all lines everywhere are busy -- which is certainly a possibility during the peaks of this crisis -- do not panic and just keep watching the patient.
 
 {{ site.breakout_end }}
 
