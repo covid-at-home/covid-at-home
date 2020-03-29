@@ -27,7 +27,7 @@ If you / the patient has no primary care doctor, you will need to seek up-to-dat
 {{ site.breakout_end }}
 
 
-At this point, read ahead for all the signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient needs expert medical care. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum, you're quickly in Level 4.
+At this point, read ahead for signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient needs expert medical care. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without this daily bare minimum, you're quickly in Level 4.
 
 In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Make sure the illness diary is kept until all symptoms are gone, and quarantine is kept up until the patient has been symptom-free for 14 days. If you have been caring for the patient, self-isolate again. Your own two-week self-quarantine period now begins.
 
@@ -68,7 +68,7 @@ Then, start drinking fluids. Not too much caffeine or sugar. As much water and h
 
 Air out your home as much as possible, perhaps while the water for your morning tea or coffee is boiling.  If you have the energy (and enough sheets), consider changing your bed linens if they got sweaty / otherwise soiled. Next, have a quick shower if you're able. Staying clean can help you feel better mentally and emotionally, as well as physically. 
 
-Eat a small, nutritious meal (piece of fresh fruit? handful of salted nuts?) -- something that sounds good to you. This is also a good time to take paracetamol (also known as acetaminophen) for fever / pain if you need it, and note the dose and time in your illness diary. 
+Eat a small, nutritious meal (piece of fresh fruit? handful of salted nuts?) -- something that sounds good to you. This is also a good time to take paracetamol (also known as acetaminophen) for fever / pain if you really need it, and note the dose and time in your illness diary.
 
 If that was already enough exertion, take a rest. Nap whenever you can -- sleep is crucial for healing. If you're not sleepy but need to rest, then try to rest sitting up to give your lungs a better chance to drain. If you're still upright, now is a good time to steam to help your sinuses / airways open and mucus to drain. 
 
@@ -83,7 +83,7 @@ Finally, you want to be alert to signs that your condition may be worsening and 
 
 ### Go bag
 
-If the condition deteriorates to the point that you / the patient needs to go to hospital, **you will not have time or be in the mood to think about what to pack**. So prepare beforehand a small bag with a zipper that contains:
+If your condition deteriorates to the point that you / the patient needs to go to hospital, **you will not have time or be in the mood to think about what to pack**. So prepare beforehand a small bag with a zipper / firm closure that contains:
 * A piece of paper with, in clearly readable print:
   * Identifying information: Name, date of birth, address
   * Names, addresses, and telephone numbers of loved ones and next of kin
@@ -101,4 +101,4 @@ If the condition deteriorates to the point that you / the patient needs to go to
 
 (It would be ideal to have the patient name and date of birth readable on the outside of the bag as well.)
 
-When it is time to go, remember to put glasses, phone, charger, and today's page of the illness diary in the bag before you go. Remember that there will likely be no visits allowed in hospitals during peak pandemic phases, and COVID-19 patients may be in far-away makeshift hospitals.
+When it is time to go, remember to put glasses, phone, charger, and today's page of the illness diary in the bag before you go. Remember that there will likely be no visits allowed in hospitals during peak pandemic phases, and COVID-19 patients (and others) may be in far-away makeshift hospitals.
