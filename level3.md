@@ -38,7 +38,7 @@ A large part of the work you are doing at this stage is care work, which may ove
 Some possibly useful behaviors include:
 * Getting at eye level and at a distance that is large enough for comfort but small enough that they do not have to strain speaking loudly to talk to you. 
 * Simple encouragement to drink and eat. E.g., "Drink, honey." 
-* If the patient is not drinking or eating adequately, offer alternatives. E.g., if solid food is unappealing, what about soup, bouillon, or electrolyte solution? If hot drinks are unappealing, what about something cold, or vice-versa? 
+* If the patient is not drinking or eating adequately, offer alternatives. E.g., if solid food is unappealing, what about soup, bouillon, or electrolyte solution? If hot drinks are unappealing, what about something cold, or vice-versa? If the patient can't feed himself / herself, could you spoon-feed him / her? 
 * Checking that the patient is warm enough in the extremities (e.g., cold feet?) and at night. 
 * Reassure the patient that it is very likely that he or she will make a full recovery. 
 * If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes (e.g., leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two). 
