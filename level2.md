@@ -82,7 +82,7 @@ We made a **[printable illness diary](/diary)** that you can use to write down a
 
 ### Contact lenses
 
-A small point: even when you are not that ill yet, it is much better to use glasses if you have them, and stop putting in contact lenses in the morning. You do not want to touch your eyes more than you have to because they may get infected, and if and when you do get more ill, you do not want to forget that you have them in.
+Even when you are not that ill yet, it is much better to use glasses if you have them, and stop routinely putting in contact lenses in the morning. You do not want to touch your eyes more than you have to because they may get [infected](https://icrcat.com/en/coronavirus-and-conjunctivitis/), and if and when you do get more ill, you do not want to risk forgetting that you have them in.
 
 ### Get healthy again
 
