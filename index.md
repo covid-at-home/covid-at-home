@@ -20,7 +20,9 @@ We try to provide a large amount of *general* helpful tips for dealing with COVI
 
 Note that any advice from official sources you may find could be outdated as soon as a few days after it is issued, so always try to find the latest guidance and advice you can. Refer to local broadcast media and **trusted** information on the internet. Your local health authorities know the situation on the ground where you are, and should be talking to the public through the media.
 
-That said, we are seeing various levels of quality in official response. Often, the means for getting individual local help and advice (such as hotlines and testing centers) is shown to have insufficient capacity, so help will probably be unavailable at times. So in this text we will just keep going, giving you the best advice we found in our research.
+That said, we are seeing various levels of quality in official response. Often, the means for getting individual local help and advice (such as hotlines and testing centers) is shown to have insufficient capacity, so help will probably be unavailable at times. So in this text we will just keep going, giving you the best advice we found in our research. This doesn't mean we think such general advice as is on this site could be better than local help from actual trained professionals. Treat the advanced chapters of this website as a last resort: much better than nothing, but by all means get local help from actual professionals if you can.
+
+Also note that we do not sugarcoat. There is no reason to panic, but the situation is serious enough that we feel everyone should have access to the best information we could find. 
 
 {{ site.breakout_end }}
 
@@ -42,7 +44,15 @@ For the more research-minded, we compiled a list of [additional resources here](
 
 Remember that there is no difference in potential infectiousness between friends and strangers. There is no race, ethnic group, or nationality that is innately more likely to get or transmit the virus than another. Try to help others when you can without being in physical contact with other people unnecessarily: A lot will depend on whether the social fabric of our society holds. Slowing the spread of an infectious disease is rarely absolute. But taken over society as a whole, our efforts still work when everyone does what they can, within their limits. 
 
-> **YOU CAN HELP MAKE THIS SITE BETTER.** *If you see something that could be better, please [click here](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. As you can see there the backend of this website is on Github, so if you know that environment you can probably think of other ways to help. To be successful, this will need to be an expanding, collaborative effort.*
+{{ site.breakout_begin }}
+
+### You can help make this site better
+
+If you see something that could be better, please [**click here**](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. We promise to do our best to respond quickly. *(As you can see there the backend of this website is on Github, so if you know that environment you can also send pull-requests or think of other ways to help.)*
+
+To be successful, this will need to be an expanding, collaborative effort.
+
+{{ site.breakout_end }}
 
 &nbsp; 
 
