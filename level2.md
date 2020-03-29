@@ -80,6 +80,10 @@ Paracetamol (also known as acetaminophen) is a good choice for fever and pain su
 
 We made a **[printable illness diary](/diary)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. Please check out the form and our webpage about it via the link above.
 
+### Contact lenses
+
+A small point: even when you are not that ill yet, it is much better to use glasses if you have them, and stop putting in contact lenses in the morning. You do not want to touch your eyes more than you have to because they may get infected, and if and when you do get more ill, you do not want to forget that you have them in.
+
 ### Get healthy again
 
 Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol (also known as acetaminophen) if you can. Research suggests [medicating fever less](https://www.ncbi.nlm.nih.gov/pubmed/16433601) rather than more aggressively is safer. This means medicating a temperature of over 40 degrees C -- and not medicating a lower fever. Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature - and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating like sweat from your skin can help lower your temperature. 
