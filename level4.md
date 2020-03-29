@@ -1,6 +1,6 @@
 ## Level 4 -- Professionals Take Over
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours.
+As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should increase. At this point, your log should contain temperature, respiration, and heart rate every few hours.
 
 You should interpret any of the following as a medical emergency:
 
@@ -8,7 +8,7 @@ You should interpret any of the following as a medical emergency:
 
 There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
 
-If loss of consciousness is brief, you might (if patient quickly recovers and is fully awake again!) encourage the patient to eat and drink a bit, and freshly ventilating the room. But loss of consciousness is serious, get help.
+If loss of consciousness is brief, you might (if patient quickly recovers and is fully awake again!) encourage the patient to eat and drink a bit, and freshly ventilate the room. But loss of consciousness is serious; get help.
 
 ### Cognitive problems / confusion
 
@@ -26,11 +26,11 @@ If you or the patient are experiencing shortness of breath / labored breathing, 
 
 ### Low oxygen saturation
 
-If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95% may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue; called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
 
 ![](/images/cyanosis.png)
 
-(Also call a doctor if the fingers, toes or lips turn less blue than this...)
+(Also call a doctor if the fingers, toes, or lips turn less blue than this...)
 
 If the patient's skin gets a lacy purple overlay (also called livedo reticularis) like below (and that's not normal for the patient), that is also a reason to call for help.
 
@@ -40,9 +40,9 @@ If the patient's skin gets a lacy purple overlay (also called livedo reticularis
 
 Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](/images/covid-diary.pdf).
 
-If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
+If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. 
 
-Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow - if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal - again, get help.
+Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow -- if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal -- again, get help.
 
 ### Too high or too low heart rate
 
@@ -50,8 +50,8 @@ Heart rate is easier to measure than blood pressure, and usually high heart rate
 
 ### Very high fever that comes (back) suddenly
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius or around 102.2° Farenheit) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
+If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (39.4° Celsius or around 103° Farenheit, or higher) is a cue to seek medical advice. So is a fever that goes away and then comes back suddenly. 
 
 ### Call for help
 
-When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people, and doctors that you are not merely panicking for no reason and will likely help get the patient the care he or she needs sooner.
+When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, paramedics / emergency medical technicians, and doctors that you are not merely panicking for no reason, and will likely help get the patient the care he or she needs sooner.
