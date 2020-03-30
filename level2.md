@@ -20,7 +20,7 @@ Is COVID-19 spread in the community where you live? Or have you been to an affec
 
 ### If you have symptoms
 
-The single most important thing once you have symtoms that might be COVID-19 is to stay at home, or to go home if you discover them while not at home. Call in sick. Stay away from people as much as possible and go to a separate room if you live with others.
+The single most important thing once you have symtoms that might be COVID-19 is to stay at home, or to go home if you discover them while not at home. Call in sick. Stay away from people as much as possible and go to a separate room if you live with others. If you live alone, let someone (friend, family) know that you are ill and will keep letting them know how you're doing. 
 
 {{ site.breakout_begin }}
 
