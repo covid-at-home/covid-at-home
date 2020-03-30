@@ -54,7 +54,7 @@ If you check temperatures regularly, you will want to be aware that the trend ca
 
 ### Coughing up blood
 
-This one is self-explanatory. If you notice the patient coughing up blood, seek medical advice.
+This one is self-explanatory. If you notice the patient coughing up blood or blood-stained mucus, seek medical advice.
 
 ### Call for help
 
