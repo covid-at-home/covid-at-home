@@ -18,6 +18,7 @@ You might feel fine. But the virus can spread before you show symptoms. Some peo
 * Instead of having food or groceries delivered or delivering them to another person at home with direct contact, arrange to have them left or to leave them outside the door. 
 * Instead of meeting friends for a coffee or a drink, have a video-chat or coordinate a walk to the grocery store while keeping your safe distance. 
 * Instead of exercising inside, go outside for a walk or run if weather permits, while keeping your distance from other people. 
+* [Wear a mask](https://www.youtube.com/watch?time_continue=209&v=HhNo_IOPOtU&feature=emb_logo) when you go outside. 
 
 {{ site.breakout_begin }}
 
