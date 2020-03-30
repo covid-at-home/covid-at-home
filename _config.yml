@@ -5,5 +5,17 @@ url: https://covid-at-home.info
 slug: covid-at-home
 goatcounter: covid_at_home
 
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
 breakout_begin: <div class="breakout" markdown="1">
 breakout_end: </div>
