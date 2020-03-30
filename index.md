@@ -32,7 +32,7 @@ Some of the authors of this website are not known as great fans of government an
 * [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
 * [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
 
-For the more research-minded, we compiled a list of [additional resources here](https://covid-at-home.info/resources). 
+For the more research-minded, we compiled a list of [additional resources](https://covid-at-home.info/resources). 
 
 ### Know the Facts: 
 
