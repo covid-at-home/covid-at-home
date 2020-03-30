@@ -20,7 +20,7 @@ If we included examples (generally on the German version of Amazon), this is not
    
 * **Cleaning supplies**
 
-   > Disposable paper towels and spray glass cleaner or really any other type of cleaner that cuts oil (dish soapy water, shower cleaner, diluted bleach) should kill the virus by dissolving its lipid (fat) membrane and thus rendering it inactive, while containing the contaminated cleaning materials safely inside your garbage bag.
+   > Disposable paper towels and spray glass cleaner or really any other type of cleaner that cuts oil (dish soapy water, shower cleaner, diluted bleach) should kill the virus by dissolving its lipid (fat) membrane and thus rendering it inactive, while containing the contaminated cleaning materials safely inside your garbage bag. Here's a fuller [list](https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/). 
 
 * **Paracetamol (also known as acetaminophen, Tylenol or Panadol)**
 
