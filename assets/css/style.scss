@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
+p {
+    font-size: 18px;
+}
+
 header.inner {
-	margin-top: 10px;
+    margin-top: 10px;
 }
 
 div.menu {
@@ -15,7 +19,7 @@ div.menu {
 }
 
 div.languages {
-	margin-bottom: 10px;
+    margin-bottom: 10px;
     display: table;
     width: 100%;
     table-layout: fixed;
@@ -42,9 +46,9 @@ div.item > a:active {
 }
 
 div.breakout {
-	border: 3px dashed;
-	padding: 0px 10px;
-	background-color: white;
-	margin-top: 10px;
-	margin-bottom: 25px;
+    border: 3px dashed;
+    padding: 0px 10px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 25px;
 }
