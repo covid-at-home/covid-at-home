@@ -55,6 +55,10 @@ Remember, at the same time, that there is no reason to panic. Take a deep breath
 
 We made a [shopping page](/shopping) that lists handy things that may help you care for yourself and others.
 
+#### Reach out
+
+If you live alone, now is a good time to think who you can ask to check on you regularly if you become ill. If someone you know and love lives alone, now is a good time to be in touch to see how they are doing. 
+
 ### Existing Medical Conditions
 
 If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by COVID-19 / pneumonia. You / they should make extra sure they have plenty of all of your / their necessary medications. Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
