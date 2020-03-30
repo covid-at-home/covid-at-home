@@ -7,7 +7,7 @@
 Language |  |  |  
 --- | --- | --- | --- | --- | ---
 {% for language in site.data.languages.languages %}{{ language.title }} *({{ language.english }})* | [site]({{ language.url }}) | [GitHub]({{ language.github }}) | [stats]({{ language.stats }})
-{% endfor %}**blog** | [site](https://blog.covid-at-home.info) | [GitHub](https://github.com/covid-at-home/blog/tree/master/_posts) | [stats](http:/stats.blog.covid-at-home.info)
+{% endfor %}**blog** | [site](https://blog.covid-at-home.info) | [GitHub](https://github.com/covid-at-home/blog/tree/master/_posts) | [stats](https://blog-covid-at-home.goatcounter.com/)
 
 ### Meeting
 
