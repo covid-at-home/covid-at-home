@@ -1,6 +1,12 @@
 This website started as a way to share our early research regarding the COVID-19 pandemic. We were trying to write down for ourselves and our friends what to do when so many people were going to get sick. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of illness in one place. We consulted with nurses and doctors, but this site was created by the non-medically trained, trying to puzzle together what makes sense in our new normal. 
 
-To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
+{{ site.disclaimer_begin }}
+
+### IMPORTANT: YOU MUST READ THIS
+
+To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet. Information on this website is provided for informational purposes only and is not meant to be a substitute for advice provided by a doctor or qualified healthcare professional. Patients should not use the information provided here for diagnosing a health condition, problem or disease. Patients should always consult with a doctor or other healthcare professional for medical advice or information about diagnosis and treatment. IN EMERGENCIES, DIAL YOUR LOCAL EMERGENCY TELEPHONE NUMBER.
+
+{{ site.disclaimer_end }}
 
 As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. Whether the virus has caused total crisis where you are or not: It is time to think and prepare.
 
