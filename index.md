@@ -32,7 +32,6 @@ Note that any advice from official sources you may find could be outdated as soo
 
 That said, we are seeing various levels of quality in official response. Sometimes there will insufficient capacity to supply everyone with individual help and advice, for example because hotlines and testing centers are overloaded. **Help may well be unavailable at some times**. In this text we will just keep going, giving you the best advice we found in our research. This doesn't mean we think such general advice as is on this site could be better than local help from trained professionals. Treat the advanced chapters of this website as a last resort: much better than nothing, but by all means get local help from actual professionals if you can.
 
-Also note that **we do not sugar-coat**. This site is written by and for adults who can handle thinking through the consequences of our current predicament. There is no reason to panic, but the situation is serious enough that we feel everyone should have access to the best information we could find. 
 Also note that **we do not sugar-coat**. This site is written by and for adults who can handle thinking through the consequences of our current global predicament. There is no reason to panic, but the situation is serious enough that we feel everyone should have access to the best information we could find. 
 
 {{ site.breakout_end }}
