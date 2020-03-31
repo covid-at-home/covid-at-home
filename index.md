@@ -39,8 +39,10 @@ Also note that **we do not sugar-coat**. This site is written by and for adults 
 Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is vital. Where there are discrepancies, trust reputable sources such as:
 * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
 * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
+* [National Health Service] (https://www.nhs.uk/conditions/coronavirus-covid-19/) (UK) 
 * [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
 * [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
+* And the local, regional, or national public health authorities where you are.
 
 For the more research-minded, we compiled a list of [additional resources](https://covid-at-home.info/resources). 
 
