@@ -89,13 +89,13 @@ span.footnote span {
 	margin-left: 0px;
 	margin-right: 18px;
 	padding:14px 20px;
-	border-radius:4px; box-shadow: 5px 5px 8px #CCC;
+	border-radius: 8px;
 	border:1px solid #DCA;
 	background-color: #FEF6BB;
-	-webkit-transition: all 2s ease 2s;
-	-moz-transition: all 2s ease 2s;
-	-o-transition: all 2s ease 2s;
-	transition: all 2s ease 2s;
+	-webkit-transition: all 1s ease 2s;
+	-moz-transition: all 1s ease 2s;
+	-o-transition: all 1s ease 2s;
+	transition: all 1s ease 2s;
 }
 
 span.footnote:hover span {
