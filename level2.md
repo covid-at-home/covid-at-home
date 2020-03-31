@@ -2,11 +2,11 @@
 
 ![](/images/sneezing-emoji.png)
 
-Notice if you suffer from any of the following, most common first symptoms:
+Notice if you suffer from any of the following, most common first COVID-19 symptoms:
 
 * Fever
 * Fatigue
-* Dry (unproductive) cough
+* Dry (unproductive) cough that is new and persistent
 * Shortness of breath
 * Gastrointestinal symptoms
 
@@ -17,6 +17,10 @@ However, common colds, flu, and allergies can also cause many of the same sympto
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
 > Note: Fever is not subjective. You will need a thermometer (or two, in case one breaks), and to keep track in a log of at least daily temperature. If you choose to take temperature internally (i.e., in the bottom / rectum), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7° Celsius or 1° Farenheit is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
+
+### If you don't have symptoms
+
+Some people may be exposed to, carry, and infect others with the virus -- without ever showing symptoms themselves. These people are asymptomatic carriers. Unless widespread testing is available where you are (which is currently a small minority of places), it may not be possible to determine if you are one of them. This is one of the reasons why everyone should currently be following the advice of public health authorities that generally includes social distancing measures covered in Level 1. 
 
 ### If you have symptoms
 
