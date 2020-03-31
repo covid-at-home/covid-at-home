@@ -22,5 +22,5 @@ breakout_end: </div>
 disclaimer_begin: <div class="disclaimer" markdown="1">
 disclaimer_end: </div>
 footnote:
-    start: <span class="footnote" markdown="1">note<span markdown="1">
+    start: <span class="footnote" markdown="1">&nbsp;&nbsp;<span markdown="1">
     end: </span></span>
