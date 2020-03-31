@@ -26,7 +26,7 @@ The single most important thing once you have symtoms that might be COVID-19 is 
 
 #### Symptoms? Maybe you need to register...
 
-As this point you need up-to-date local information. Your health authorities may want to know if you have symptoms. Reasons for this may include population monitoring to see where the virus is, planning the government's response as well as opening a channel to follow up with your personally. There may be a phone number to call if you have symptoms, or a website to visit, or an app to download. Just figure out what the authorities in your area want you to do as soon as you have isolated yourself from others.
+As this point you need up-to-date local information. Your health authorities may want to know if you have symptoms. Reasons for this may include population monitoring to see where the virus is, planning the government's response as well as opening a channel to follow up with you personally. There may be a phone number to call if you have symptoms, or a website to visit, or an app to download. Just figure out what the authorities in your area want you to do as soon as you have isolated yourself from others.
 
 #### Diagnosis
 
