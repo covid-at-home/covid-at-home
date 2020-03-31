@@ -54,7 +54,7 @@ div.breakout {
 }
 
 div.disclaimer {
-    border: 3px dashed;
+    border: 5px black;
     padding: 0px 10px;
     background-color: red;
     color: white;
@@ -62,3 +62,6 @@ div.disclaimer {
     margin-bottom: 25px;
 }
 
+div.disclaimer > h3 {
+	color: white;
+}

@@ -2,9 +2,13 @@ This website started as a way to share our early research regarding the COVID-19
 
 {{ site.disclaimer_begin }}
 
-### IMPORTANT: YOU MUST READ THIS
+## PLEASE READ THIS
 
-To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet. Information on this website is provided for informational purposes only and is not meant to be a substitute for advice provided by a doctor or qualified healthcare professional. Patients should not use the information provided here for diagnosing a health condition, problem or disease. Patients should always consult with a doctor or other healthcare professional for medical advice or information about diagnosis and treatment. IN EMERGENCIES, DIAL YOUR LOCAL EMERGENCY TELEPHONE NUMBER.
+To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
+
+Information on this website is provided for informational purposes only and is not meant to be a substitute for advice provided by a doctor or qualified healthcare professional. Patients should not use the information provided here for diagnosing a health condition, problem or disease. Patients should always consult with a doctor or other healthcare professional for medical advice or information about diagnosis and treatment.
+
+**IN EMERGENCIES, DIAL YOUR LOCAL EMERGENCY TELEPHONE NUMBER.**
 
 {{ site.disclaimer_end }}
 
