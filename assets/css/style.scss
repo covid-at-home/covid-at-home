@@ -68,7 +68,7 @@ div.disclaimer > h2 {
 	background: none;
 }
 
-div.footnote {
+span.footnote {
     vertical-align: super;
     font-size: smaller;
     color: red;    
@@ -78,7 +78,7 @@ div.footnote {
 	margin-right: 2px;
 } 
 
-div.footnote span {
+span.footnote span {
     color: black;
 	z-index: -1;
 	opacity: 0;
@@ -97,7 +97,7 @@ div.footnote span {
 	transition: all 2s ease;
 }
 
-div.footnote:hover span {
+span.footnote:hover span {
     color: black;
 	z-index: 9;
 	opacity: 1;
