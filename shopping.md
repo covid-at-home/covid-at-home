@@ -121,7 +121,7 @@ If you do nothing but wear a mask when appropriate and practice good hand hygien
 
 #### How to fit it properly
 
-Much PPE is one-size-fits all (such as caps) or sized in large category chunks like small, medium, and large (such as gloves and gowns). Respirators are the hardest piece of PPE to fit. Take the time to look up some videos on how to properly mold one to your face with your fingers, covering your nose and cheekbones closely. Don't squeeze the bridge. Mask and respirator fit are especially important for keeping potentially dangerous particulate out (in the case of going out in public or taking care of patients) or in (in case you are ill, or an asymptomatic carrier). 
+Much PPE is one-size-fits all (such as caps) or sized in large category chunks like small, medium, and large (such as gloves and gowns). Respirators are the hardest piece of PPE to fit. Take the time to look up some [videos on how to](https://www.youtube.com/results?search_query=how+to+fit+a+respirator+mask) properly mold one to your face with your fingers, covering your nose and cheekbones closely. Don't squeeze the bridge. Mask and respirator fit are especially important for keeping potentially dangerous particulate out (in the case of going out in public or taking care of patients) or in (in case you are ill, or an asymptomatic carrier). 
 
 #### How to safely don and doff it
 
