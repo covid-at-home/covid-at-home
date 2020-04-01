@@ -43,7 +43,7 @@ Here you will need up-to-date local information. Walks outside may well be illeg
 
 On top of this, you can do things to stay as healthy as possible:
 
-* Ventilate your rooms frequently, including especially [while cooking](https://www.theguardian.com/environment/2019/feb/17/cooking-sunday-roast-causes-indoor-pollution-worse-than-delhi).
+* **Improve your air quality.** Avoid second-hand smoke, mold, and other sources of indoor air pollution, which weakens your lungs and [increases your vulnerability to infection](https://www.nytimes.com/2020/03/27/climate/climate-pollution-coronavirus-lungs.html). Ventilate your rooms frequently, including especially [while cooking](https://www.theguardian.com/environment/2019/feb/17/cooking-sunday-roast-causes-indoor-pollution-worse-than-delhi).
 * Eat appropriate amounts of nutrient-rich, healthy food. Include at least some carbohydrates (e.g., bread, potatoes, pasta, rice, etc). Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. 
 * Drink enough, mostly water. Your urine should be very light-colored, never dark yellow.
 * **Get regular exercise**. If it is recommended or required to stay indoors, find ways to get moving at home: Dance to favorite songs with friends over video-chat, join online yoga or other exercise classes, or try simple core bodyweight exercises like push-ups, sit-ups, and squats combined with simple stationary aerobic exercises like jumping jacks, hula hooping, and skipping. 
