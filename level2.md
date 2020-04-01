@@ -79,7 +79,7 @@ Now at the latest is time to think about Personal Protection Equipment (PPE). If
 - Take care putting it on. Start in a clean zone with clean hands and keep your PPE as clean as possible. 
 - Take care taking it off. First remove gloves and wash hands, then remove mask and wash hands, then remove any other PPE or dirty clothes and wash hands. Then put on clean clothes and get back to a clean zone. 
 - Dispose of used gloves in a disposable trash bag, double-bagging and / or placing the trash aside for 72 hours before external disposal. 
-- Although this is not normal, you probably want to reuse masks since they are already in short supply globally (and the same may become true for other PPE). The best way to reuse PPE is to mark seven sets -- one for each day of the week. Rotate them after wearing to sit in a clean place for a week. If you need respirators / masks decontaminated faster, bake them in the oven at 70 degrees Celsius for 30 minutes. 
+- Although this is not normal, you probably want to reuse masks since they are already in short supply globally (and the same may become true for other PPE). The best way to reuse PPE is to mark seven sets -- one for each day of the week. Rotate them after wearing to sit in a clean place for a week. If you need respirators / masks decontaminated faster, bake them in the oven at 70° Celsius (around 160° Farenheit) for 30 minutes. 
 
 ### Family, flatmates, etc.
 
@@ -119,7 +119,11 @@ Even when you are not that ill yet, it is much better to use glasses if you have
 
 ### Get healthy again
 
-- **Gently treat fever**. Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol if you can. Research suggests [medicating fever less](https://www.ncbi.nlm.nih.gov/pubmed/16433601) rather than more aggressively is safer. This means medicating a temperature of over 40 degrees C -- and not medicating a lower fever. Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature -- and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating from your skin can help lower your temperature. 
+- **Treat fever with care**. 
+  - Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol if you can. 
+  - Fever is part of the body's natural defenses. Research suggests [medicating fever less](https://www.ncbi.nlm.nih.gov/pubmed/16433601) rather than more aggressively is safer. This means medicating a temperature of over 40° Celsius (104° Farenheit) -- and not medicating a lower fever. 
+  - Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. 
+   - An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature -- and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating from your skin can help lower your temperature. 
 
 - **Keep eating**. Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc.) are also essential for immune function. 
 
