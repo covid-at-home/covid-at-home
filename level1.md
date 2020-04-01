@@ -26,10 +26,10 @@ You might feel fine. But the virus can spread before you show symptoms. Some peo
 * Instead of meeting friends for lunch or coffee, have a video-chat or coordinate a walk to the grocery store while keeping your safe distance. 
 
 #### Take care going outside
-* [Wear a mask](https://www.youtube.com/watch?time_continue=209&v=HhNo_IOPOtU&feature=emb_logo) when you go outside. 
+* [Wear a mask](https://www.youtube.com/watch?time_continue=209&v=HhNo_IOPOtU&feature=emb_logo) when you go outside. You may also wish to wear disposable gloves, for instance, while buying food or medicines in shops where you will need to touch surfaces many other people may have touched. For more information on protective personal equipment such as this, see this [list](https://covid-at-home.info/shopping). 
 * Wash your hands and change your clothes when you get home. If you've been around someone who seemed ill, wash them at 60° Celsius (140° Farenheit). 
 * Instead of taking public transportation, walk or bike wherever you can. If you must take public transport, again, keep your safe distance from others and move away from anyone who is ill. 
-* Instead of exercising inside, go outside for a walk or run if weather permits, while keeping your safe distance from other people. 
+* Instead of exercising inside, go outside for a walk or run in your neighborhood if weather permits, while keeping your safe distance from other people. 
 
 {{ site.breakout_begin }}
 
