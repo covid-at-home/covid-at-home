@@ -2,11 +2,11 @@
 
 ![](/images/sneezing-emoji.png)
 
-Notice if you suffer from any of the following, most common first COVID-19 symptoms:
+Notice if you suffer anew from any of the following, most common first COVID-19 symptoms:
 
 * Fever
 * Fatigue
-* Dry (unproductive) cough that is new and persistent
+* Dry (unproductive), persistent cough 
 * Shortness of breath
 * Gastrointestinal symptoms
 
