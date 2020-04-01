@@ -1,0 +1,11 @@
+breakout:
+  begin: <div class="breakout" markdown="1">
+  end: </div>
+  
+disclaimer:
+  begin: <div class="disclaimer" markdown="1">
+  end: </div>
+  
+footnote:
+  begin: <span class="footnote" markdown="1">&nbsp;<span markdown="1">
+  end: </span></span>

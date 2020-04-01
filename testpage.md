@@ -13,12 +13,12 @@ Notice if you suffer from any of the following first symptoms:
 * Shortness of breath
 * Lack of hunger
 
-{{ site.breakout_begin }}
+{{ site.data.tags.breakout.begin }}
 Initial symptoms may also include headache, chills, dizziness, nasal congestion, abdominal pain, diarrhea, nausea, and vomiting. Later in the infection, symptoms may include loss of smell and taste lasting for several days.
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
-{{ site.breakout_end }}
+{{ site.data.tags.breakout.end }}
 
 > Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature internally (i.e., in the bottom / rectum), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
 

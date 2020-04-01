@@ -26,7 +26,7 @@ Some people may be exposed to, carry, and infect others with the virus -- withou
 
 The single most important thing once you have symtoms that might be COVID-19 is to stay at home, or to go home if you discover them while not at home. Call in sick. Stay away from people as much as possible and go to a separate room if you live with others. If you live alone, let someone (friend, family) know that you are ill and will keep letting them know how you're doing. 
 
-{{ site.breakout.begin }}
+{{ site.data.tags.breakout.begin }}
 
 #### Symptoms? Maybe you need to register...
 
@@ -40,7 +40,7 @@ You may find that the official information on getting tested doesn't always matc
 
 In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places there are drive-throughs. There are also Do-It-Yourself test kits you can order by mail where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly give you any general advice other than to inform yourself as soon as you have isolated yourself.
 
-{{ site.breakout.end }}
+{{ site.data.tags.breakout.end }}
 
 **Under no circumstances should you just show up at a doctor's office or a hospital unannounced if you experience symptoms.**
 
@@ -83,11 +83,11 @@ Now at the latest is time to think about Personal Protection Equipment (PPE). If
 
 ### Family, flatmates, etc.
 
-{{site.breakout.begin}}
+{{site.data.tags.breakout.begin}}
 
 Seek up-to-date local information if you live with others. The authorities may provide you with different or more detailed instructions, advice, or even PPE materials.
 
-{{site.breakout.end}}
+{{site.data.tags.breakout.end}}
 
 Here are some general suggestions and tips for dealing with family and flatmates if you have or suspect you may have COVID-19: 
 - **Self-quarantine from the outside...** Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine, too. 
@@ -151,11 +151,11 @@ Even when you are not that ill yet, it is much better to use glasses if you have
 
 ### Feeling better?
 
-{{ site.breakout_begin }}
+{{ site.data.tags.breakout.begin }}
 
 If your symptoms go away, that doesn't mean you should end your quarantine immediately. You need up-to-date local information again to see whether the authorities want you to register as healed, espcially if you tested positive earlier. Depending on availability and local policy, you may need to be tested again. Your local health authorities may provide you with specific advice on what to do next. If so: follow it.
 
-{{ site.breakout_end }}
+{{ site.data.tags.breakout.end }}
 
 Absent of up-to-date local instructions from authorities, you should err on the side of safety and try to stay in isolation for a little longer than officially indicated. The [World Health Organization recommendation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is to **continue isolation for at least two weeks after symptoms disappear, even if you are no longer feeling sick**. 
 

@@ -2,7 +2,7 @@
 
 All the good care in Level 2 has not worked and things are getting worse. Doesn't mean you did anything wrong, just keep going. Except you're getting weaker, and you're not just coughing anymore, but you feel like absolute crap (doctors call that "general malaise"), things hurt, and you want to be in bed most of the time. It's easy to forget to eat and drink.
 
-{{ site.breakout.begin }}
+{{ site.data.tags.breakout.begin }}
 
 Now that you are really getting ill, it's time to let your regular General Practitioner / doctor / primary care physician know if you haven't spoken to him/her already earlier. The doctor may do house visits or have a protocol to assess you over the phone or via videochat. There may be additional advice or guidelines your doctor will give you. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general advice given here.
 
@@ -10,7 +10,7 @@ Ask the doctor or otherwise try to use reliable local information to see what, i
 
 If you have no primary care doctor, you will need to seek up-to-date local information on what help is available to you. If all lines everywhere are busy -- which is certainly a possibility during the peaks of this crisis -- do not panic, just keep trying.
 
-{{ site.breakout.end }}
+{{ site.data.tags.breakout.end }}
 
 ### Now that you are sick
 
@@ -44,13 +44,13 @@ Finally, you want to be alert to signs that your condition may be worsening and 
 
 ### The fork in the road
 
-{{ site.breakout.begin }}
+{{ site.data.tags.breakout.begin }}
 
 Current guidance in many places is that COVID-19 patients who cannot take care of themselves (anymore) are treated elsewhere. Given that the patient's condition can worsen quickly, there are good reasons to be cared for by medically trained professionals who can keep an eye on you -- while (hopefully) having adequate protection and training to not get infected themselves. Letting the experts do it instead of staying home also protects your loved ones from infection. 
 
 We are seeing this break down in places where there are a lot of cases, with some very ill patients deemed "not sick enough" to go to the hospital, and no other sorts of centralized quarantine facilities with medical staff (yet?) available. This text will continue assuming the COVID-19 patient needs to be cared for at home. This is not the optimal situation. If possible, you should consult with a doctor when you feel you need help before risking anyone becoming infected while they take care of you.
 
-{{ site.breakout.end }}
+{{ site.data.tags.breakout.end }}
 
 Tell other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be (at least partially) COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath -- which inevitably will also affect your ability to talk and think clearly. Everyone at this level, especially patients who live alone, should really have someone checking on them regularly, because the deterioration in respiratory function can be very fast, especially in the second week. 
 

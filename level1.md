@@ -31,11 +31,11 @@ You might feel fine. But the virus can spread before you show symptoms. Some peo
 * Instead of taking public transportation, walk or bike wherever you can. If you must take public transport, again, keep your safe distance from others and move away from anyone who is ill. 
 * Instead of exercising inside, go outside for a walk or run in your neighborhood if weather permits, while keeping your safe distance from other people. 
 
-{{ site.breakout_begin }}
+{{ site.data.tags.breakout.begin }}
 
 Here you will need up-to-date local information. Walks outside may well be illegal where you are (for a time), while much of this advice may actually be mandatory. You may be asked or required to do other things not on this list, like [having your temperature taken before buying groceries](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says). Let up-to-date, local information guide you where there are conflicts between that and this text.
 
-{{ site.breakout_end }}
+{{ site.data.tags.breakout.end }}
 
 ### Stay Healthy
 
@@ -92,11 +92,11 @@ What sorts of existing medical conditions are especially likely to make you / yo
 
 ### Preventive Care
 
-{{ site.breakout_begin }}
+{{ site.data.tags.breakout.begin }}
 
 If the news is full of stories of hospitals being overloaded with COVID-19 patients where you are, then ignore the advice below and let the doctors and nurses work. Except when local health authorities tell you otherwise, naturally.
 
-{{ site.breakout_end }}
+{{ site.data.tags.breakout.end }}
 
 If the situation is still somewhat normal where you are, this may be good moment to briefly ask your doctor what (if anything) she/he thinks you should do now, and what you should do if you fall ill. If you have not yet been vaccinated for the seasonal flu, pneumococcal pneumonia, or meningococcal meningitis, now may also be a good time to ask your doctor if you are a candidate for those vaccines. Getting these vaccinations now if your doctor advises it could help prevent another infection from compounding problems that may be caused by COVID-19, should you be infected later. 
 
