@@ -32,7 +32,6 @@ Note that any advice from official sources you may find could be outdated as soo
 
 That said, we are seeing various levels of quality in official response. Sometimes there will insufficient capacity to supply everyone with individual help and advice, for example because hotlines and testing centers are overloaded. **Help may well be unavailable at some times**. In this text we will just keep going, giving you the best advice we found in our research. This doesn't mean we think such general advice as is on this site could be better than local help from trained professionals. Treat the advanced chapters of this website as a last resort: much better than nothing, but by all means get local help from actual professionals if you can.
 
-Also note that **we do not sugar-coat**. This site is written by and for adults who can handle thinking through the consequences of our current predicament. There is no reason to panic, but the situation is serious enough that we feel everyone should have access to the best information we could find. 
 Also note that **we do not sugar-coat**. This site is written by and for adults who can handle thinking through the consequences of our current global predicament. There is no reason to panic, but the situation is serious enough that we feel everyone should have access to the best information we could find. 
 
 {{ site.breakout_end }}
@@ -40,8 +39,10 @@ Also note that **we do not sugar-coat**. This site is written by and for adults 
 Some of the authors of this website are not known as great fans of government and authority, but at this point trust in the public health authorities is vital. Where there are discrepancies, trust reputable sources such as:
 * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
 * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
+* [National Health Service](https://www.nhs.uk/conditions/coronavirus-covid-19/) (UK) 
 * [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
-* [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
+* [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/novel-coronavirus-china) (EU) 
+* And the public health authorities where you are.
 
 For the more research-minded, we compiled a list of [additional resources](https://covid-at-home.info/resources). 
 
@@ -63,7 +64,7 @@ Remember that there is no difference in potential infectiousness between friends
 
 ### You can help make this site better
 
-If you see something that could be better, please [**click here**](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. We promise to do our best to respond quickly. *(As you can see there the backend of this website is on Github, so if you know that environment you can also send pull-requests or think of other ways to help.)*
+If you see something that could be better, please [**click here**](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. We promise to do our best to respond quickly. *(As you can see there, the back end of this website is on Github, so if you know that environment you can also send pull-requests or think of other ways to help.)*
 
 To be successful, this will need to be an expanding, collaborative effort.
 

@@ -8,7 +8,7 @@ We already mentioned the importance of trusting public health authorities and li
 Here are a few other resources we like: 
 
 * The now-ubiquitous [Johns Hopkins University cases map](https://coronavirus.jhu.edu/map.html) 
-* The WHO's compilation of [Global research on coronavirus disease (COVID-19)]https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov (research-focused)
+* The WHO's compilation of [Global research on coronavirus disease (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov) (research-focused)
 * Our World in Data's [COVID-19 Statistics & Research](https://ourworldindata.org/coronavirus)
 * StatNews's [Coronavirus Coverage](https://www.statnews.com/tag/coronavirus/?utm_source=website&utm_campaign=coronavirus_alertsbar&utm_medium=w)
-* cwoomi's [Collection of Information on Covid](https://github.com/cwoomi/cert-covid19) (German-focused resource page) 
+* Chaos Computer Club, Chaos Emergency Response Team's [Collection of Information on Covid](https://github.com/cwoomi/cert-covid19) (German-focused resource page) 
