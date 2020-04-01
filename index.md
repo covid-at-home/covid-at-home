@@ -64,7 +64,7 @@ Remember that there is no difference in potential infectiousness between friends
 
 ### You can help make this site better
 
-If you see something that could be better, please [**click here**](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. We promise to do our best to respond quickly. *(As you can see there the backend of this website is on Github, so if you know that environment you can also send pull-requests or think of other ways to help.)*
+If you see something that could be better, please [**click here**](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. We promise to do our best to respond quickly. *(As you can see there, the back end of this website is on Github, so if you know that environment you can also send pull-requests or think of other ways to help.)*
 
 To be successful, this will need to be an expanding, collaborative effort.
 
