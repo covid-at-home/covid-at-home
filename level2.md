@@ -46,9 +46,18 @@ In some cities, your regular doctor will come to your home in full gear to swab 
 
 > Remember: This is for your own protection as well as that of the other patients. Hospitals are bad places to be until you absolutely have to be there: You run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded, so waiting times may be astronomical.
 
-### Don't Panic - The Worried Well
+### Don't Panic 
 
-For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain on doctors, nurses and available medical resources. We can all help. The "Worried Well" is a medical term for people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
+For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. 
+
+At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain on doctors, nurses, and available medical resources. We can all help them by staying home whenever possible. 
+
+The "Worried Well" is a medical term for people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
+
+Consider using relaxation techniques to slow a rapid respiration or heart rate that may be partially due to anxiety (or just to chill out): 
+- Listen to soothing music.
+- Check in with a friend electronically.
+- See if you can slow your breathing and bring down your heart rate by counting longer for forceful exhaling than for gentle inhaling. Some people use 4-7-8, and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns. Use what feels best for you. 
 
 ### Self-quarantine
 
@@ -60,7 +69,17 @@ During this time at least, err on the side of caution when it comes to waste dis
 
 ### PPE
 
-Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one outdoors. You are not supposed to be outdoors when you have symptoms, we know. But we mean even just when putting out the trash. If you have no mask, at least do something. Wrap a towel around your nose and mouth, breathe through a scarf, anything is better than nothing.
+Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one outdoors. You are not supposed to be outdoors when you have symptoms, we know. But we mean even just when putting out the trash. If you have no mask, at least do something. Wrap a towel around your nose and mouth, breathe through a scarf, anything is better than nothing. Here are a few [recommendations for PPE](https://covid-at-home.info/shopping) in the context of the COVID-19 pandemic, summarized and expanded on briefly below: 
+
+- Use PPE if you are sick and have to be around other people, or if you feel well but have to be around someone who is sick (e.g., caring for someone). 
+- Use a high-filtration respirator like an N95, FFP2, or FFP3 if you can. Next-preferred would be a regular medical face mask (surgical or procedural). Then a home-made or improvised mask. Just use something. 
+- Use disposable gloves to take out the trash when you are ill, or when caring for someone who is ill. 
+- It may make sense to also use a cap, gown, and eye protection if you are caring for someone with COVID-19 at home. 
+- Fitting respirators properly is hard and important; look up [some videos](https://www.youtube.com/results?search_query=how+to+fit+a+respirator+mask) and mold it to your face with your fingers without squeezing the bridge. 
+- Take care putting it on. Start in a clean zone with clean hands and keep your PPE as clean as possible. 
+- Take care taking it off. First remove gloves and wash hands, then remove mask and wash hands, then remove any other PPE or dirty clothes and wash hands. Then put on clean clothes and get back to a clean zone. 
+- Dispose of used gloves in a disposable trash bag, double-bagging and / or placing the trash aside for 72 hours before external disposal. 
+- Although this is not normal, you probably want to reuse masks since they are already in short supply globally (and the same may become true for other PPE). The best way to reuse PPE is to mark seven sets -- one for each day of the week. Rotate them after wearing to sit in a clean place for a week. If you need respirators / masks decontaminated faster, bake them in the oven at 70 degrees Celsius for 30 minutes. 
 
 ### Family, flatmates, etc.
 
