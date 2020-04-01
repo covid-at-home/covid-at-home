@@ -41,8 +41,8 @@ Some of the authors of this website are not known as great fans of government an
 * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
 * [National Health Service](https://www.nhs.uk/conditions/coronavirus-covid-19/) (UK) 
 * [Robert Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germany)
-* [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) (EU) 
-* And the local, regional, or national public health authorities where you are.
+* [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/novel-coronavirus-china) (EU) 
+* And the public health authorities where you are.
 
 For the more research-minded, we compiled a list of [additional resources](https://covid-at-home.info/resources). 
 
