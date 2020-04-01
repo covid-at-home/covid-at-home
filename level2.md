@@ -26,7 +26,7 @@ Some people may be exposed to, carry, and infect others with the virus -- withou
 
 The single most important thing once you have symtoms that might be COVID-19 is to stay at home, or to go home if you discover them while not at home. Call in sick. Stay away from people as much as possible and go to a separate room if you live with others. If you live alone, let someone (friend, family) know that you are ill and will keep letting them know how you're doing. 
 
-{{ site.breakout_begin }}
+{{ site.breakout.begin }}
 
 #### Symptoms? Maybe you need to register...
 
@@ -40,7 +40,7 @@ You may find that the official information on getting tested doesn't always matc
 
 In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places there are drive-throughs. There are also Do-It-Yourself test kits you can order by mail where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly give you any general advice other than to inform yourself as soon as you have isolated yourself.
 
-{{ site.breakout_end }}
+{{ site.breakout.end }}
 
 **Under no circumstances should you just show up at a doctor's office or a hospital unannounced if you experience symptoms.**
 
@@ -58,13 +58,23 @@ Until tested and depending on where you are and where you have been, simply assu
 
 During this time at least, err on the side of caution when it comes to waste disposal. Used tissues, paper towels, and other possibly contaminated disposable items should be bagged in disposable trash bags, tied securely, and put aside for 72 hours prior to external disposal. Some municipalities also recommend placing these items in a second disposable trash bag. If you use communal garbage bins, disinfect the handles when possible before and after use. Wash your hands after handling trash and bins. 
 
+### PPE
+
+Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one outdoors. You are not supposed to be outdoors when you have symptoms, we know. But we mean even just when putting out the trash. If you have no mask, at least do something. Wrap a towel around your nose and mouth, breathe through a scarf, anything is better than nothing.
+
 ### Family, flatmates, etc.
+
+{{site.breakout.begin}}
+
+Seek up-to-date local information if you live with others. The authorities may provide you with different or more detailed instructions, advice, or even PPE materials.
+
+{{site.breakout.end}}
 
 Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. 
 
 Regularly clean all frequently touched surfaces with household bleach diluted with water: 10 ml / 2 tsp bleach with half a liter / 2 cups of water (carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. You should give the spray a minute to work on surfaces before wiping it dry.
 
-Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one. Depending on your situation, disposable gloves, long-sleeve protective gowns, and eye protection may also be appropriate. The [shopping page](/shopping) on this website contains some ideas for personal protection items, as well as important information on when and how to use them. Depending on the stage of the disease where you are, the authorities may provide you with more detailed advice, instructions or even PPE materials if you are caring for a patient.
+Your housemates might want to wear masks indoors too. When they handle your trash or laundry, disposable gloves are also a good idea. The [shopping page](/shopping) on this website contains some ideas for personal protection items, as well as important information on when and how to use them.
 
 In most places, there will probably come a time when the number of cases skyrockets, many people have already had COVID-19, and authorities will no longer keep records of who has had it and who hasn't. The basis then remain the same: Try to protect older people and people with existing illnesses as much as possible, and try to minimize spread whenever you can, as best you can. Remember: The more we can slow down or altogether lessen the disease's spread, the better it is for everyone. Because by helping to slow or stop the spread, you can help lessen how overwhelmed the healthcare system is going to become. That in turn increases the proportion and number of people who need medical care, who are able to access it. This helps doctors and nurses save more lives. 
 
@@ -76,7 +86,7 @@ A few times a day, preferably at somewhat regular hours or points in your normal
 
 Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. 
 
-Paracetamol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
+Paracetamol (also known as Tylenol or acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
 
 [![](/images/diary-small-slanted.png)](/diary)
 
@@ -90,7 +100,7 @@ Even when you are not that ill yet, it is much better to use glasses if you have
 
 ### Get healthy again
 
-Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol (also known as acetaminophen) if you can. Research suggests [medicating fever less](https://www.ncbi.nlm.nih.gov/pubmed/16433601) rather than more aggressively is safer. This means medicating a temperature of over 40 degrees C -- and not medicating a lower fever. Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature - and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating like sweat from your skin can help lower your temperature. 
+Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol if you can. Research suggests [medicating fever less](https://www.ncbi.nlm.nih.gov/pubmed/16433601) rather than more aggressively is safer. This means medicating a temperature of over 40 degrees C -- and not medicating a lower fever. Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature - and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating from your skin can help lower your temperature. 
 
 Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and teas are better choices then. 
 
