@@ -1,16 +1,25 @@
 ## Shopping list
 
-The standard advice is to have about 2-4 weeks of essentials like groceries and other basic household supplies -- basically a surplus of what you normally have on hand, but with some emphasis on longer shelf-life foods, for sheltering in place. You will also want to think about some other supplies (e.g., fever thermometer) and personal protective equipment (PPE; e,g, mask and gloves). 
+The standard advice is to have about 2-4 weeks of essentials like groceries and other basic household supplies in case of emergencies such as this (a global pandemic). Basically you want to have a surplus of what you normally have on hand, but with some emphasis on longer shelf-life foods, for sheltering in place. You will also want to think about some things you might not normally have on hand, namely, other supplies (e.g., fever thermometer) and personal protective equipment (PPE; e,g, mask and gloves). 
 
 ### Food
 
-While your diet will likely change due to different food availability (fewer grocery store runs or deliveries in favor of staying home or limiting contact, no more restaurants), in most countries at this time you can likely still enjoy a diverse and nutritious diet. Here are a few [suggestions and tips](/food) for keeping a few weeks' worth of healthy food that you like on hand. 
+Your diet will likely change due to changed food availability (e.g., fewer grocery store runs or deliveries in favor of staying home or limiting contact, no more restaurants. But in most countries at this time (and probably for some time to come), you can likely still enjoy much the same sort of diverse and nutritious diet you had access to previously. Here are a few [suggestions and tips](/food) for keeping 2-4 weeks' worth of healthy food that you like on-hand. 
    
 ### Household supplies
 
-Everyone and their brother has already thought to stock up on toilet paper, infamously leading to shortages and even social unrest (from organized crime to public brawling) in various places worldwide. Don't be that person. Maybe when it comes to things that you know may be in short supply solely because of panic buying (like toilet paper), only buy a little bit every week. Share with your neighbors if you have it and they don't. Things will be crazy throughout this crisis from time to time, but people all over the world are using the opportunity to ask the people around them what they need -- and that kind of kindness builds the strength and resilience that we all need to get through this thing together. 
+Everyone and their brother has already thought to stock up on toilet paper, infamously leading to shortages and even social unrest (from organized crime to public brawling) in various places worldwide. Don't be that person. Maybe when it comes to things that you know may be in short supply solely because of panic buying (like toilet paper), only buy a little bit every week. Share with your neighbors if you have it and they don't. Things will be crazy throughout this crisis from time to time, but people all over the world are using the opportunity to ask the people around them what they need -- and that kind of kindness builds the strength and resilience that we all need to get through this thing together. And (unlike masks), there is no global shortage of toilet paper. 
 
-That said, it probably makes sense to have a back-up of your regular household essentials. That means different things to different people, but common items include laundry detergent, dish soap, shampoo, conditioner, hand soap, moisturizer, toothpaste, floss, paper towels, and condoms. 
+That said, it probably makes sense to have a back-up of your regular household essentials. That means different things to different people, but common items to keep a back-up of in case of emergency include:
+- Laundry detergent. You can buy liquid laundry detergent to wash things in the sink or tub/shower if you don't have a washing machine. In a pinch (or for delicates like underwear), dish or hand soap works as well. Just use something; it's not a good time to go to the laundromat. 
+- Dish soap. Not just for dishes and (in a pinch) laundry; also works as a back-up all-purpose cleaner, diluted in warm water, for most floors and surfaces. 
+- Shampoo, conditioner, bar soap for the body.
+- Hand soap and moisturizer / petroleum jelly. All that hand-washing really takes a toll on the skin! 
+- Toothpaste, floss, mouthwash, anything else you need for good oral hygiene. (It's not a good time to need a dentist.) 
+- Paper towels, antiseptic wipes, bathroom wet wipes, tissues. 
+- Cleaning supplies. Disposable paper towels and spray glass cleaner or really any other type of cleaner that cuts oil (dish soapy water, shower cleaner, diluted bleach or hydrogen peroxide) should kill the virus by dissolving its lipid (fat) membrane and thus rendering it inactive, while containing the contaminated cleaning materials safely inside your garbage bag. Here's a fuller [list](https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/). 
+- Pads, tampons, condoms, whatever else you need to stay clean and safe. 
+- Disposable garbage bags. Not a good thing to run out of when you're sick and will need to dispose of your tissues safely eventually! 
 
 ### Other supplies
 
@@ -32,10 +41,6 @@ If we included examples (generally on the German version of Amazon), this is not
    
    > Stuff most everyone has in the home, but just to be sure: Once people get sick, you want to change the bed linens often, and you may use more towels also.
    
-* **Cleaning supplies**
-
-   > Disposable paper towels and spray glass cleaner or really any other type of cleaner that cuts oil (dish soapy water, shower cleaner, diluted bleach) should kill the virus by dissolving its lipid (fat) membrane and thus rendering it inactive, while containing the contaminated cleaning materials safely inside your garbage bag. Here's a fuller [list](https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/). 
-
 * **Paracetamol (also known as acetaminophen, Tylenol or Panadol)**
 
   > The fever supressant and painkiller of choice. Make sure you follow the packaging instructions and stay within the maximum recommended daily dose. 
@@ -71,11 +76,6 @@ If we included examples (generally on the German version of Amazon), this is not
    > ![](/images/multi-vitamin.png)
    >
    > For when the patient doesn't eat (much) anymore but still drinks. Maybe take the big multi-vitamin pills that fizz into water, a couple of tubes of those. Try getting ones that contain roughly 1-2 times the daily recommended dose of all the vitamins and minerals they contain -- no crazy 1000% megadoses.
-   
-   * **Hand Cream / Petroleum Jelly** (5+ EUR/USD)
-   
-   > All that hand-washing really takes a toll on the skin! 
-   
    
 
 #### Important Note
@@ -121,8 +121,6 @@ If you are disposing of PPE after use, you will want to place it in a disposable
 Under normal circumstances, most PPE is considered disposal, i.e., intended to be thrown away after one use. But a global pandemic with shortages in many countries of critical equipment including respirators / masks for healthcare workers and others, does not present a normal set of circumstances. Now is a time to use what you have to the fullest. That means disinfecting rather than disposing of PPE whenever possible. 
 
 The best way to reuse PPE during this pandemic is probably to mark seven masks or sets of PPE -- one for each day of the week. Rotate them after wearing to sit in a clean place for a week. The virus should be dead after that period of time. There do not presently seem to be shortages of other PPE, but the same rotation decontamination strategy would apply. Alternately, if you need the mask(s) / respirator(s) decontaminated faster, bake them in the oven at 70 degrees Celsius for 30 minutes. For hard surfaces like face shields and goggles, normal disinfectant solutions like Windex should kill the virus. For soft surfaces like cotton masks, spraying or soaking with alcohol or diluted hydrogen peroxide should do the trick. It seems likely, however, that using heat, chemicals, or other, faster potential decontamination techniques will result in worse overall wear and tear on the PPE than rotating a weekly set in and out of a clean place. Less wear and tear means better-protecting PPE. 
-
-
 
 * **Medical mask, preferably N95** (a few EUR/USD)
    > ![](/images/mask.png)
