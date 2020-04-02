@@ -58,7 +58,7 @@ Tell other people around you that you are really ill and are mostly in bed. Talk
 
 ### Others taking care of you
 
-eIf non-medical people are going to need to take care of you (or if you need to take care of someone who is ill), make sure adequate protection is used to the extent possible. At this point, patient and caregiver need to be closer together, so use all the protection you can have: raincoat, protective glasses / face shield, gloves. Train the proper procedures for putting these on and taking them off, going through that in your head over and over again.
+If non-medical people are going to need to take care of you (or if you need to take care of someone who is ill), make sure adequate protection is used to the extent possible. At this point, patient and caregiver need to be closer together, so use all the protection you can have: raincoat, protective glasses / face shield, gloves. Train the proper procedures for putting these on and taking them off, going through that in your head over and over again.
 
 From now on in this text, we will assume that you're the caregiver. Read ahead for signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient urgently needs expert medical care. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without a daily minimum, you're quickly in Level 4.
 
