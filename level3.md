@@ -112,4 +112,4 @@ If your condition deteriorates to the point that you / the patient needs to go t
 
 It would be ideal to have the patient name and date of birth readable on the outside of the bag as well.
 
-When it is time to go, remember to put glasses, phone, charger, and today's page of the illness diary in the bag before you go. Remember that there will likely be no visits allowed in hospitals during peak pandemic phases, and COVID-19 patients (and others) may be in far-away makeshift htspitals or quarantine facilities staffed with medical professionals.
+When it is time to go, remember to put glasses, phone, charger, and today's page of the illness diary in the bag before you go. Remember that there will likely be no visits allowed in hospitals during peak pandemic phases, and COVID-19 patients (and others) may be in far-away makeshift hospitals or quarantine facilities staffed with medical professionals.
