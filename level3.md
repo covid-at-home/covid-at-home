@@ -4,7 +4,7 @@ All the good care in Level 2 has not worked and things are getting worse. Doesn'
 
 {{ site.data.tags.breakout.begin }}
 
-Now that you are really getting ill, it's time to let your regular General Practitioner / doctor / primary care physician know if you haven't spoken to him/her already earlier. The doctor may do house visits or have a protocol to assess you over the phone or via videochat. There may be additional advice or guidelines your doctor will give you. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general advice given here.
+Now that you are really getting ill, it's time to let your regular General Practitioner / doctor / primary care physician know if you haven't spoken to him/her already earlier. The doctor may do house visits or have a protocol to assess you over the phone or via videochat. There may be additional advice or guidelines your doctor will give you. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general information given here.
 
 Ask the doctor or otherwise try to use reliable local information to see what, if anything, is expected of people with worsening symptoms where you are. The health authorities may have a website, app, or other mechanism to register a worsening of symptoms. This could be important for keeping an eye on the pandemic, but also to figure out who needs additional care.
 
@@ -18,7 +18,7 @@ If you have no primary care doctor, you will need to seek up-to-date local infor
 * **Get fresh air**. Ventilate the room as often as possible. 
 * **Drink more water!** More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever.
 * **Eat something**. Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
-* **Use those lungs**. See the Level 2 advice on breathing deeply in and out, moving your arms above your head to help your chest fully expand, and even exercising your lung capacity if possible by blowing up a balloon or using another toy that requires blowing every hour.
+* **Use those lungs**. See Level 2 on breathing deeply in and out, moving your arms above your head to help your chest fully expand, and even exercising your lung capacity if possible by blowing up a balloon or using another toy that requires blowing every hour.
 
 ### A typical day
 

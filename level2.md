@@ -38,7 +38,7 @@ You will want to know whether what you have is just a cold, a flu or actual COVI
 
 You may find that the official information on getting tested doesn't always match the reality on the ground. It may be impossible to get through, the queues may be way too long or the waiting conditions unsafe. (You don't want to get COVID-19 from trying to find out if you have it.)
 
-In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places there are drive-throughs. There are also Do-It-Yourself test kits you can order by mail where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly give you any general advice other than to inform yourself as soon as you have isolated yourself.
+In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places there are drive-throughs. There are also Do-It-Yourself test kits you can order by mail where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly help you further than to tell you to inform yourself as soon as you have isolated yourself.
 
 {{ site.data.tags.breakout.end }}
 
