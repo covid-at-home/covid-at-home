@@ -1,6 +1,6 @@
 ## Shopping list
 
-The standard advice is to have about 2-4 weeks of essentials like groceries and other basic household supplies -- basically a surplus of what you normally have on hand, but with some emphasis on longer shelf-life foods, for sheltering in place. You will also want to think about some other supplies (e.g., fever thermometer) and personal protective equipment (PPE). 
+The standard advice is to have about 2-4 weeks of essentials like groceries and other basic household supplies -- basically a surplus of what you normally have on hand, but with some emphasis on longer shelf-life foods, for sheltering in place. You will also want to think about some other supplies (e.g., fever thermometer) and personal protective equipment (PPE; e,g, mask and gloves). 
 
 ### Food
 
