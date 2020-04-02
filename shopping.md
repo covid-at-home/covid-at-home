@@ -1,10 +1,10 @@
 ## Shopping list
 
-The standard advice is to have about 2-4 weeks of essentials like groceries and other household supplies. 
+The standard advice is to have about 2-4 weeks of essentials like groceries and other basic household supplies -- basically a surplus of what you normally have on hand, but with some emphasis on longer shelf-life foods, for sheltering in place. You will also want to think about some other supplies (e.g., fever thermometer) and personal protective equipment (PPE). 
 
 ### Food
 
-Here are a few [suggestions and tips](/food) for keeping a few weeks' worth of healthy food you like on hand. 
+While your diet will likely change due to different food availability (fewer grocery store runs or deliveries in favor of staying home or limiting contact, no more restaurants), in most countries at this time you can likely still enjoy a diverse and nutritious diet. Here are a few [suggestions and tips](/food) for keeping a few weeks' worth of healthy food you like on hand. 
    
 ### Household supplies
 
