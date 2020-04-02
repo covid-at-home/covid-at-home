@@ -3,7 +3,7 @@
 
 This site started as a private initiative of Rop Gonggrijp and Vera Wilde who did much of the initial research and writing. Very soon, some of their friends started helping by proofreading, translating and providing helpful correction and additions. Let's crowdsource this guide. A German translation is almost done and other translations are being planned as we write this.
 
-The goal of covid-at-home is to share (in still somehat concise form) what we have learned and provide no-nonsense practical information in dealing with the COVID-19 pandemic on an open and non-commercial basis. The main assumption is that at least in some places COVID-19 will at least temporarily swamp the healthcare system, so the more people feel some confidence in dealing with sick people at home, the fewer people will show up at doctor's offices and hospitals unnecessarily. At the same time, people still need to know when patients need medical attention. 
+The goal of covid-at-home is to share (in still somewhat concise form) what we have learned and provide no-nonsense practical information in dealing with the COVID-19 pandemic on an open and non-commercial basis. The main assumption is that at least in some places COVID-19 will at least temporarily swamp the healthcare system, so the more people feel some confidence in dealing with sick people at home, the fewer people will show up at doctor's offices and hospitals unnecessarily. At the same time, people still need to know when patients need medical attention. 
 
 Want to help? Yay! We have a [whole section](/help) dedicated to that.
 

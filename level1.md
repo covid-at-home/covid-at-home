@@ -17,7 +17,7 @@ You might feel fine. But the virus can spread before you show symptoms. Some peo
   * Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.theguardian.com/commentisfree/2020/mar/12/science-soap-kills-coronavirus-alcohol-based-disinfectants) because you can easily cover every wrinkly bit of skin on your entire hand with enough soapy water to vanquish the virus. 
   * Watch a video or two on [proper handwashing technique](https://www.youtube.com/results?search_query=proper+handwashing+technique) just to be sure you are using it. 
   * Use moisturizer as needed, too: [Keeping skin healthy](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2flifestyle%2fwellness%2fhand-washing-coronavirus-moisturizer-dry%2f2020%2f03%2f06%2fede43874-5fcb-11ea-b014-4fafa866bb81_story.html) makes disinfection more effective and reduces the risk of infection from other germs, because dry and damaged skin is more vulnerable to infection. 
-* Regularly clean doorknobs, lightswitches, table surfaces, keyboards, cell phones, and other things people frequently touch. If the items or surfaces are dirty, first clean them with soapy water, removing any visible dirt. Then, apply disinfectant (e.g., your favorite household cleaner, diluted bleach water or hydrogen peroxide solution). If surfaces are already clean, just apply disinfectant. If you are not ill and no one around you has been ill, weekly cleaning is fine. Otherwise, clean high-touch surfaces daily if possible. 
+* Regularly clean doorknobs, light switches, table surfaces, keyboards, cell phones, and other things people frequently touch. If the items or surfaces are dirty, first clean them with soapy water, removing any visible dirt. Then, apply disinfectant (e.g., your favorite household cleaner, diluted bleach water or hydrogen peroxide solution). If surfaces are already clean, just apply disinfectant. If you are not ill and no one around you has been ill, weekly cleaning is fine. Otherwise, clean high-touch surfaces daily if possible. 
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
 
 #### Take care around food
@@ -27,7 +27,7 @@ You might feel fine. But the virus can spread before you show symptoms. Some peo
 
 #### Take care going outside
 * [Wear a mask](https://www.youtube.com/watch?time_continue=209&v=HhNo_IOPOtU&feature=emb_logo) when you go outside. You may also wish to wear disposable gloves, for instance, while buying food or medicines in shops where you will need to touch surfaces many other people may have touched. For more information on protective personal equipment such as this, see this [list](https://covid-at-home.info/shopping). 
-* Wash your hands and change your clothes when you get home. If you've been around someone who seemed ill, wash them at 60° Celsius (140° Farenheit). 
+* Wash your hands and change your clothes when you get home. If you've been around someone who seemed ill, wash them at 60° Celsius (140° Fahrenheit). 
 * Instead of taking public transportation, walk or bike wherever you can. If you must take public transport, again, keep your safe distance from others and move away from anyone who is ill. 
 * Instead of exercising inside, go outside for a walk or run in your neighborhood if weather permits, while keeping your safe distance from other people. 
 

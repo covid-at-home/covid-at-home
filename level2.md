@@ -24,7 +24,7 @@ Some people may be exposed to, carry, and infect others with the virus -- withou
 
 ### If you have symptoms
 
-The single most important thing once you have symtoms that might be COVID-19 is to stay at home, or to go home if you discover them while not at home. Call in sick. Stay away from people as much as possible and go to a separate room if you live with others. If you live alone, let someone (friend, family) know that you are ill and will keep letting them know how you're doing. 
+The single most important thing once you have symptoms that might be COVID-19 is to stay at home, or to go home if you discover them while not at home. Call in sick. Stay away from people as much as possible and go to a separate room if you live with others. If you live alone, let someone (friend, family) know that you are ill and will keep letting them know how you're doing. 
 
 {{ site.data.tags.breakout.begin }}
 
@@ -92,7 +92,7 @@ Seek up-to-date local information if you live with others. The authorities may p
 Here are some general suggestions and tips for dealing with family and flatmates if you have or suspect you may have COVID-19: 
 - **Self-quarantine from the outside...** Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine, too. 
 - **... and distance on the inside."** They should also keep the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. We know, it's weird and sometimes heartbreakingly hard. But this is a potentially lethal disease and the people close to you will (hopefully) understand. 
-- **Clean the kitchen faucet.** Regularly clean all frequently touched surfaces (doorknobs, lightswitches, table surfaces, keyboards, phones, toilet handles if in shared bathrooms, kitchen faucet handles if in shared kitchens -- you get the idea) with a regular household cleaner (e.g., Lysol, Windex), hydrogen peroxide solution, or diluted bleach (10 ml / 2 tsp bleach with half a liter / 2 cups of water; carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. Give the cleaner a minute to work on surfaces before wiping it dry. 
+- **Clean the kitchen faucet.** Regularly clean all frequently touched surfaces (doorknobs, light switches, table surfaces, keyboards, phones, toilet handles if in shared bathrooms, kitchen faucet handles if in shared kitchens -- you get the idea) with a regular household cleaner (e.g., Lysol, Windex), hydrogen peroxide solution, or diluted bleach (10 ml / 2 tsp bleach with half a liter / 2 cups of water; carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. Give the cleaner a minute to work on surfaces before wiping it dry. 
 - **Consider PPE.** Your housemates might want to wear masks indoors, too. When they handle your trash or laundry, disposable gloves are also a good idea. 
 
 In most places, there will probably come a time when the number of cases skyrockets, many people have already had COVID-19, and authorities will no longer keep records of who has had it and who hasn't. The basics then remain the same: Try to protect other people, especially those middle-aged or older and people with existing illnesses, as much as possible. And try to minimize the spread whenever you can, as best you can. Remember: The more we can slow or stop the disease's spread, the better it is for everyone. Because by helping to slow or stop the spread, you help lessen how overwhelmed the healthcare system is going to become. That in turn increases the proportion and number of people who need medical care (for any reason), who are able to access it. This helps doctors and nurses save more lives. 
@@ -153,7 +153,7 @@ Even when you are not that ill yet, it is much better to use glasses if you have
 
 {{ site.data.tags.breakout.begin }}
 
-If your symptoms go away, that doesn't mean you should end your quarantine immediately. You need up-to-date local information again to see whether the authorities want you to register as healed, espcially if you tested positive earlier. Depending on availability and local policy, you may need to be tested again. Your local health authorities may provide you with specific advice on what to do next. If so: follow it.
+If your symptoms go away, that doesn't mean you should end your quarantine immediately. You need up-to-date local information again to see whether the authorities want you to register as healed, especially if you tested positive earlier. Depending on availability and local policy, you may need to be tested again. Your local health authorities may provide you with specific advice on what to do next. If so: follow it.
 
 {{ site.data.tags.breakout.end }}
 

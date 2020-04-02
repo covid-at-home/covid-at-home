@@ -62,7 +62,7 @@ If non-medical people are going to need to take care of you (or if you need to t
 
 From now on in this text, we will assume that you're the caregiver. Read ahead for signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient urgently needs expert medical care. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without a daily minimum, you're quickly in Level 4.
 
-In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Don't be in contact any more than you have to, minimise the risk of becoming infected whereever possible. Make sure the illness diary is kept until all symptoms are gone, and quarantine is kept up until the patient has been symptom-free for 14 days. If you have been caring for the patient, self-isolate again. Your own two-week self-quarantine period now begins.
+In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Don't be in contact any more than you have to, minimise the risk of becoming infected wherever possible. Make sure the illness diary is kept until all symptoms are gone, and quarantine is kept up until the patient has been symptom-free for 14 days. If you have been caring for the patient, self-isolate again. Your own two-week self-quarantine period now begins.
 
 ### Care work
 
