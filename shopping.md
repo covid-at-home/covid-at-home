@@ -4,7 +4,7 @@ The standard advice is to have about 2-4 weeks of essentials like groceries and 
 
 ### Food
 
-While your diet will likely change due to different food availability (fewer grocery store runs or deliveries in favor of staying home or limiting contact, no more restaurants), in most countries at this time you can likely still enjoy a diverse and nutritious diet. Here are a few [suggestions and tips](/food) for keeping a few weeks' worth of healthy food you like on hand. 
+While your diet will likely change due to different food availability (fewer grocery store runs or deliveries in favor of staying home or limiting contact, no more restaurants), in most countries at this time you can likely still enjoy a diverse and nutritious diet. Here are a few [suggestions and tips](/food) for keeping a few weeks' worth of healthy food that you like on hand. 
    
 ### Household supplies
 
