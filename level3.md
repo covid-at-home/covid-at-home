@@ -100,7 +100,8 @@ If your condition deteriorates to the point that you / the patient needs to go t
   * Names, addresses, and telephone numbers of loved ones and next of kin
   * ( optional: pincode to patient's cell phone )
   * A list of any essential medications you are taking (drug, time, dose)
-  * A brief medical history if relevant, listing any chronic health conditions
+  * A brief medical history, listing chronic health conditions and name(s) of doctor(s)
+* A week's supply of your essential medication, if applicable
 * Government-issued ID, or a copy of that
 * Health-ID card, health insurance card, whatever is applicable where you are
 * A set or two of simple and compact fresh clothes
@@ -112,6 +113,6 @@ If your condition deteriorates to the point that you / the patient needs to go t
 * USB battery pack if you have one
 * Previous days of the patient illness diary
 
-It would be ideal to have the patient name and date of birth readable on the outside of the bag as well.
+It would be ideal to have name and date of birth readable on the outside of the bag as well.
 
-When it is time to go, remember to put glasses, phone, charger, and today's page of the illness diary in the bag before you go. Remember that there will likely be no visits allowed in hospitals during peak pandemic phases, and COVID-19 patients (and others) may be in far-away makeshift hospitals or quarantine facilities staffed with medical professionals. It is even possible that you will need to have your own essential prescription medicines, although they are normally provided for you by the hospital when you are in the hospital. We just do not know to what sort of facility you may be taken, or what level of care they will be able to provide, during peak pandemic times when the hospital system is likely to be overwhelmed. 
+When it is time to go, remember to put glasses, phone, charger, and today's page of the illness diary in the bag before you go. Remember that there will likely be no visits allowed in hospitals during peak pandemic phases, and COVID-19 patients (and others) may be in far-away makeshift hospitals or quarantine facilities staffed with medical professionals. We put your own essential prescription medicines on the list, although they are generally provided for you by the hospital when you are in the hospital. It's just not always clear where you may be taken, or what level of care they will be able to provide, during peak pandemic times when the hospital system is likely to be overwhelmed. 
