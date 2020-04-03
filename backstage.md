@@ -9,9 +9,10 @@ Language |  |  |
 {% for language in site.data.languages.languages %}{{ language.title }} *({{ language.english }})* | [site]({{ language.url }}) | [GitHub]({{ language.github }}) | [stats]({{ language.stats }})
 {% endfor %}**blog** | [site](https://blog.covid-at-home.info) | [GitHub](https://github.com/covid-at-home/blog/tree/master/_posts) | [stats](https://blog-covid-at-home.goatcounter.com/)
 
-### Meeting
+### Other links to our things
 
-* [Our video chat](https://meet.rawmushroom.com/covid)
+* [video chat](https://meet.rawmushroom.com/covid)
+* [twitter](https://twitter.com/covid_at_home)
 
 ### Resources
 
