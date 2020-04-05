@@ -1,13 +1,12 @@
 ## Make your own mask
 
 To make this mask, you wil need:
-
-* a working printer and paper for the template
-* fabric, 100% cotton, enough to cut 20 x 40 cm and 90 x 10 cm
-* scissors
-* needle and thread
-* a few pins
-* a clothes iron
+  * a working printer and paper for the template
+  * fabric, 100% cotton, enough to cut 20 x 40 cm and 90 x 10 cm
+  * scissors
+  * needle and thread
+  * a few pins
+  * a clothes iron
 
 #### Step 1: Print template and cut it out
 
