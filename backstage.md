@@ -17,6 +17,7 @@ Language |  |  |
 ### Resources
 
 * CCC CERT - [Informationssammlung zum Thema CoVid-19](https://github.com/cwoomi/cert-covid19)
+* [Johns Hopkins map](https://coronavirus.jhu.edu/map.html)
 
 ### Random useful stuff
 
