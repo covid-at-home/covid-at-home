@@ -41,11 +41,11 @@ Fold over where the first cut is and iron the fold. then fold the other way and 
 
 &nbsp;
 
-#### Step 5: The straps
+#### Step 5: Prepare the straps
 
 ![](/images/mask/strap1.png)
 
-Cut two strips of fabric, each 5 cm (2") wide and 90 cm (35") long. Fold each one down the middle and iron the fold. Then fold open again and fold each side to the middle and iron the folds again.
+Cut two strips of fabric, each 5 cm (2") wide and 90 cm (35") long. Fold each one down the middle and iron the fold. Then fold open again and fold each side to the middle and iron the folds again. *(You can also use a ribbon, as long as it can also be boiled/ironed to sterilize.)*
 
 ![](/images/mask/strap2.png)
 
@@ -53,7 +53,7 @@ Cut two strips of fabric, each 5 cm (2") wide and 90 cm (35") long. Fold each on
 
 #### Step 6: Attach the straps
 
-Insert the folded mask into the fold of a strap and stitch strap and mask together. Repeat with other strap on other side of mask. 
+Insert the folded mask into the fold of a strap and stitch strap and mask together. Stitch the entire length of the strap. Repeat with other strap on other side of mask.
 
 ![](/images/mask/strapstitch.png)
 
@@ -62,3 +62,20 @@ Insert the folded mask into the fold of a strap and stitch strap and mask togeth
 #### Step 7: Done
 
 ![](/images/mask/voila.png)
+
+Make sure you boil the mask or iron it very hot to sterilize it. Make a few and change your mask if it gets wet. Take off and boil/re-iron after a day's use, without touching the outside.
+
+&nbsp;
+
+{{ site.data.tags.disclaimer.begin }}
+
+#### DISCLAIMER
+
+It is commonly assumed to be Good Thing™ if everyone were to wear some kind of mask, even if professional quality masks are unavailable. These instructions are for an improvised mask. Such a mask cannot ever prevent infections to the same extent that a real medical mask can. You make and wear this mask at your own risk, covid-at-home.info accepts no responsibility for any negative consequences (including grave bodily harm or death) to you or others that may result from using this mask. Use of a mask (any mask) does not imply you do not have to follow other rules anymore.
+
+{{ site.data.tags.disclaimer.end }}
+
+&nbsp;
+
+Mask and photos: Hanka Marvanová
+Layout: Rop Gonggrijp
