@@ -15,8 +15,6 @@ Click on the image below to download the PDF file to print for the template and 
 
 [![](/images/mask/mask-template.png)](/images/mask/mask-template.pdf)
 
-&nbsp;
-
 #### Step 2: cut out the squares
 
 Cut two squares the size of the template, and use the scissors to make small cuts where the cut marks on the template are to mark where the folds will be.
@@ -29,7 +27,7 @@ Cut two squares the size of the template, and use the scissors to make small cut
 
 ![](/images/mask/stitch.png)
 
-Put the squares on top of eachother with the nice-looking printed sides facing eachother. Then stitch along the lines marked with red dotted lines in the photo. After both sides are done **turn it inside out** so the nice sides face out and the ragged edges on top and bottom are hidden.
+Put the squares on top of eachother with the nice-looking printed sides facing eachother, using the pins to fix them im place. Then stitch along the lines marked with red dotted lines in the photo. After both sides are done **turn inside out** so the pretty sides face out and the ragged edges on top and bottom are hidden.
 
 &nbsp;
 
@@ -69,7 +67,7 @@ Make sure you boil the mask or iron it very hot to sterilize it. Make a few and 
 
 {{ site.data.tags.disclaimer.begin }}
 
-#### DISCLAIMER
+**DISCLAIMER**
 
 It is commonly assumed to be Good Thing™ if everyone were to wear some kind of mask, even if professional quality masks are unavailable. These instructions are for an improvised mask. Such a mask cannot ever prevent infections to the same extent that a real medical mask can. You make and wear this mask at your own risk, covid-at-home.info accepts no responsibility for any negative consequences (including grave bodily harm or death) to you or others that may result from using this mask. Use of a mask (any mask) does not imply you do not have to follow other rules anymore.
 
@@ -77,5 +75,5 @@ It is commonly assumed to be Good Thing™ if everyone were to wear some kind of
 
 &nbsp;
 
-Mask and photos: Hanka Marvanová
+Mask and photos: Hanka Marvanová<br>
 Layout: Rop Gonggrijp
