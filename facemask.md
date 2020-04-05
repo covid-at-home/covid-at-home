@@ -74,5 +74,5 @@ It is commonly assumed to be Good Thing™ if everyone were to wear some kind of
 
 &nbsp;
 
-Mask and photos: Hanka Marvanová<br>
+Mask and photos: Hanka Marvan<br>
 Layout: Rop Gonggrijp
