@@ -10,6 +10,12 @@ languages:
   github: https://github.com/covid-at-home/covid-at-home.github.io
   stats: https://stats.covid-at-home.info
   published: true
+  
+- title: Česky
+  english: Czech
+  url: https://covid-doma.info
+  github: https://github.com/covid-at-home/covid-doma.info
+  stats: https://stats.covid-doma.info
 
 - title: Deutsch
   english: German
