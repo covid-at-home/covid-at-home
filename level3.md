@@ -76,9 +76,9 @@ Some possibly useful behaviors include:
 * Setting up a fan to blow air in the patient's face can relax patients who are feeling breathless. Helping the patient breathe in a fresh breeze from an open window if possible can have the same effect. 
 * Reassure the patient that it is very likely that he or she will make a full recovery (which is true). Offer relaxation techniques (soothing music, humor, counting breaths). 
 * If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes. Positional changes include: 
-- Leaning the chest forward a little or putting the arms and head down on a table while sitting with feet flat on the floor. 
-- Sleeping on one side with a pillow between the knees, or on the back, elevating head elevated with a pillow or two. It is similarly a good idea to elevate the head of the bed for sleeping if possible. 
-- [Lying prone](https://www.ncbi.nlm.nih.gov/pubmed/22157493) -- flat with chest down and back up -- often improves systemic oxygenation in patients with acute respiratory distress syndrome (ARDS). But it's horribly uncomfortable and **not for infants**. Probably if you're bad enough to need this, you should skip ahead to Level 4 / check for flags to seek medical advice or help immediately. 
+  * Leaning the chest forward a little or putting the arms and head down on a table while sitting with feet flat on the floor. 
+  * Sleeping on one side with a pillow between the knees, or on the back, elevating head elevated with a pillow or two. It is similarly a good idea to elevate the head of the bed for sleeping if possible. 
+  * [Lying prone](https://www.ncbi.nlm.nih.gov/pubmed/22157493) -- flat on stomach with chest down and back up -- often raises blood oxygen levels in patients with acute respiratory distress syndrome (ARDS). But it's usually uncomfortable and **not for infants or pregnant people**. Also make sure there's no fluffy pillow, mattress topping or blanket that can (partially) block air flow.
 * Keeping the illness diary (see below).
 
 ### Illness diary
