@@ -10,7 +10,7 @@ This guide is intended to help readers who are:
 
 What this is not: 
 - A standard list of emergency food rations, most of which are heavy on ultra-processed foods associated with bad physical and mental health outcomes. 
-- A guide to finding food if it is just flat-out scarce where you are. Hopefully that is not the case. We do not know how to advise you if it is. 
+- A guide to finding food if it is just flat-out scarce where you are. Hopefully that is not the case. We do not know how to advise you if it is. Maybe another situation where it couldn't hurt to have some of those big multi-vitamin pills that fizz into water. 
 - A list of recipes. There are plenty of those on the Internet. Think about what sounds good and look it up to see how someone else has already tried it. 
 
 The very real challenge this general advice responds to is one that we all face: To keep well in body and mind by eating a balanced diet composed of a variety of real foods... at a time when access to fresh food is -- at least for now, at least a little bit -- more constrained than under normal conditions. 
