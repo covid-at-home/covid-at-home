@@ -125,7 +125,7 @@ Even when you are not that ill yet, it is much better to use glasses if you have
   - Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. 
    - An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature -- and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating from your skin can help lower your temperature. 
 
-- **Keep eating**. Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc.) are also essential for immune function. 
+- **Keep eating**. Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. 
 
 - **Steam**. Inhale steam 3+ times a day. The best way to do this is with a [steam inhaler](https://covid-at-home.info/shopping), a device that outputs steam that is not too hot to breathe. A humidifier or shower also works. The older method many people know is to boil water in a pot and then put your head over it, under a dishtowel; just make sure you don't do damage with hot water or steam that's too hot to breathe. There are no miracle cures and this is no exception; it just helps your airways open and drain a bit better. 
 
