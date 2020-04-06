@@ -16,7 +16,7 @@ If you have no primary care doctor, you will need to seek up-to-date local infor
 
 * **Rest**. At this point, rest is very important. Sleep as much as possible. At least in the beginning, you will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed when you can, and make sure the old sheets are washed at 60° Celsius (140° Farenheit) or warmer.
 * **Get fresh air**. Ventilate the room as often as possible. 
-* **Drink more water!** More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever.
+* **Drink more water!** More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever. If you have a chronic condition that could worsen with excess fluids (e.g., heart failure or chronic kidney disease), consult a doctor. 
 * **Eat something**. Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
 * **Use those lungs**. See Level 2 on breathing deeply in and out, moving your arms above your head to help your chest fully expand, and even exercising your lung capacity if possible by blowing up a balloon or using another toy that requires blowing every hour.
 
