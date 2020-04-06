@@ -147,7 +147,7 @@ Even when you are not that ill yet, it is much better to use glasses if you have
   - Getting up and moving periodically. Although you may be very tired (malaise) due to your illness, being upright and moving around can similarly help fluids drain. 
   - Expanding your lungs by breathing deeply (in and out), and raising your arms (up above your head and down again). 
   - Opening the window and breathing the fresh air, especially if breathlessness (dyspnea) is bothering you. 
-  - Exercising your fuller lung capacity by blowing up a balloon every hour (or using any other toy you might have on hand that exercises lung capacity). This is a particularly good idea if your breathing is fast and / or you are feeling breathless. Be gentle and patient with yourself. Focus on taking deep breaths all the way in and all the way out, and remember lung capacity is like muscle strength: You can build it up by repeated exercise. 
+  - Exercising your fuller lung capacity by blowing up a balloon every hour, using a peashooter, or using any other toy you might have on hand that exercises lung capacity). This is a particularly good idea if your breathing is fast and / or you are feeling breathless. Be gentle and patient with yourself. Focus on taking slow, deep breaths all the way in and all the way out, and remember lung capacity is like muscle strength: You can build it up by repeated exercise. Do 10 deep breaths every hour you're awake. 
 
 ### Feeling better?
 
