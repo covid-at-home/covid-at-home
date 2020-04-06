@@ -26,7 +26,7 @@ If you or the patient are experiencing shortness of breath / labored breathing, 
 
 ### Low oxygen saturation
 
-If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95% may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue; called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95% may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue; called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, get him or her warm, and try prone (chest down, back up) positioning. "With signs of oxygen dropping, it's time for flopping." 
 
 ![](/images/cyanosis.png)
 
