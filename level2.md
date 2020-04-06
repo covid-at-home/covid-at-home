@@ -69,7 +69,7 @@ During this time at least, err on the side of caution when it comes to waste dis
 
 ### PPE
 
-Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one outdoors. You are not supposed to be outdoors when you have symptoms, we know. But we mean even just when putting out the trash. If you have no mask, at least do something. Wrap a towel around your nose and mouth, breathe through a scarf, anything is better than nothing. Here are a few [recommendations for PPE](https://covid-at-home.info/shopping) in the context of the COVID-19 pandemic, summarized and expanded on briefly below: 
+Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one outdoors. You are not supposed to be outdoors when you have symptoms, we know. But we mean even just when putting out the trash. If you have no mask, at least do something. Make your own using our [mask-making template](https://covid-at-home.info/mask). Wrap a towel around your nose and mouth, breathe through a scarf, anything is better than nothing. Here are a few [recommendations for PPE](https://covid-at-home.info/shopping) in the context of the COVID-19 pandemic, summarized and expanded on briefly below: 
 
 - Use PPE if you are sick and have to be around other people, or if you feel well but have to be around someone who is sick (e.g., caring for someone). 
 - Use a high-filtration respirator like an N95, FFP2, or FFP3 if you can. Next-preferred would be a regular medical face mask (surgical or procedural). Then a home-made or improvised mask. Just use something. 
