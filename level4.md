@@ -18,7 +18,7 @@ You probably know the patient, so you should be able to tell without any fancy t
 
 Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. 
 
-Immediate home care for respiratory problems may include helping the patient into a prone (chest down, back up) position, ventilating the patient's room, and /or propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible. There are a few other breathing techniques and positions that can make breathing easier, too (see Level 3, Care work).
+Immediate home care for respiratory problems may include ventilating the patient's room, and trying different breathing techniques and positions that can make breathing easier, too (see Level 3, Care work).
 
 ![](/images/dyspnoe.png)
 
