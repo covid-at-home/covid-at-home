@@ -5,6 +5,9 @@ items:
   
 - title: Shopping
   url: /shopping
+  
+- title: Face mask
+  url: /facemask
 
 - title: I can help!
   url: /help

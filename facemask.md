@@ -10,7 +10,7 @@ To make this mask, you wil need:
 
 #### Step 1: Print template and cut it out
 
-Click on the image below to download the PDF file to print for the template and cut it out along the thick black line.
+Click on the image below to download the PDF. Print it and cut out along the thick black line.
 
 [![](/images/mask/mask-template.png)](/images/mask/mask-template.pdf)
 
