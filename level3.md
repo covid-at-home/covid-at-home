@@ -75,7 +75,7 @@ Some possibly useful behaviors include:
 * Checking that the patient is warm enough in the extremities (e.g., cold feet?) and at night.
 * Setting up a fan to blow air in the patient's face can relax patients who are feeling breathless. Helping the patient breathe in a fresh breeze from an open window if possible can have the same effect. 
 * Reassure the patient that it is very likely that he or she will make a full recovery (which is true). Offer relaxation techniques (soothing music, humor, counting breaths). 
-* If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes (e.g., leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two). 
+* If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes. Positional changes include: [lying prone](https://www.ncbi.nlm.nih.gov/pubmed/22157493) -- flat with your chest down and back up; leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two. 
 * Keeping the illness diary (see below).
 
 ### Illness diary
