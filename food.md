@@ -9,6 +9,7 @@ This guide is intended to help readers who are:
 - **Trying to mix it up.** We all have to try new things under new conditions. While it's often said that fresh is best, there is no one kind of food or diet that is proven best over all others. One of the main findings of modern nutrition science has been that we don't really understand why traditional diets seem to work better than the more modern substitutes when we try to break them down into [magic-bullet vitamins](http://www.catherine-price.com/home1) and other constituent parts. Just eat real food, try a lot of things, and see what you like. 
 
 What this is not: 
+- General advice on staying healthy food-wise at different stages of possibly dealing with COVID-19, which is on the main page instead.
 - A standard list of emergency food rations, most of which are heavy on ultra-processed foods associated with bad physical and mental health outcomes. 
 - A guide to finding food if it is just flat-out scarce where you are. Hopefully that is not the case. We do not know how to advise you if it is. Maybe another situation where it couldn't hurt to have some of those big multi-vitamin pills that fizz into water. 
 - A list of recipes. There are plenty of those on the Internet. Think about what sounds good and look it up to see how someone else has already tried it. 
