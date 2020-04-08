@@ -10,9 +10,9 @@ Notice if you suffer anew from any of the following, most common first COVID-19 
 * Shortness of breath
 * Gastrointestinal symptoms
 
-Fever seems to be the most common symptom -- but it's not universal. [Early data](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) reported low incidence of gastrointestinal symptoms (diarrhea, nausea, vomiting, abdominal pain, loss of appetite). But [more recent evidence](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf) suggests they are common and can even precede respiratory symptoms. Initial symptoms may also include joint / muscle pain, headache, chills, dizziness, nasal congestion, and sore throat. Later in the infection, symptoms may include [loss of smell and taste](npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out) lasting for several days. 
+Fever seems to be the most common symptom -- but it's not universal. [Early data](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) showed that gastrointestinal symptoms (diarrhea, nausea, vomiting, abdominal pain, loss of appetite) were uncommon. But [more recent evidence](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf) suggests that they are common, and can even precede respiratory symptoms. Initial symptoms may also include joint / muscle pain, headache, chills, dizziness, nasal congestion, and sore throat. Later in the infection, symptoms may include [loss of smell and taste](npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out) lasting for several days. 
 
-However, common colds, flu, and allergies can also cause many of the same symptoms. In fact, nasal congestion, itchy eyes, and sneezing most likely indicate a condition other than COVID-19, such as allergies. There is no single unique COVID-19 sign or symptom. There is no way to know for sure whether you have COVID-19 without testing for it.
+However, common colds, flu, and allergies can also cause many of the same symptoms. In fact, nasal congestion, itchy eyes, and sneezing most likely indicate a condition other than COVID-19, such as allergies. There is no single, unique COVID-19 sign or symptom. There is no way to know for sure whether you have COVID-19 without testing for it.
 
 Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
 
@@ -20,7 +20,7 @@ Is COVID-19 spread in the community where you live? Or have you been to an affec
 
 ### If you don't have symptoms
 
-Some people may be exposed to, carry, and infect others with the virus -- without ever showing symptoms themselves. These people are asymptomatic carriers. They seem to be common; they may number around [one in four](https://www.theguardian.com/world/2020/apr/01/china-pivots-to-tackle-silent-covid-19-carriers-as-us-says-a-quarter-of-cases-may-have-no-symptoms) of those infected. Unless widespread testing is available where you are (which is currently a small minority of places), it may not be possible to determine if you are one of them. This is one of the reasons why everyone should currently be following the advice of public health authorities that generally includes social distancing measures covered in Level 1. 
+Some people may be exposed to, carry, and infect others with the virus -- without ever showing symptoms themselves. These people are asymptomatic carriers. They seem to be common; they may even number around [one in four](https://www.theguardian.com/world/2020/apr/01/china-pivots-to-tackle-silent-covid-19-carriers-as-us-says-a-quarter-of-cases-may-have-no-symptoms) of those infected. Unless widespread testing is available where you are (which is currently a small minority of places), it may not be possible to determine if you are one of them. This is one of the reasons why everyone should currently be following the advice of public health authorities that generally includes social distancing measures covered in Level 1. 
 
 ### If you have symptoms
 
@@ -36,9 +36,9 @@ As this point you need up-to-date local information. Your health authorities may
 
 You will want to know whether what you have is just a cold, a flu or actual COVID-19. There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines. If testing capacity is limited, you may not qualify for testing, even if you have all the symptoms of COVID-19. 
 
-You may find that the official information on getting tested doesn't always match the reality on the ground. It may be impossible to get through, the queues may be way too long or the waiting conditions unsafe. (You don't want to get COVID-19 from trying to find out if you have it.)
+You may find that the official information on getting tested doesn't always match the reality on the ground. It may be impossible to get through, the lines may be way too long, the waiting conditions may be unsafe. (You don't want to get COVID-19 from trying to find out if you have it.)
 
-In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places there are drive-throughs. There are also Do-It-Yourself test kits you can order by mail where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly help you further than to tell you to inform yourself as soon as you have isolated yourself.
+In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places, there are drive-throughs. There are also Do-It-Yourself test kits you can order by mail where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly help you further than to tell you to inform yourself as soon as you have isolated yourself.
 
 {{ site.data.tags.breakout.end }}
 
@@ -54,7 +54,7 @@ At the same time, some people will not be so lucky. Even if only a relatively sm
 
 The "Worried Well" is a medical term for people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
 
-Consider using relaxation techniques to slow a rapid respiration or heart rate that may be partially due to anxiety (or just to chill out): 
+Consider using relaxation techniques to slow a rapid breath or heart rate that may be partially due to anxiety (or just to chill out): 
 - Listen to soothing music.
 - Check in with a friend electronically.
 - See if you can slow your breathing and bring down your heart rate by counting longer for forceful exhaling than for gentle inhaling. Some people use 4-7-8, and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns. Use what feels best for you. 
@@ -65,11 +65,11 @@ Until tested and depending on where you are and where you have been, simply assu
 
 ### Garbage
 
-During this time at least, err on the side of caution when it comes to waste disposal. Used tissues, paper towels, and other possibly contaminated disposable items should be bagged in disposable trash bags, tied securely, and put aside for 72 hours prior to external disposal. Some municipalities also recommend placing these items in a second disposable trash bag. If you use communal garbage bins, disinfect the handles when possible before and after use. Wash your hands after handling trash and bins. 
+During this time at least, err on the side of caution when it comes to trash. Used tissues, paper towels, and other possibly contaminated disposable items should be bagged in disposable trash bags, tied securely, and put aside for 72 hours prior to external disposal. Some places also recommend putting these items in a second disposable trash bag. If you use communal garbage bins, disinfect the handles when possible before and after use. Wash your hands after handling trash and bins. 
 
 ### PPE
 
-Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one outdoors. You are not supposed to be outdoors when you have symptoms, we know. But we mean even just when putting out the trash. If you have no mask, at least do something. Make your own using our [mask-making template](https://covid-at-home.info/mask). Wrap a towel around your nose and mouth, breathe through a scarf, anything is better than nothing. Here are a few [recommendations for PPE](https://covid-at-home.info/shopping) in the context of the COVID-19 pandemic, summarized and expanded on briefly below: 
+Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one outdoors. You are not supposed to be outdoors when you have symptoms, we know. But we mean even just when taking out the trash. If you have no mask, at least do something. Make your own using our [mask-making template](https://covid-at-home.info/mask). Wrap a towel around your nose and mouth, breathe through a scarf, anything is better than nothing. Here are a few [recommendations for PPE](https://covid-at-home.info/shopping) in the context of the COVID-19 pandemic, summarized and expanded on briefly below: 
 
 - Use PPE if you are sick and have to be around other people, or if you feel well but have to be around someone who is sick (e.g., caring for someone). 
 - Use a high-filtration respirator like an N95, FFP2, or FFP3 if you can. Next-preferred would be a regular medical face mask (surgical or procedural). Then a home-made or improvised mask. Just use something. 
@@ -91,7 +91,7 @@ Seek up-to-date local information if you live with others. The authorities may p
 
 Here are some general suggestions and tips for dealing with family and flatmates if you have or suspect you may have COVID-19: 
 - **Self-quarantine from the outside...** Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine, too. 
-- **... and distance on the inside."** They should also keep the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. We know, it's weird and sometimes heartbreakingly hard. But this is a potentially lethal disease and the people close to you will (hopefully) understand. 
+- **... and distance on the inside.** They should also keep the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. We know, it's weird and sometimes heartbreakingly hard. But this is a potentially lethal disease and the people close to you will (hopefully) understand. 
 - **Clean the kitchen faucet.** Regularly clean all frequently touched surfaces (doorknobs, light switches, table surfaces, keyboards, phones, toilet handles if in shared bathrooms, kitchen faucet handles if in shared kitchens -- you get the idea) with a regular household cleaner (e.g., Lysol, Windex), hydrogen peroxide solution, or diluted bleach (10 ml / 2 tsp bleach with half a liter / 2 cups of water; carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. Give the cleaner a minute to work on surfaces before wiping it dry. 
 - **Consider PPE.** Your housemates might want to wear masks indoors, too. When they handle your trash or laundry, disposable gloves are also a good idea. 
 
@@ -122,7 +122,7 @@ Even when you are not that ill yet, it is much better to use glasses if you have
 - **Treat fever with care**. 
   - Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol if you can. 
   - Fever is part of the body's natural defenses. Research suggests [medicating fever less](https://www.ncbi.nlm.nih.gov/pubmed/16433601) rather than more aggressively is safer. This means medicating a temperature of over 40° Celsius (104° Farenheit) -- and not medicating a lower fever. 
-  - Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. 
+  - Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications (NSAIDs), as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. 
    - An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature -- and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating from your skin can help lower your temperature. 
 
 - **Keep eating**. Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. If you're not eating, maybe drink one of those big multi-vitamin pills that fizz into water. 
