@@ -146,8 +146,8 @@ Even when you are not that ill yet, it is much better to use glasses if you have
   - Sitting upright as much as possible to help fluids drain. Do not lie flat in bed all day. 
   - Getting up and moving periodically. Although you may be very tired (malaise) due to your illness, being upright and moving around can similarly help fluids drain. 
   - Expanding your lungs by breathing deeply (in and out), and raising your arms (up above your head and down again). 
-  - Opening the window and breathing the fresh air, especially if breathlessness (dyspnea) is bothering you. 
-  - Exercising your fuller lung capacity by blowing up a balloon every hour, using a peashooter, or using any other toy you might have on hand that exercises lung capacity). This is a particularly good idea if your breathing is fast and / or you are feeling breathless. Be gentle and patient with yourself. Focus on taking slow, deep breaths all the way in and all the way out, and remember lung capacity is like muscle strength: You can build it up by repeated exercise. Do 10 deep breaths every hour you're awake. 
+  - Opening the window and breathing the fresh air, especially if breathlessness is bothering you. 
+  - Exercising your fuller lung capacity by blowing up a balloon every hour, using a peashooter, or using any other toy you might have on hand that exercises lung capacity. This is a particularly good idea if your breathing is fast and / or you are feeling breathless. Be gentle and patient with yourself. Focus on taking slow, deep breaths all the way in and all the way out, and remember lung capacity is like muscle strength: You can build it up by repeated exercise. Do 10 deep breaths every hour you're awake. 
 
 ### Feeling better?
 
@@ -159,4 +159,4 @@ If your symptoms go away, that doesn't mean you should end your quarantine immed
 
 Absent of up-to-date local instructions from authorities, you should err on the side of safety and try to stay in isolation for a little longer than officially indicated. The [World Health Organization recommendation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is to **continue isolation for at least two weeks after symptoms disappear, even if you are no longer feeling sick**. 
 
-If you managed to get tested, yay! You now know that your body *(presumably, keep watching the latest science on this)* has built immunity. Which means that this thing is over for you, and, if you are young and healthy, also that you are a more logical choice to help your family and friends when they get sick. Depending on what state the world is in, you may want to inform your employer and others that might depend on you that you've had it, so they know you're immune.
+If you managed to get tested, yay! You now know that your body *(presumably, keep watching the latest science on this)* has built immunity. Which means that this thing is over for you, and, if you are young and healthy, also that you are a more logical choice to help your family and friends when they get sick. Depending on what state the world is in, you may want to inform your employer and others who might depend on you that you've had it, so they know you're immune.
