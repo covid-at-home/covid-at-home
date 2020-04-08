@@ -55,7 +55,7 @@ At the same time, some people will not be so lucky. Even if only a relatively sm
 The "Worried Well" is a medical term for people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
 
 Consider using relaxation techniques to slow a rapid breath or heart rate that may be partially due to anxiety (or just to chill out): 
-- Listen to soothing music.
+- Listen to calming music.
 - Check in with a friend electronically.
 - See if you can slow your breathing and bring down your heart rate by counting longer for forceful exhaling than for gentle inhaling. Some people use 4-7-8, and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns. Use what feels best for you. 
 
