@@ -58,7 +58,7 @@ Tell other people around you that you are really ill and are mostly in bed. Talk
 
 ### Others taking care of you
 
-If non-medical people are going to need to take care of you (or if you need to take care of someone who is ill), make sure adequate protection is used to the extent possible. At this point, patient and caregiver need to be closer together, so use all the protection you can have: raincoat, protective glasses / face shield, gloves. Train the proper procedures for putting these on and taking them off, going through that in your head over and over again.
+If non-medical people are going to need to take care of you (or if you need to take care of someone who is ill), make sure adequate protection is used to the extent possible. At this point, patient and caregiver need to be closer together, so use all the protection you can have: respirator / mask, protective gown / raincoat, protective glasses / face shield, gloves. Train the proper procedures for putting these on and taking them off, going through that in your head over and over again.
 
 From now on in this text, we will assume that you're the caregiver. Read ahead for signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient urgently needs expert medical care. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without a daily minimum, you're quickly in Level 4.
 
@@ -74,10 +74,10 @@ Some possibly useful behaviors include:
 * If the patient is not drinking or eating adequately, offer alternatives. E.g., if solid food is unappealing, what about soup, bouillon, or electrolyte solution? If hot drinks are unappealing, what about something cold, or vice-versa? If the patient can't feed himself / herself, could you spoon-feed him / her? 
 * Checking that the patient is warm enough in the extremities (e.g., cold feet?) and at night.
 * Setting up a fan to blow air in the patient's face can relax patients who are feeling breathless. Helping the patient breathe in a fresh breeze from an open window if possible can have the same effect. 
-* Reassure the patient that it is very likely that he or she will make a full recovery (which is true). Offer relaxation techniques (soothing music, humor, counting breaths). 
+* Reassure the patient that it is very likely that he or she will make a full recovery (which is true). Offer relaxation techniques (calming music, humor, counting breaths). 
 * If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes. Positional changes include: 
   * Leaning the chest forward a little or putting the arms and head down on a table while sitting with feet flat on the floor. 
-  * Sleeping on one side with a pillow between the knees, or on the back, elevating head elevated with a pillow or two. It is similarly a good idea to elevate the head of the bed for sleeping if possible. 
+  * Sleeping on one side with a pillow between the knees. Or, sleeping on the back, elevating the head with a pillow or two. It is similarly a good idea to elevate the head of the bed for sleeping if possible. 
   * [Lying prone](https://www.ncbi.nlm.nih.gov/pubmed/22157493) -- flat on stomach with chest down and back up -- often raises blood oxygen levels in patients with acute respiratory distress syndrome (ARDS). But it's usually uncomfortable and **not for infants or pregnant people**. Also make sure there's no fluffy pillow, mattress topping or blanket that can (partially) block air flow.
 * Keeping the illness diary (see below).
 
