@@ -115,9 +115,11 @@ We made a **[printable illness diary](/diary)** that you can use to write down a
 
 ### Contact lenses
 
-Even when you are not that ill yet, it is much better to use glasses if you have them, and stop routinely putting in contact lenses in the morning. You do not want to touch your eyes more than you have to because they may get [infected](https://icrcat.com/en/coronavirus-and-conjunctivitis/), and if and when you do get more ill, you do not want to risk forgetting that you have them in.
+Even when you are not that ill yet, it is much better to use glasses if you have them, and stop routinely putting in contact lenses in the morning. You do not want to touch your eyes more than you have to because they may get [infected](https://icrcat.com/en/coronavirus-and-conjunctivitis/). If and when you do get more ill, you do not want to risk forgetting that you have them in.
 
 ### Get healthy again
+
+- **Rest as much as you need to**. Tiredness is a common symptom. Let your body use its energy to fight for health. Do the bare minimum of everything else. 
 
 - **Treat fever with care**. 
   - Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol if you can. 
@@ -125,11 +127,11 @@ Even when you are not that ill yet, it is much better to use glasses if you have
   - Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications (NSAIDs), as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. 
    - An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature -- and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating from your skin can help lower your temperature. 
 
-- **Keep eating**. Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. If you're not eating, maybe drink one of those big multi-vitamin pills that fizz into water. 
+- **Keep eating**. Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamin-rich, unprocessed food like fresh vegetables and fruit. If you're not eating, maybe drink one of those big multi-vitamin pills that fizz into water. 
 
-- **Steam**. Inhale steam 3+ times a day. The best way to do this is with a [steam inhaler](https://covid-at-home.info/shopping), a device that outputs steam that is not too hot to breathe. A humidifier or shower also works. The older method many people know is to boil water in a pot and then put your head over it, under a dishtowel; just make sure you don't do damage with hot water or steam that's too hot to breathe. There are no miracle cures and this is no exception; it just helps your airways open and drain a bit better. 
+- **Steam**. Inhale steam daily. The best way to do this is with a [steam inhaler](https://covid-at-home.info/shopping), a device that outputs steam that is not too hot to breathe. A humidifier or shower also works. The older method many people know is to boil water in a pot and then put your head over it, under a dishtowel; just make sure you don't do damage with hot water or steam that's too hot to breathe. There are no miracle cures and this is no exception; it just helps your airways open and drain a bit better. 
 
-- **Keep moving**. Go for a daily walk in the fresh air and sunlight when possible, while keeping your safe distance from other people. 
+- **Keep moving**. Go for a daily walk in the fresh air and sunlight when possible, while keeping your safe distance from other people. Exceptions: You're too tired -- then rest! You're symptomatic and can't get out of your apartment building without coughing in the shared elevator -- stay home! 
 
 - **Keep drinking**. 
   - This is really key. Drinking enough fluids helps the lungs produce secretions, and helps those secretions it does produce be thin enough to potentially cough up. 
@@ -153,7 +155,7 @@ Even when you are not that ill yet, it is much better to use glasses if you have
 
 {{ site.data.tags.breakout.begin }}
 
-If your symptoms go away, that doesn't mean you should end your quarantine immediately. You need up-to-date local information again to see whether the authorities want you to register as healed, especially if you tested positive earlier. Depending on availability and local policy, you may need to be tested again. Your local health authorities may provide you with specific advice on what to do next. If so: follow it.
+If your symptoms go away, that doesn't mean you should end your quarantine immediately. You need up-to-date local information again to see whether the authorities want you to register as healed, especially if you tested positive earlier. Depending on availability and local policy, you may need to be tested again. Your local health authorities may provide you with specific advice on what to do next. If so: Follow it.
 
 {{ site.data.tags.breakout.end }}
 
