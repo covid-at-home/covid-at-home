@@ -7,7 +7,7 @@ languages:
 
 - title: English
   url: https://covid-at-home.info
-  github: https://github.com/covid-at-home/covid-at-home.github.io
+  github: https://github.com/covid-at-home/covid-at-home
   stats: https://stats.covid-at-home.info
   published: true
   
