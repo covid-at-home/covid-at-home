@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: covid-at-home/common
 title: COVID @ Home
 description: A collaborative guide to COVID-19 care
 url: https://covid-at-home.info

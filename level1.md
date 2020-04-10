@@ -39,7 +39,7 @@ Here you will need up-to-date local information. Walks outside may well be illeg
 
 ### Stay Healthy
 
-![](/images/situps.png)
+![](/assets/images/situps.png)
 
 On top of this, you can do things to stay as healthy as possible:
 

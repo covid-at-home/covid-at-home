@@ -14,11 +14,11 @@ Information on this website is provided for informational purposes only and is n
 
 As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. Whether the virus has caused total crisis where you are or not: It is time to think and prepare.
 
-![](/images/virus.png)
+![](/assets/images/virus.png)
 
 This guide is based on the assumption that in the coming months, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that doctors and hospitals are going to be very busy if not overloaded. We have to confront the possibility that some of the people who would normally be cared for under medical supervision might need to be cared for at home. We hope some of the information here will give you some confidence in dealing with this disease, which in and by itself will reduce the load on doctors and nurses who, from the looks of it, will be quite busy in weeks and months to come. At the same time, we hope to give you information that helps you tell when it is time to get professional medical help. Getting large amounts of people to get that balance right may make all the difference in the time to come.
 
-[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+[![](/assets/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
 &nbsp;
 

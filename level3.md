@@ -14,7 +14,7 @@ If you have no primary care doctor, you will need to seek up-to-date local infor
 
 ### Now that you are sick
 
-* **Rest**. At this point, rest is very important. Sleep as much as possible. At least in the beginning, you will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/images/covid-diary.pdf)). Put new sheets on the bed when you can, and make sure the old sheets are washed at 60° Celsius (140° Farenheit) or warmer.
+* **Rest**. At this point, rest is very important. Sleep as much as possible. At least in the beginning, you will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/assets/images/covid-diary.pdf)). Put new sheets on the bed when you can, and make sure the old sheets are washed at 60° Celsius (140° Farenheit) or warmer.
 * **Get fresh air**. Ventilate the room as often as possible. 
 * **Drink more water!** More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever. If you have a chronic condition that could worsen with excess fluids (e.g., heart failure or chronic kidney disease), consult a doctor. 
 * **Eat something**. Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
@@ -54,7 +54,7 @@ We are seeing this break down in places where there are a lot of cases, with som
 
 Tell other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be (at least partially) COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath -- which inevitably will also affect your ability to talk and think clearly. Everyone at this level, especially patients who live alone, should really have someone checking on them regularly, because the deterioration in respiratory function can be very fast, especially in the second week. 
 
-[](/images/sick-in-bed.png)
+[](/assets/images/sick-in-bed.png)
 
 ### Others taking care of you
 
@@ -83,7 +83,7 @@ Some possibly useful behaviors include:
 
 ### Illness diary
 
-As mentioned in the previous section, you might want to use this [printable form](/images/covid-diary.pdf), or make your own. 
+As mentioned in the previous section, you might want to use this [printable form](/assets/images/covid-diary.pdf), or make your own. 
 
 At this stage, measure the vital signs often, log them in the illness diary, and watch out especially for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness or rapid heart rate (drink more and eat something if you can), rapid breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), and a blue tint to fingertips or lips (cyanosis -- get fresh air, get warm, and check blood oxygenation if possible). 
 

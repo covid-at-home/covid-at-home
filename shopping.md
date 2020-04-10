@@ -33,7 +33,7 @@ If we included examples (generally on the German version of Amazon), this is not
 
 * **Fever thermometer** (2-10 EUR/USD) ([example](https://www.amazon.de/gp/product/B001NYHXYS))
 
-   > ![](/images/thermometer.png)
+   > ![](/assets/images/thermometer.png)
    > 
    > So important that you should probably check yours if it's been in the bathroom cabinet for ages. Is the battery still OK? It really doesn't hurt to have two, just in case. At 2-10 bucks, they make great gifts (and as they may be inserted in the bottom to get a more precise measurement, they may not be items you want to loan to someone.)
 
@@ -50,30 +50,30 @@ If we included examples (generally on the German version of Amazon), this is not
 ### Nice to have
 
 * **Pulse oxymeter** (20-25 EUR/USD) ([example](https://www.amazon.de/gp/product/B07P3ZS6L3))  **See note below!**
-   > ![](/images/pulse-oxi.png)
+   > ![](/assets/images/pulse-oxi.png)
    >
    > Little gadget that clips on your finger and shows the heart rate (which is also easy to measure in other ways) and the oxygen saturation in the blood (which is hard to measure any other way).
 
 * **Blood pressure meter** (20 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07KY867ZH))  **See note below!**
-   > ![](/images/blood-pressure.png)
+   > ![](/assets/images/blood-pressure.png)
    > 
    > There are simple tricks to see if someone's blood pressure is getting too low (see the main text on this site). However, it may be useful to be able to measure this more objectively, especially if you want to see / show a trend in the patient's blood pressure.<br>
    
    > **However... What you should NOT do:** *You should not buy one of these, measure blood pressure, find something on the Internet that has a "normal range," and panic if your blood pressure is higher or lower. Lots of people have high or low blood pressure, and stress has been known to raise blood pressure (and / or heart rate). While regularly high blood pressure certainly might be something you want to mention to your doctor when you are there anyway, IT IS NOT A PROBLEM THAT YOU WANT TO BOTHER DOCTORS WITH IN THE MIDDLE OF A PANDEMIC.*
    
 * **Incontinence / waterproof sheets** (20 EUR/USD or so) ([example](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) or [example](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
-   > ![](/images/sheet.png)
+   > ![](/assets/images/sheet.png)
    >
    > Sick people sometimes have accidents. You'll thank us. (In fact... Put two waterproof sheets on the bed, if it's still comfortable enough. Then removing the top layer in the middle of the night, if necessary, will hopefully be enough.)
 
 * **Steam inhaler** (25 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07SNQH6CZ))
-   > ![](/images/steam.png)
+   > ![](/assets/images/steam.png)
    >
    > Often sold as "face sauna" or whatever other names, they're just devices that output steam that is not too hot to breathe. Any other method that produces steam is also OK, just make sure you don't do damage with steam that's too hot. The device takes demineralized or distilled water ([example](https://www.amazon.de/gp/product/B07J5Y95MQ)), esp. in places where the tapwater is high in calcium. 
    > **Warning:** Warm, wet devices are also excellent means of spreading the virus around. Probably use for one sick person at a time, or at least clean meticulously. (It is not even advisable to share among people who are sick with the same thing at the same time, because it is possible that one person's viral load that happens to be higher could still adversely affect the other person.)
 
 * **Vitamins** (10 EUR/USD or so) ([example](https://www.amazon.de/dp/B07S63PCZK))
-   > ![](/images/multi-vitamin.png)
+   > ![](/assets/images/multi-vitamin.png)
    >
    > For when the patient doesn't eat (much) anymore but still drinks. Maybe take the big multi-vitamin pills that fizz into water, a couple of tubes of those. Try getting ones that contain roughly 1-2 times the daily recommended dose of all the vitamins and minerals they contain -- no crazy 1000% megadoses.
    
@@ -123,21 +123,21 @@ Under normal circumstances, most PPE is considered disposal, i.e., intended to b
 The best way to reuse PPE during this pandemic is probably to mark seven masks or sets of PPE -- one for each day of the week. Rotate them after wearing to sit in a clean place for a week. The virus should be dead after that period of time. There do not presently seem to be shortages of other PPE, but the same rotation decontamination strategy would apply. Alternately, if you need the mask(s) / respirator(s) decontaminated faster, bake them in the oven at 70° Celsius (around 160° Farenheit) for 30 minutes. For hard surfaces like face shields and goggles, normal disinfectant solutions like Windex should kill the virus. For soft surfaces like cotton masks, spraying or soaking with alcohol or diluted hydrogen peroxide should do the trick. It seems likely, however, that using heat, chemicals, or other, faster potential decontamination techniques will result in worse overall wear and tear on the PPE than rotating a weekly set in and out of a clean place. Less wear and tear means better-protecting PPE. 
 
 * **Medical mask, preferably N95** (a few EUR/USD)
-   > ![](/images/mask.png)
+   > ![](/assets/images/mask.png)
    > 
    > FFP2 or FFP3 respirators are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. Note that the respirators come in version with and without a valve. The valve (often a round plastic thingy) lets out the exhaled air unfiltered. This is fine if you're spraypainting, and it may be fine if you are protecting a known healthy person from a known sick person, but under no circumstances should the sick wear a version with a valve. 
 
 * **Face mask, hand-made** (20 EUR/USD for fabric, check if you need other supplies)
-   > ![](/images/mask-template.png)
+   > ![](/assets/images/mask-template.png)
    > 
    > Maybe you cannot find an N95, FFP2, FFP3, or regular medical mask for purchase at the moment. Hopefully that situation will not last, because everyone will have adequate PPE soon. But who knows? Just do something. You can still make your own mask using our [mask-making template](https://covid-at-home.info/facemask). Or wrap a scarf around your nose and mouth as needed. Something is better than nothing. 
 
 * **Gloves** (less than a EUR/USD) ([example](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/images/gloves.png)
+   > ![](/assets/images/gloves.png)
 
 * **Gown / raincoat** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07DFDFFRX))
 
    > Best is if you can find a long-sleeved, water-resistant gown. 
 
 * **Eye protection, goggles or face shield** (a few EUR/USD) ([example](https://www.amazon.de/dp/B002THV25Y))
-   > ![](/images/glasses.png)
+   > ![](/assets/images/glasses.png)
