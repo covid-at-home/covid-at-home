@@ -47,7 +47,7 @@ languages:
 - title: Nederlands
   english: Dutch
   url: https://covid-thuis.info
-  github: https://github.com/covid-thuis/covid-thuis.github.io
+  github: https://github.com/covid-at-home/covid-thuis
   stats: https://stats.covid-thuis.info
   published: true
 
