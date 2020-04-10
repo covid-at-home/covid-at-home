@@ -13,7 +13,7 @@ languages:
   
 - title: Česky
   english: Czech
-  url: https://covid-doma
+  url: https://covid-doma.info
   github: https://github.com/covid-at-home/covid-doma
   stats: https://stats.covid-doma.info
 
