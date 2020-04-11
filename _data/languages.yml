@@ -20,7 +20,7 @@ languages:
 - title: Deutsch
   english: German
   url: https://covid-zu-hause.info
-  github: https://github.com/covid-zu-hause/covid-zu-hause.github.io
+  github: https://github.com/covid-at-home/covid-zu-hause
   stats: https://stats.covid-zu-hause.info
   published: true
   
