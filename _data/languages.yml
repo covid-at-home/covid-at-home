@@ -40,7 +40,7 @@ languages:
 - title: Italiano
   english: Italian
   url: https://covid-a-casa.info
-  github: https://github.com/covid-a-casa/covid-a-casa.github.io
+  github: https://github.com/covid-at-home/covid-a-casa
   stats: https://stats.covid-a-casa.info
   published: true
 
@@ -61,7 +61,7 @@ languages:
 - title: Português
   english: Portuguese
   url: https://covid-em-casa.info
-  github: https://github.com/covid-em-casa/covid-em-casa.github.io
+  github: https://github.com/covid-at-home/covid-em-casa
   stats: https://stats.covid-em-casa.info
 
 - title: Română
