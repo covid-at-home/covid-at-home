@@ -34,7 +34,7 @@ languages:
 - title: Français
   english: French
   url: https://covid-chez-soi.info
-  github: https://github.com/covid-chez-soi/covid-chez-soi.github.io
+  github: https://github.com/covid-at-home/covid-chez-soi
   stats: https://stats.covid-chez-soi.info
 
 - title: Italiano
