@@ -27,7 +27,7 @@ languages:
 - title: Español
   english: Spanish
   url: https://covid-en-casa.info
-  github: https://github.com/covid-en-casa/covid-en-casa.github.io
+  github: https://github.com/covid-at-home/covid-en-casa
   stats: https://stats.covid-en-casa.info
   published: true
   
