@@ -54,7 +54,7 @@ languages:
 - title: Po Polsku
   english: Polish
   url: https://covid-w-domu.info
-  github: https://github.com/covid-w-domu/covid-w-domu.github.io
+  github: https://github.com/covid-at-home/covid-w-domu
   stats: https://stats.covid-w-domu.info
   published: true
 
