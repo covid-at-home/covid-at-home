@@ -59,3 +59,4 @@ This one is self-explanatory. If you notice the patient coughing up blood or blo
 ### Call for help
 
 When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, paramedics / emergency medical technicians, and doctors that you are not merely panicking for no reason, and will likely help get the patient the care he or she needs sooner.
+
