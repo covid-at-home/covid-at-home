@@ -67,6 +67,6 @@ languages:
 - title: Română
   english: Romanian
   url: https://covid-acasa.info
-  github: https://github.com/covid-acasa/covid-acasa.github.io
+  github: https://github.com/covid-at-home/covid-acasa
   stats: https://stats.covid-acasa.info
   published: true
