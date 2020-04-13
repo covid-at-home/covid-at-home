@@ -1,4 +1,12 @@
 {{site.data.tags.footnote.begin}}
-text.<br>
-text<br>
-text{{site.data.tags.footnote.end}}
+
+Conversely, [this article](https://www.qeios.com/read/article/561) claims to show that current smoking correlates with lower prevalence of COVID-19 in the US as well as COVID-19 hospitalization in China, and thus argues that quitting smoking should not be recommended to mitigate risk of hospitalization for COVID-19. However, there are several problems with its logic and methodology, most notably omission of the following possible biases: <br>
+
+1. Current smokers with COVID-19 may be likelier than non-smokers to have lung and cardiovascular problems that put them at heightned risk for more severe COVID-19 to the extent that they are at greater risk of dying in their homes. Data from several countries suggests COVID-19 deaths are probably being greatly undercounted due to undiagnosed people dying in their homes. This article only looks at hospitalizations, and so misses this probably large number of deaths in homes. <br> 
+
+2. There is a well-established "teetotaler bias" in which people with more health problems seem to be more likely to quit drinking altogether than to continue drinking moderately. This makes tetotaling look risky in terms of health outcomes, until you account for the fact that it is sicker people who are quitting drinking to begin with. Smoking could work the same way here, so that non-smokers appear more likely to end up hospitalized with COVID-19 than their prevalence in the Chinese general population would suggest. But part of what is really going on is probably that people who are more sick are more likely to quit smoking and more likely to then be hospitalized with COVID-19. <br>
+
+3. Smoking in China skews rural, so a lower than expected smoking rate in hospitalized city Chinese COVID-19 patients wouldn't be surprising. The article fails to account for this rural-urban bias in Chinese smoking rates. <br>
+
+These three biases probably all matter, along with others, skewing the data analyzed in this essay so that a naïve analysis suggests smoking protects against COVID-19 hospitalization -- when it is really a risk factor for precisely the sorts of respiratory and cardiovascular problems that are risk factors for more severe COVID-19. Moreover, the article cites a [systematic review](http://www.tobaccoinduceddiseases.org/COVID-19-and-smoking-A-systematic-review-of-the-evidence,119324,0,2.html) including five studies that found the opposite of what it finds: "although further research is warranted as the weight of the evidence increases, with the limited available data, and although the above results are unadjusted for other factors that may impact disease progression, smoking is most likely associated with the negative progression and adverse outcomes of COVID-19." The authors do not account for that discrepancy.<br>
+Overall, the evidence that quitting smoking is a particularly good idea in the context of the current global pandemic is sufficient for public health experts to continue recommending it. {{site.data.tags.footnote.end}}
