@@ -1,14 +1,14 @@
 ## Shopping list
 
-The standard advice is to have about 2-4 weeks of essentials like groceries and other basic household supplies in case of emergencies such as this (a global pandemic). Basically you want to have a surplus of what you normally have on hand, but with some emphasis on longer shelf-life foods, for sheltering in place. You will also want to think about some things you might not normally have on hand, namely, other supplies (e.g., fever thermometer) and personal protective equipment (PPE; e,g, mask and gloves). 
+The standard advice is to have about 2-4 weeks of essentials like groceries and other basic household supplies in case of emergencies such as this (a pandemic). Basically you want to have a surplus of what you normally have on hand, but with some emphasis on longer shelf-life foods, for sheltering in place. You will also want to think about some things you might not normally have on hand, namely, simple medical supplies (e.g., fever thermometer) and personal protective equipment ("PPE"; e,g, mask and gloves). 
 
 ### Food
 
-Your diet will likely change due to changed food availability (e.g., fewer grocery store runs or deliveries in favor of staying home or limiting contact, no more restaurants. But in most countries at this time (and probably for some time to come), you can likely still enjoy much the same sort of diverse and nutritious diet you had access to previously. Here are a few [suggestions and tips](/food) for keeping 2-4 weeks' worth of healthy food that you like on-hand. See the main page for more general advice on staying healthy food-wise.
+Your diet will likely change due to changed food availability (e.g., fewer grocery store runs or deliveries in favor of staying home or limiting contact; no more restaurants). But in most countries at this time (and probably for some time to come), you can likely still enjoy much the same sort of diverse and nutritious diet you had access to previously. Here are a few [suggestions and tips](/food) for keeping 2-4 weeks' worth of healthy food that you like on-hand. See the main page for more general advice on staying healthy food-wise.
    
 ### Household supplies
 
-Everyone and their brother has already thought to stock up on toilet paper, infamously leading to shortages and even social unrest (from organized crime to public brawling) in various places worldwide. Don't be that person. Maybe when it comes to things that you know may be in short supply due to panic buying (like toilet paper), only buy a little bit every week. Share with your neighbors if you have it and they don't. Things will be crazy throughout this crisis from time to time, but people all over the world are using the opportunity to ask the people around them what they need -- and that kind of kindness builds the strength and resilience that we all need to get through this thing together. 
+Everyone and their brother has already thought to stock up on toilet paper, infamously leading to shortages and even social unrest (from organized crime to public brawling) in various places worldwide. Maybe when it comes to things you know may be in short supply due to panic buying (like toilet paper), only buy a little bit every week. Share with your neighbors if you have it and they don't. Things will be crazy throughout this crisis from time to time, but people all over the world are using the opportunity to ask the people around them what they need -- and that kind of kindness builds the strength and resilience that we all need to get through this thing together. 
 
 That said, it probably makes sense to have a back-up of your regular household essentials. That means different things to different people, but common items to keep a back-up of in case of emergency include:
 - Laundry detergent. You can buy liquid laundry detergent to wash things in the sink or tub/shower if you don't have a washing machine. In a pinch (or for delicates like underwear), dish or hand soap works as well. Just use something; it's not a good time to go to the laundromat. 
@@ -17,13 +17,13 @@ That said, it probably makes sense to have a back-up of your regular household e
 - Hand soap and moisturizer / petroleum jelly. All that hand-washing really takes a toll on the skin! 
 - Toothpaste, floss, mouthwash, anything else you need for good oral hygiene. (It's not a good time to need a dentist.) 
 - Paper towels, antiseptic wipes, bathroom wet wipes, tissues. 
-- Cleaning supplies. Disposable paper towels and spray glass cleaner or really any other type of cleaner that cuts oil (dish soapy water, shower cleaner, diluted bleach or hydrogen peroxide) should kill the virus by dissolving its lipid (fat) membrane and thus rendering it inactive, while containing the contaminated cleaning materials safely inside your garbage bag. Here's a fuller [list](https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/). 
+- Cleaning supplies. Disposable paper towels and spray glass cleaner or really any other type of cleaner that cuts oil (dish soapy water, shower cleaner, diluted bleach or hydrogen peroxide) -- any of these works by dissolving the virus's lipid (fat) membrane. This inactivates it. Contain contaminated cleaning materials safely inside your garbage bag. Here's a fuller [list](https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/). 
 - Pads, tampons, condoms, whatever else you need to stay clean and safe. 
 - Disposable garbage bags. Not a good thing to run out of when you're sick and will need to dispose of your tissues safely eventually! 
 
 ### Other supplies
 
-In addition to having approximately 2-4 weeks of essentials, here are some necessary and handy things to have if you are going to be taking care of someone with COVID-19. None of this is very expensive or requires special training to use. 
+In addition to having around 2-4 weeks of essentials, here are some other things you might want or need to have if you are going to be taking care of someone with COVID-19. None of this is very expensive or requires special training to use. 
 
 If we included examples (generally on the German version of Amazon), this is not a buying recommendation and we are not making any money if you click that precise one (or any other). By showing you the example, we mean nothing more than *"something like this."* Use whatever online or retail channel you like to get something similar. 
 
@@ -43,7 +43,7 @@ If we included examples (generally on the German version of Amazon), this is not
    
 * **Paracetamol (also known as acetaminophen, Tylenol or Panadol)**
 
-  > The fever supressant and painkiller of choice. Make sure you follow the packaging instructions and stay within the maximum recommended daily dose. 
+  > The fever supressant and painkiller of choice. Make sure you follow the packaging instructions and stay at or under the recommended daily dose. 
 
 &nbsp;
 
@@ -70,7 +70,7 @@ If we included examples (generally on the German version of Amazon), this is not
    > ![](/assets/images/steam.png)
    >
    > Often sold as "face sauna" or whatever other names, they're just devices that output steam that is not too hot to breathe. Any other method that produces steam is also OK, just make sure you don't do damage with steam that's too hot. The device takes demineralized or distilled water ([example](https://www.amazon.de/gp/product/B07J5Y95MQ)), esp. in places where the tapwater is high in calcium. 
-   > **Warning:** Warm, wet devices are also excellent means of spreading the virus around. Probably use for one sick person at a time, or at least clean meticulously. (It is not even advisable to share among people who are sick with the same thing at the same time, because it is possible that one person's viral load that happens to be higher could still adversely affect the other person.)
+   > **Warning:** Warm, wet devices are also excellent means of spreading the virus around. Probably use for one sick person at a time, or at least clean meticulously. (It is not even advisable to share among people who are sick with the same thing at the same time, because exposure to one person's viral load that happens to be higher might still harm the other person.)
 
 * **Vitamins** (10 EUR/USD or so) ([example](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/assets/images/multi-vitamin.png)
@@ -80,7 +80,7 @@ If we included examples (generally on the German version of Amazon), this is not
 
 #### Important Note
 
-A note on the first two items: some medical professionals we talk to feel the non-medically trained will do more harm or good when they start taking SpO2 or blood pressure measurements. We include the devices here because they are in common use and we feel that in some places, during some periods, the health system is not going to be able to cope with the numbers of people falling ill, and we tip the balance towards the advantages in being able to see/show trends.
+A note on the first two items: Some medical professionals we talk to feel the non-medically trained will do more harm than good when they start taking SpO2 or blood pressure measurements. We include the devices here because they are in common use and we feel that in some places, during some periods, the health system is not going to be able to cope with the numbers of people falling ill. The advantages of being able to see / show trends tip the balance. 
 
 If you do decide you want to be able to measure blood pressure and SpO2, then at least properly familiarize yourself with the device. Practise! Also to get a good feel for what normal values in you and your loved ones look like before anyone gets sick. Read our guidance on the main page on when **and when not** to seek help based on the information they provide.
 
@@ -98,15 +98,22 @@ Third, some people have been panic-buying and some companies have been price-gou
 
 #### When to use PPE
 
-The World Health Organization offers public advice on [when to wear a mask and how to use masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). You should wear a mask if you are ill with known or suspected COVID-19 (fever, cough, shortness of breath) but _absolutely_have_to_ go out; this protects other people. Wear one whenever you are in the same room with someone who is ill with known or suspected COVID-19; this is even mandatory in some countries' COVID-19 quarantine home care protocols. If you live somewhere with additional requirements such as wearing a mask in public, your government will let you know. Check under what circumstances authorities will provide you with masks. If you are in a special risk group for COVID-19 severity, then it probably also makes sense to wear a mask when you go out (if you have to go out) while the pandemic is ongoing. Similarly, if you are in a group that has more probable exposure, such as healthcare workers, teachers, or grocery store clerks, then it probably makes sense to treat yourself as a potential asymptomatic carrier, and wear a mask in public to protect others. Increasingly the general consensus is that it is at least altruistic (and in some places, mandatory) to cover your nose and mouth when you go out in public in order to protect not just yourself from getting infected, but others from the possibility that you might be asymptomatic and infect them. See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
+The World Health Organization offers public advice on [when to wear a mask and how to use masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). 
 
-Studies have shown that high-filtration respirators like the N95 work best to prevent respiratory disease transmission, followed by high-filtration surgical masks, and then low-filtration surgical masks. Research also shows that a home-made mask is better than no mask at all when it comes to filtering potentially dangerous particulate. So if you cannot find a respirator or mask, try [making one yourself](https://www.instructables.com/id/DIY-Cloth-Face-Mask/). 
+When to wear a mask:
+* You should wear a mask if you are ill with known or suspected COVID-19 (fever, cough, shortness of breath) but **absolutely have to** go out; this protects other people. 
+* Wear one whenever you are in the same room with someone who is ill with known or suspected COVID-19. This is even mandatory in some countries' COVID-19 quarantine home care protocols. 
+* If you live somewhere with additional requirements such as everyone wearing a mask in public, your government will let you know. Check under what circumstances authorities will provide you with masks. 
+* If you are in a special risk group for COVID-19 severity, then it probably also makes sense to wear a mask when you go out (if you have to go out) while the pandemic is ongoing. 
+* Similarly, if you are in a group that has more probable exposure, such as healthcare workers, teachers, or grocery store clerks, then it probably makes sense to treat yourself as a potential asymptomatic carrier, and wear a mask in public to protect others. Covering your nose and mouth when you go out in public protects not just you from getting infected, but also protects others from the possibility that you might be asymptomatic and infect them. See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
 
-If you do nothing but wear a mask when appropriate and practice good hand hygiene, for most people, that's most of the PPE battle. But in addition to this, it makes sense to wear gloves when taking out the trash, as that involves touching objects like doorknobs and trash receptacle lids that are especially likely to transmit disease because many people touch them. Wearing gloves also makes sense when caring for someone who is ill. Gowns, caps, and eye protection probably only make sense for healthcare workers and people caring for someone with COVID-19 at home. Healthcare workers and others with particularly high exposures may even need to take additional PPE precautions where possible, like double-gowning, because worse initial exposures may be associated with worse disease outcomes (perhaps by causing higher starting viral loads). 
+Studies have shown that high-filtration respirators like the N95 work best to prevent respiratory disease transmission, followed by high-filtration surgical masks, and then low-filtration surgical masks. Research also shows that a home-made mask is better than no mask at all when it comes to filtering potentially dangerous particulate. So if you cannot find a respirator or mask, try [making one yourself](https://covid-at-home.info/facemask). 
+
+If you do nothing but wear a mask when appropriate and practice good hand hygiene, for most people, that's most of the PPE battle. But in addition to this, it makes sense to wear gloves when taking out the trash, as that involves touching objects like doorknobs and trash receptacle lids that are especially likely to pass on disease-causing microbes because many people touch them. Wearing gloves also makes sense when caring for someone who is ill. Gowns, caps, and eye protection probably only make sense for healthcare workers and people caring for someone with COVID-19 at home. Healthcare workers and others with particularly high exposures may even need to take additional PPE precautions where possible, like double-gowning, because worse initial exposures may be associated with worse disease outcomes (maybe by causing higher starting viral loads that then grow exponentially). 
 
 #### How to fit it properly
 
-Much PPE is one-size-fits all (such as caps) or sized in large category chunks like small, medium, and large (such as gloves and gowns). Respirators are the hardest piece of PPE to fit. Take the time to look up some [videos on how to](https://www.youtube.com/results?search_query=how+to+fit+a+respirator+mask) properly mold one to your face with your fingers, covering your nose and cheekbones closely. Don't squeeze the bridge. Mask and respirator fit are especially important for keeping potentially dangerous particulate out (in the case of going out in public or taking care of patients) or in (in case you are ill, or an asymptomatic carrier). 
+Much PPE is one-size-fits all (such as caps) or sized in categories like small, medium, and large (such as gloves and gowns). Respirators are the hardest piece of PPE to fit. Take the time to look up some [videos on how to](https://www.youtube.com/results?search_query=how+to+fit+a+respirator+mask) properly mold one to your face with your fingers, covering your nose and cheekbones closely. Don't squeeze the bridge. Mask and respirator fit are especially important for keeping potentially dangerous particulate out (in the case of going out in public or taking care of patients) or in (in case you are ill, or an asymptomatic carrier). 
 
 #### How to safely don and doff it
 
