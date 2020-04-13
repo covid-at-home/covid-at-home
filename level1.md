@@ -2,7 +2,7 @@
 
 ### Don't Get Infected - And Don't Infect Others
 
-You might feel fine. But the virus can spread before you show symptoms. Some people can spread it without ever showing symptoms. Follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
+You might feel fine. But the virus can spread before you show symptoms. Some people can spread it without ever showing symptoms. Some people might have more severe disease after more significant exposures due to increased initial viral load, so it's worth preventing more exposures even if you think you were already exposed. Overall, follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
 
 #### Stay home
 * Work and study from home when possible.
