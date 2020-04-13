@@ -1,5 +1,4 @@
 {{site.data.tags.footnote.begin}}
-
-smoking footnote content here
-
-{{site.data.tags.footnote.end}}
+text.<br>
+text<br>
+text{{site.data.tags.footnote.end}}
