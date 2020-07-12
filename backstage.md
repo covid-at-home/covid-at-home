@@ -10,11 +10,6 @@ Language |  |  |
 {% endfor %}**blog** | [site](https://blog.covid-at-home.info) | [GitHub](https://github.com/covid-at-home/blog/tree/master/_posts) | [stats](https://blog-covid-at-home.goatcounter.com/)
 **common** |   | [GitHub](https://github.com/covid-at-home/common) | 
 
-### Other links to our things
-
-* [video chat](https://meet.rawmushroom.com/covid)
-* [twitter](https://twitter.com/covid_at_home)
-
 ### Resources
 
 * CCC CERT - [Informationssammlung zum Thema CoVid-19](https://github.com/cwoomi/cert-covid19)
